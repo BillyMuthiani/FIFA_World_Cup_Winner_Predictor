@@ -1,0 +1,626 @@
+year,tournament_id,team_name,matches_played,goals_for,goals_against,wins,draws,losses,goal_diff,win_rate,tournament_winner,best_player,best_player_team,golden_boot,golden_boot_team,young_player,young_player_team,won_tournament
+1930,WC-1930,Argentina,5,18,9,4,0,1,9,0.8,Uruguay,,,Guillermo Stábile,Argentina,,,False
+1930,WC-1930,Belgium,2,0,4,0,0,2,-4,0.0,Uruguay,,,Guillermo Stábile,Argentina,,,False
+1930,WC-1930,Bolivia,2,0,8,0,0,2,-8,0.0,Uruguay,,,Guillermo Stábile,Argentina,,,False
+1930,WC-1930,Brazil,2,5,2,1,0,1,3,0.5,Uruguay,,,Guillermo Stábile,Argentina,,,False
+1930,WC-1930,Chile,3,5,3,2,0,1,2,0.667,Uruguay,,,Guillermo Stábile,Argentina,,,False
+1930,WC-1930,France,3,4,3,1,0,2,1,0.333,Uruguay,,,Guillermo Stábile,Argentina,,,False
+1930,WC-1930,Mexico,3,4,13,0,0,3,-9,0.0,Uruguay,,,Guillermo Stábile,Argentina,,,False
+1930,WC-1930,Paraguay,2,1,3,1,0,1,-2,0.5,Uruguay,,,Guillermo Stábile,Argentina,,,False
+1930,WC-1930,Peru,2,1,4,0,0,2,-3,0.0,Uruguay,,,Guillermo Stábile,Argentina,,,False
+1930,WC-1930,Romania,2,3,5,1,0,1,-2,0.5,Uruguay,,,Guillermo Stábile,Argentina,,,False
+1930,WC-1930,United States,3,7,6,2,0,1,1,0.667,Uruguay,,,Guillermo Stábile,Argentina,,,False
+1930,WC-1930,Uruguay,4,15,3,4,0,0,12,1.0,Uruguay,,,Guillermo Stábile,Argentina,,,True
+1930,WC-1930,Yugoslavia,3,7,7,2,0,1,0,0.667,Uruguay,,,Guillermo Stábile,Argentina,,,False
+1934,WC-1934,Argentina,1,2,3,0,0,1,-1,0.0,Italy,,,Oldřich Nejedlý,Czechoslovakia,,,False
+1934,WC-1934,Austria,4,7,7,2,0,2,0,0.5,Italy,,,Oldřich Nejedlý,Czechoslovakia,,,False
+1934,WC-1934,Belgium,1,2,5,0,0,1,-3,0.0,Italy,,,Oldřich Nejedlý,Czechoslovakia,,,False
+1934,WC-1934,Brazil,1,1,3,0,0,1,-2,0.0,Italy,,,Oldřich Nejedlý,Czechoslovakia,,,False
+1934,WC-1934,Czechoslovakia,4,9,6,3,0,1,3,0.75,Italy,,,Oldřich Nejedlý,Czechoslovakia,,,False
+1934,WC-1934,Egypt,1,2,4,0,0,1,-2,0.0,Italy,,,Oldřich Nejedlý,Czechoslovakia,,,False
+1934,WC-1934,France,1,2,3,0,0,1,-1,0.0,Italy,,,Oldřich Nejedlý,Czechoslovakia,,,False
+1934,WC-1934,Germany,4,11,8,3,0,1,3,0.75,Italy,,,Oldřich Nejedlý,Czechoslovakia,,,False
+1934,WC-1934,Hungary,2,5,4,1,0,1,1,0.5,Italy,,,Oldřich Nejedlý,Czechoslovakia,,,False
+1934,WC-1934,Italy,5,12,3,4,1,0,9,0.8,Italy,,,Oldřich Nejedlý,Czechoslovakia,,,True
+1934,WC-1934,Netherlands,1,2,3,0,0,1,-1,0.0,Italy,,,Oldřich Nejedlý,Czechoslovakia,,,False
+1934,WC-1934,Romania,1,1,2,0,0,1,-1,0.0,Italy,,,Oldřich Nejedlý,Czechoslovakia,,,False
+1934,WC-1934,Spain,3,4,3,1,1,1,1,0.333,Italy,,,Oldřich Nejedlý,Czechoslovakia,,,False
+1934,WC-1934,Sweden,2,4,4,1,0,1,0,0.5,Italy,,,Oldřich Nejedlý,Czechoslovakia,,,False
+1934,WC-1934,Switzerland,2,5,5,1,0,1,0,0.5,Italy,,,Oldřich Nejedlý,Czechoslovakia,,,False
+1934,WC-1934,United States,1,1,7,0,0,1,-6,0.0,Italy,,,Oldřich Nejedlý,Czechoslovakia,,,False
+1938,WC-1938,Belgium,1,1,3,0,0,1,-2,0.0,Italy,,,Leônidas,Brazil,,,False
+1938,WC-1938,Brazil,5,14,11,3,1,1,3,0.6,Italy,,,Leônidas,Brazil,,,False
+1938,WC-1938,Cuba,3,5,12,1,1,1,-7,0.333,Italy,,,Leônidas,Brazil,,,False
+1938,WC-1938,Czechoslovakia,3,5,3,1,1,1,2,0.333,Italy,,,Leônidas,Brazil,,,False
+1938,WC-1938,Dutch East Indies,1,0,6,0,0,1,-6,0.0,Italy,,,Leônidas,Brazil,,,False
+1938,WC-1938,France,2,4,4,1,0,1,0,0.5,Italy,,,Leônidas,Brazil,,,False
+1938,WC-1938,Germany,2,3,5,0,1,1,-2,0.0,Italy,,,Leônidas,Brazil,,,False
+1938,WC-1938,Hungary,4,15,5,3,0,1,10,0.75,Italy,,,Leônidas,Brazil,,,False
+1938,WC-1938,Italy,4,11,5,4,0,0,6,1.0,Italy,,,Leônidas,Brazil,,,True
+1938,WC-1938,Netherlands,1,0,3,0,0,1,-3,0.0,Italy,,,Leônidas,Brazil,,,False
+1938,WC-1938,Norway,1,1,2,0,0,1,-1,0.0,Italy,,,Leônidas,Brazil,,,False
+1938,WC-1938,Poland,1,5,6,0,0,1,-1,0.0,Italy,,,Leônidas,Brazil,,,False
+1938,WC-1938,Romania,2,4,5,0,1,1,-1,0.0,Italy,,,Leônidas,Brazil,,,False
+1938,WC-1938,Sweden,3,11,9,1,0,2,2,0.333,Italy,,,Leônidas,Brazil,,,False
+1938,WC-1938,Switzerland,3,5,5,1,1,1,0,0.333,Italy,,,Leônidas,Brazil,,,False
+1950,WC-1950,Bolivia,1,0,8,0,0,1,-8,0.0,Uruguay,,,Ademir,Brazil,,,False
+1950,WC-1950,Brazil,6,22,6,4,1,1,16,0.667,Uruguay,,,Ademir,Brazil,,,False
+1950,WC-1950,Chile,3,5,6,1,0,2,-1,0.333,Uruguay,,,Ademir,Brazil,,,False
+1950,WC-1950,England,3,2,2,1,0,2,0,0.333,Uruguay,,,Ademir,Brazil,,,False
+1950,WC-1950,Italy,2,4,3,1,0,1,1,0.5,Uruguay,,,Ademir,Brazil,,,False
+1950,WC-1950,Mexico,3,2,10,0,0,3,-8,0.0,Uruguay,,,Ademir,Brazil,,,False
+1950,WC-1950,Paraguay,2,2,4,0,1,1,-2,0.0,Uruguay,,,Ademir,Brazil,,,False
+1950,WC-1950,Spain,6,10,12,3,1,2,-2,0.5,Uruguay,,,Ademir,Brazil,,,False
+1950,WC-1950,Sweden,5,11,15,2,1,2,-4,0.4,Uruguay,,,Ademir,Brazil,,,False
+1950,WC-1950,Switzerland,3,4,6,1,1,1,-2,0.333,Uruguay,,,Ademir,Brazil,,,False
+1950,WC-1950,United States,3,4,8,1,0,2,-4,0.333,Uruguay,,,Ademir,Brazil,,,False
+1950,WC-1950,Uruguay,4,15,5,3,1,0,10,0.75,Uruguay,,,Ademir,Brazil,,,True
+1950,WC-1950,Yugoslavia,3,7,3,2,0,1,4,0.667,Uruguay,,,Ademir,Brazil,,,False
+1954,WC-1954,Austria,5,17,12,4,0,1,5,0.8,West Germany,,,Sándor Kocsis,Hungary,,,False
+1954,WC-1954,Belgium,2,5,8,0,1,1,-3,0.0,West Germany,,,Sándor Kocsis,Hungary,,,False
+1954,WC-1954,Brazil,3,8,5,1,1,1,3,0.333,West Germany,,,Sándor Kocsis,Hungary,,,False
+1954,WC-1954,Czechoslovakia,2,0,7,0,0,2,-7,0.0,West Germany,,,Sándor Kocsis,Hungary,,,False
+1954,WC-1954,England,3,8,8,1,1,1,0,0.333,West Germany,,,Sándor Kocsis,Hungary,,,False
+1954,WC-1954,France,2,3,3,1,0,1,0,0.5,West Germany,,,Sándor Kocsis,Hungary,,,False
+1954,WC-1954,Hungary,5,27,10,4,0,1,17,0.8,West Germany,,,Sándor Kocsis,Hungary,,,False
+1954,WC-1954,Italy,3,6,7,1,0,2,-1,0.333,West Germany,,,Sándor Kocsis,Hungary,,,False
+1954,WC-1954,Mexico,2,2,8,0,0,2,-6,0.0,West Germany,,,Sándor Kocsis,Hungary,,,False
+1954,WC-1954,Scotland,2,0,8,0,0,2,-8,0.0,West Germany,,,Sándor Kocsis,Hungary,,,False
+1954,WC-1954,South Korea,2,0,16,0,0,2,-16,0.0,West Germany,,,Sándor Kocsis,Hungary,,,False
+1954,WC-1954,Switzerland,4,11,11,2,0,2,0,0.5,West Germany,,,Sándor Kocsis,Hungary,,,False
+1954,WC-1954,Turkey,3,10,11,1,0,2,-1,0.333,West Germany,,,Sándor Kocsis,Hungary,,,False
+1954,WC-1954,Uruguay,5,16,9,3,0,2,7,0.6,West Germany,,,Sándor Kocsis,Hungary,,,False
+1954,WC-1954,West Germany,6,25,14,5,0,1,11,0.833,West Germany,,,Sándor Kocsis,Hungary,,,True
+1954,WC-1954,Yugoslavia,3,2,3,1,1,1,-1,0.333,West Germany,,,Sándor Kocsis,Hungary,,,False
+1958,WC-1958,Argentina,3,5,10,1,0,2,-5,0.333,Brazil,,,Just Fontaine,France,Pelé,Brazil,False
+1958,WC-1958,Austria,3,2,7,0,1,2,-5,0.0,Brazil,,,Just Fontaine,France,Pelé,Brazil,False
+1958,WC-1958,Brazil,6,16,4,5,1,0,12,0.833,Brazil,,,Just Fontaine,France,Pelé,Brazil,True
+1958,WC-1958,Czechoslovakia,4,9,6,1,1,2,3,0.25,Brazil,,,Just Fontaine,France,Pelé,Brazil,False
+1958,WC-1958,England,4,4,5,0,3,1,-1,0.0,Brazil,,,Just Fontaine,France,Pelé,Brazil,False
+1958,WC-1958,France,6,23,15,4,0,2,8,0.667,Brazil,,,Just Fontaine,France,Pelé,Brazil,False
+1958,WC-1958,Hungary,4,7,5,1,1,2,2,0.25,Brazil,,,Just Fontaine,France,Pelé,Brazil,False
+1958,WC-1958,Mexico,3,1,8,0,1,2,-7,0.0,Brazil,,,Just Fontaine,France,Pelé,Brazil,False
+1958,WC-1958,Northern Ireland,5,6,10,2,1,2,-4,0.4,Brazil,,,Just Fontaine,France,Pelé,Brazil,False
+1958,WC-1958,Paraguay,3,9,12,1,1,1,-3,0.333,Brazil,,,Just Fontaine,France,Pelé,Brazil,False
+1958,WC-1958,Scotland,3,4,6,0,1,2,-2,0.0,Brazil,,,Just Fontaine,France,Pelé,Brazil,False
+1958,WC-1958,Soviet Union,5,5,6,2,1,2,-1,0.4,Brazil,,,Just Fontaine,France,Pelé,Brazil,False
+1958,WC-1958,Sweden,6,12,7,4,1,1,5,0.667,Brazil,,,Just Fontaine,France,Pelé,Brazil,False
+1958,WC-1958,Wales,5,4,4,1,3,1,0,0.2,Brazil,,,Just Fontaine,France,Pelé,Brazil,False
+1958,WC-1958,West Germany,6,12,14,2,2,2,-2,0.333,Brazil,,,Just Fontaine,France,Pelé,Brazil,False
+1958,WC-1958,Yugoslavia,4,7,7,1,2,1,0,0.25,Brazil,,,Just Fontaine,France,Pelé,Brazil,False
+1962,WC-1962,Argentina,3,2,3,1,1,1,-1,0.333,Brazil,,,Flórián Albert,Hungary,Flórián Albert,Hungary,False
+1962,WC-1962,Brazil,6,14,5,5,1,0,9,0.833,Brazil,,,Flórián Albert,Hungary,Flórián Albert,Hungary,True
+1962,WC-1962,Bulgaria,3,1,7,0,1,2,-6,0.0,Brazil,,,Flórián Albert,Hungary,Flórián Albert,Hungary,False
+1962,WC-1962,Chile,6,10,8,4,0,2,2,0.667,Brazil,,,Flórián Albert,Hungary,Flórián Albert,Hungary,False
+1962,WC-1962,Colombia,3,5,11,0,1,2,-6,0.0,Brazil,,,Flórián Albert,Hungary,Flórián Albert,Hungary,False
+1962,WC-1962,Czechoslovakia,6,7,7,3,1,2,0,0.5,Brazil,,,Flórián Albert,Hungary,Flórián Albert,Hungary,False
+1962,WC-1962,England,4,5,6,1,1,2,-1,0.25,Brazil,,,Flórián Albert,Hungary,Flórián Albert,Hungary,False
+1962,WC-1962,Hungary,4,8,3,2,1,1,5,0.5,Brazil,,,Flórián Albert,Hungary,Flórián Albert,Hungary,False
+1962,WC-1962,Italy,3,3,2,1,1,1,1,0.333,Brazil,,,Flórián Albert,Hungary,Flórián Albert,Hungary,False
+1962,WC-1962,Mexico,3,3,4,1,0,2,-1,0.333,Brazil,,,Flórián Albert,Hungary,Flórián Albert,Hungary,False
+1962,WC-1962,Soviet Union,4,9,7,2,1,1,2,0.5,Brazil,,,Flórián Albert,Hungary,Flórián Albert,Hungary,False
+1962,WC-1962,Spain,3,2,3,1,0,2,-1,0.333,Brazil,,,Flórián Albert,Hungary,Flórián Albert,Hungary,False
+1962,WC-1962,Switzerland,3,2,8,0,0,3,-6,0.0,Brazil,,,Flórián Albert,Hungary,Flórián Albert,Hungary,False
+1962,WC-1962,Uruguay,3,4,6,1,0,2,-2,0.333,Brazil,,,Flórián Albert,Hungary,Flórián Albert,Hungary,False
+1962,WC-1962,West Germany,4,4,2,2,1,1,2,0.5,Brazil,,,Flórián Albert,Hungary,Flórián Albert,Hungary,False
+1962,WC-1962,Yugoslavia,6,10,7,3,0,3,3,0.5,Brazil,,,Flórián Albert,Hungary,Flórián Albert,Hungary,False
+1966,WC-1966,Argentina,4,4,2,2,1,1,2,0.5,England,,,Eusébio,Portugal,Franz Beckenbauer,West Germany,False
+1966,WC-1966,Brazil,3,4,6,1,0,2,-2,0.333,England,,,Eusébio,Portugal,Franz Beckenbauer,West Germany,False
+1966,WC-1966,Bulgaria,3,1,8,0,0,3,-7,0.0,England,,,Eusébio,Portugal,Franz Beckenbauer,West Germany,False
+1966,WC-1966,Chile,3,2,5,0,1,2,-3,0.0,England,,,Eusébio,Portugal,Franz Beckenbauer,West Germany,False
+1966,WC-1966,England,6,11,3,5,1,0,8,0.833,England,,,Eusébio,Portugal,Franz Beckenbauer,West Germany,True
+1966,WC-1966,France,3,2,5,0,1,2,-3,0.0,England,,,Eusébio,Portugal,Franz Beckenbauer,West Germany,False
+1966,WC-1966,Hungary,4,8,7,2,0,2,1,0.5,England,,,Eusébio,Portugal,Franz Beckenbauer,West Germany,False
+1966,WC-1966,Italy,3,2,2,1,0,2,0,0.333,England,,,Eusébio,Portugal,Franz Beckenbauer,West Germany,False
+1966,WC-1966,Mexico,3,1,3,0,2,1,-2,0.0,England,,,Eusébio,Portugal,Franz Beckenbauer,West Germany,False
+1966,WC-1966,North Korea,4,5,9,1,1,2,-4,0.25,England,,,Eusébio,Portugal,Franz Beckenbauer,West Germany,False
+1966,WC-1966,Portugal,6,17,8,5,0,1,9,0.833,England,,,Eusébio,Portugal,Franz Beckenbauer,West Germany,False
+1966,WC-1966,Soviet Union,6,10,6,4,0,2,4,0.667,England,,,Eusébio,Portugal,Franz Beckenbauer,West Germany,False
+1966,WC-1966,Spain,3,4,5,1,0,2,-1,0.333,England,,,Eusébio,Portugal,Franz Beckenbauer,West Germany,False
+1966,WC-1966,Switzerland,3,1,9,0,0,3,-8,0.0,England,,,Eusébio,Portugal,Franz Beckenbauer,West Germany,False
+1966,WC-1966,Uruguay,4,2,5,1,2,1,-3,0.25,England,,,Eusébio,Portugal,Franz Beckenbauer,West Germany,False
+1966,WC-1966,West Germany,6,15,6,4,1,1,9,0.667,England,,,Eusébio,Portugal,Franz Beckenbauer,West Germany,False
+1970,WC-1970,Belgium,3,4,5,1,0,2,-1,0.333,Brazil,,,Gerd Müller,West Germany,Teófilo Cubillas,Peru,False
+1970,WC-1970,Brazil,6,19,7,6,0,0,12,1.0,Brazil,,,Gerd Müller,West Germany,Teófilo Cubillas,Peru,True
+1970,WC-1970,Bulgaria,3,5,9,0,1,2,-4,0.0,Brazil,,,Gerd Müller,West Germany,Teófilo Cubillas,Peru,False
+1970,WC-1970,Czechoslovakia,3,2,7,0,0,3,-5,0.0,Brazil,,,Gerd Müller,West Germany,Teófilo Cubillas,Peru,False
+1970,WC-1970,El Salvador,3,0,9,0,0,3,-9,0.0,Brazil,,,Gerd Müller,West Germany,Teófilo Cubillas,Peru,False
+1970,WC-1970,England,4,4,4,2,0,2,0,0.5,Brazil,,,Gerd Müller,West Germany,Teófilo Cubillas,Peru,False
+1970,WC-1970,Israel,3,1,3,0,2,1,-2,0.0,Brazil,,,Gerd Müller,West Germany,Teófilo Cubillas,Peru,False
+1970,WC-1970,Italy,6,10,8,3,2,1,2,0.5,Brazil,,,Gerd Müller,West Germany,Teófilo Cubillas,Peru,False
+1970,WC-1970,Mexico,4,6,4,2,1,1,2,0.5,Brazil,,,Gerd Müller,West Germany,Teófilo Cubillas,Peru,False
+1970,WC-1970,Morocco,3,2,6,0,1,2,-4,0.0,Brazil,,,Gerd Müller,West Germany,Teófilo Cubillas,Peru,False
+1970,WC-1970,Peru,4,9,9,2,0,2,0,0.5,Brazil,,,Gerd Müller,West Germany,Teófilo Cubillas,Peru,False
+1970,WC-1970,Romania,3,4,5,1,0,2,-1,0.333,Brazil,,,Gerd Müller,West Germany,Teófilo Cubillas,Peru,False
+1970,WC-1970,Soviet Union,4,6,2,2,1,1,4,0.5,Brazil,,,Gerd Müller,West Germany,Teófilo Cubillas,Peru,False
+1970,WC-1970,Sweden,3,2,2,1,1,1,0,0.333,Brazil,,,Gerd Müller,West Germany,Teófilo Cubillas,Peru,False
+1970,WC-1970,Uruguay,6,4,5,2,1,3,-1,0.333,Brazil,,,Gerd Müller,West Germany,Teófilo Cubillas,Peru,False
+1970,WC-1970,West Germany,6,17,10,5,0,1,7,0.833,Brazil,,,Gerd Müller,West Germany,Teófilo Cubillas,Peru,False
+1974,WC-1974,Argentina,6,9,12,1,2,3,-3,0.167,West Germany,,,Grzegorz Lato,Poland,Władysław Żmuda,Poland,False
+1974,WC-1974,Australia,3,0,5,0,1,2,-5,0.0,West Germany,,,Grzegorz Lato,Poland,Władysław Żmuda,Poland,False
+1974,WC-1974,Brazil,7,6,4,3,2,2,2,0.429,West Germany,,,Grzegorz Lato,Poland,Władysław Żmuda,Poland,False
+1974,WC-1974,Bulgaria,3,2,5,0,2,1,-3,0.0,West Germany,,,Grzegorz Lato,Poland,Władysław Żmuda,Poland,False
+1974,WC-1974,Chile,3,1,2,0,2,1,-1,0.0,West Germany,,,Grzegorz Lato,Poland,Władysław Żmuda,Poland,False
+1974,WC-1974,East Germany,6,5,5,2,2,2,0,0.333,West Germany,,,Grzegorz Lato,Poland,Władysław Żmuda,Poland,False
+1974,WC-1974,Haiti,3,2,14,0,0,3,-12,0.0,West Germany,,,Grzegorz Lato,Poland,Władysław Żmuda,Poland,False
+1974,WC-1974,Italy,3,5,4,1,1,1,1,0.333,West Germany,,,Grzegorz Lato,Poland,Władysław Żmuda,Poland,False
+1974,WC-1974,Netherlands,7,15,3,5,1,1,12,0.714,West Germany,,,Grzegorz Lato,Poland,Władysław Żmuda,Poland,False
+1974,WC-1974,Poland,7,16,5,6,0,1,11,0.857,West Germany,,,Grzegorz Lato,Poland,Władysław Żmuda,Poland,False
+1974,WC-1974,Scotland,3,3,1,1,2,0,2,0.333,West Germany,,,Grzegorz Lato,Poland,Władysław Żmuda,Poland,False
+1974,WC-1974,Sweden,6,7,6,2,2,2,1,0.333,West Germany,,,Grzegorz Lato,Poland,Władysław Żmuda,Poland,False
+1974,WC-1974,Uruguay,3,1,6,0,1,2,-5,0.0,West Germany,,,Grzegorz Lato,Poland,Władysław Żmuda,Poland,False
+1974,WC-1974,West Germany,7,13,4,6,0,1,9,0.857,West Germany,,,Grzegorz Lato,Poland,Władysław Żmuda,Poland,True
+1974,WC-1974,Yugoslavia,6,12,7,1,2,3,5,0.167,West Germany,,,Grzegorz Lato,Poland,Władysław Żmuda,Poland,False
+1974,WC-1974,Zaire,3,0,14,0,0,3,-14,0.0,West Germany,,,Grzegorz Lato,Poland,Władysław Żmuda,Poland,False
+1978,WC-1978,Argentina,7,15,4,5,1,1,11,0.714,Argentina,Mario Kempes,Argentina,Mario Kempes,Argentina,Antonio Cabrini,Italy,True
+1978,WC-1978,Austria,6,7,10,3,0,3,-3,0.5,Argentina,Mario Kempes,Argentina,Mario Kempes,Argentina,Antonio Cabrini,Italy,False
+1978,WC-1978,Brazil,7,10,3,4,3,0,7,0.571,Argentina,Mario Kempes,Argentina,Mario Kempes,Argentina,Antonio Cabrini,Italy,False
+1978,WC-1978,France,3,5,5,1,0,2,0,0.333,Argentina,Mario Kempes,Argentina,Mario Kempes,Argentina,Antonio Cabrini,Italy,False
+1978,WC-1978,Hungary,3,3,8,0,0,3,-5,0.0,Argentina,Mario Kempes,Argentina,Mario Kempes,Argentina,Antonio Cabrini,Italy,False
+1978,WC-1978,Iran,3,2,8,0,1,2,-6,0.0,Argentina,Mario Kempes,Argentina,Mario Kempes,Argentina,Antonio Cabrini,Italy,False
+1978,WC-1978,Italy,7,9,6,4,1,2,3,0.571,Argentina,Mario Kempes,Argentina,Mario Kempes,Argentina,Antonio Cabrini,Italy,False
+1978,WC-1978,Mexico,3,2,12,0,0,3,-10,0.0,Argentina,Mario Kempes,Argentina,Mario Kempes,Argentina,Antonio Cabrini,Italy,False
+1978,WC-1978,Netherlands,7,15,10,3,2,2,5,0.429,Argentina,Mario Kempes,Argentina,Mario Kempes,Argentina,Antonio Cabrini,Italy,False
+1978,WC-1978,Peru,6,7,12,2,1,3,-5,0.333,Argentina,Mario Kempes,Argentina,Mario Kempes,Argentina,Antonio Cabrini,Italy,False
+1978,WC-1978,Poland,6,6,6,3,1,2,0,0.5,Argentina,Mario Kempes,Argentina,Mario Kempes,Argentina,Antonio Cabrini,Italy,False
+1978,WC-1978,Scotland,3,5,6,1,1,1,-1,0.333,Argentina,Mario Kempes,Argentina,Mario Kempes,Argentina,Antonio Cabrini,Italy,False
+1978,WC-1978,Spain,3,2,2,1,1,1,0,0.333,Argentina,Mario Kempes,Argentina,Mario Kempes,Argentina,Antonio Cabrini,Italy,False
+1978,WC-1978,Sweden,3,1,3,0,1,2,-2,0.0,Argentina,Mario Kempes,Argentina,Mario Kempes,Argentina,Antonio Cabrini,Italy,False
+1978,WC-1978,Tunisia,3,3,2,1,1,1,1,0.333,Argentina,Mario Kempes,Argentina,Mario Kempes,Argentina,Antonio Cabrini,Italy,False
+1978,WC-1978,West Germany,6,10,5,1,4,1,5,0.167,Argentina,Mario Kempes,Argentina,Mario Kempes,Argentina,Antonio Cabrini,Italy,False
+1982,WC-1982,Algeria,3,5,5,2,0,1,0,0.667,Italy,Paolo Rossi,Italy,Paolo Rossi,Italy,Manuel Amoros,France,False
+1982,WC-1982,Argentina,5,8,7,2,0,3,1,0.4,Italy,Paolo Rossi,Italy,Paolo Rossi,Italy,Manuel Amoros,France,False
+1982,WC-1982,Austria,5,5,4,2,1,2,1,0.4,Italy,Paolo Rossi,Italy,Paolo Rossi,Italy,Manuel Amoros,France,False
+1982,WC-1982,Belgium,5,3,5,2,1,2,-2,0.4,Italy,Paolo Rossi,Italy,Paolo Rossi,Italy,Manuel Amoros,France,False
+1982,WC-1982,Brazil,5,15,6,4,0,1,9,0.8,Italy,Paolo Rossi,Italy,Paolo Rossi,Italy,Manuel Amoros,France,False
+1982,WC-1982,Cameroon,3,1,1,0,3,0,0,0.0,Italy,Paolo Rossi,Italy,Paolo Rossi,Italy,Manuel Amoros,France,False
+1982,WC-1982,Chile,3,3,8,0,0,3,-5,0.0,Italy,Paolo Rossi,Italy,Paolo Rossi,Italy,Manuel Amoros,France,False
+1982,WC-1982,Czechoslovakia,3,2,4,0,2,1,-2,0.0,Italy,Paolo Rossi,Italy,Paolo Rossi,Italy,Manuel Amoros,France,False
+1982,WC-1982,El Salvador,3,1,13,0,0,3,-12,0.0,Italy,Paolo Rossi,Italy,Paolo Rossi,Italy,Manuel Amoros,France,False
+1982,WC-1982,England,5,6,1,3,2,0,5,0.6,Italy,Paolo Rossi,Italy,Paolo Rossi,Italy,Manuel Amoros,France,False
+1982,WC-1982,France,7,16,12,3,1,3,4,0.429,Italy,Paolo Rossi,Italy,Paolo Rossi,Italy,Manuel Amoros,France,False
+1982,WC-1982,Honduras,3,2,3,0,2,1,-1,0.0,Italy,Paolo Rossi,Italy,Paolo Rossi,Italy,Manuel Amoros,France,False
+1982,WC-1982,Hungary,3,12,6,1,1,1,6,0.333,Italy,Paolo Rossi,Italy,Paolo Rossi,Italy,Manuel Amoros,France,False
+1982,WC-1982,Italy,7,12,6,4,3,0,6,0.571,Italy,Paolo Rossi,Italy,Paolo Rossi,Italy,Manuel Amoros,France,True
+1982,WC-1982,Kuwait,3,2,6,0,1,2,-4,0.0,Italy,Paolo Rossi,Italy,Paolo Rossi,Italy,Manuel Amoros,France,False
+1982,WC-1982,New Zealand,3,2,12,0,0,3,-10,0.0,Italy,Paolo Rossi,Italy,Paolo Rossi,Italy,Manuel Amoros,France,False
+1982,WC-1982,Northern Ireland,5,5,7,1,3,1,-2,0.2,Italy,Paolo Rossi,Italy,Paolo Rossi,Italy,Manuel Amoros,France,False
+1982,WC-1982,Peru,3,2,6,0,2,1,-4,0.0,Italy,Paolo Rossi,Italy,Paolo Rossi,Italy,Manuel Amoros,France,False
+1982,WC-1982,Poland,7,11,5,3,3,1,6,0.429,Italy,Paolo Rossi,Italy,Paolo Rossi,Italy,Manuel Amoros,France,False
+1982,WC-1982,Scotland,3,8,8,1,1,1,0,0.333,Italy,Paolo Rossi,Italy,Paolo Rossi,Italy,Manuel Amoros,France,False
+1982,WC-1982,Soviet Union,5,7,4,2,2,1,3,0.4,Italy,Paolo Rossi,Italy,Paolo Rossi,Italy,Manuel Amoros,France,False
+1982,WC-1982,Spain,5,4,5,1,2,2,-1,0.2,Italy,Paolo Rossi,Italy,Paolo Rossi,Italy,Manuel Amoros,France,False
+1982,WC-1982,West Germany,7,12,10,4,1,2,2,0.571,Italy,Paolo Rossi,Italy,Paolo Rossi,Italy,Manuel Amoros,France,False
+1982,WC-1982,Yugoslavia,3,2,2,1,1,1,0,0.333,Italy,Paolo Rossi,Italy,Paolo Rossi,Italy,Manuel Amoros,France,False
+1986,WC-1986,Algeria,3,1,5,0,1,2,-4,0.0,Argentina,Diego Maradona,Argentina,Gary Lineker,England,Enzo Scifo,Belgium,False
+1986,WC-1986,Argentina,7,14,5,6,1,0,9,0.857,Argentina,Diego Maradona,Argentina,Gary Lineker,England,Enzo Scifo,Belgium,True
+1986,WC-1986,Belgium,7,12,15,3,1,3,-3,0.429,Argentina,Diego Maradona,Argentina,Gary Lineker,England,Enzo Scifo,Belgium,False
+1986,WC-1986,Brazil,5,10,1,4,0,1,9,0.8,Argentina,Diego Maradona,Argentina,Gary Lineker,England,Enzo Scifo,Belgium,False
+1986,WC-1986,Bulgaria,4,2,6,0,2,2,-4,0.0,Argentina,Diego Maradona,Argentina,Gary Lineker,England,Enzo Scifo,Belgium,False
+1986,WC-1986,Canada,3,0,5,0,0,3,-5,0.0,Argentina,Diego Maradona,Argentina,Gary Lineker,England,Enzo Scifo,Belgium,False
+1986,WC-1986,Denmark,4,10,6,3,0,1,4,0.75,Argentina,Diego Maradona,Argentina,Gary Lineker,England,Enzo Scifo,Belgium,False
+1986,WC-1986,England,5,7,3,2,1,2,4,0.4,Argentina,Diego Maradona,Argentina,Gary Lineker,England,Enzo Scifo,Belgium,False
+1986,WC-1986,France,7,12,6,5,1,1,6,0.714,Argentina,Diego Maradona,Argentina,Gary Lineker,England,Enzo Scifo,Belgium,False
+1986,WC-1986,Hungary,3,2,9,1,0,2,-7,0.333,Argentina,Diego Maradona,Argentina,Gary Lineker,England,Enzo Scifo,Belgium,False
+1986,WC-1986,Iraq,3,1,4,0,0,3,-3,0.0,Argentina,Diego Maradona,Argentina,Gary Lineker,England,Enzo Scifo,Belgium,False
+1986,WC-1986,Italy,4,5,6,1,2,1,-1,0.25,Argentina,Diego Maradona,Argentina,Gary Lineker,England,Enzo Scifo,Belgium,False
+1986,WC-1986,Mexico,5,6,2,3,1,1,4,0.6,Argentina,Diego Maradona,Argentina,Gary Lineker,England,Enzo Scifo,Belgium,False
+1986,WC-1986,Morocco,4,3,2,1,2,1,1,0.25,Argentina,Diego Maradona,Argentina,Gary Lineker,England,Enzo Scifo,Belgium,False
+1986,WC-1986,Northern Ireland,3,2,6,0,1,2,-4,0.0,Argentina,Diego Maradona,Argentina,Gary Lineker,England,Enzo Scifo,Belgium,False
+1986,WC-1986,Paraguay,4,4,6,1,2,1,-2,0.25,Argentina,Diego Maradona,Argentina,Gary Lineker,England,Enzo Scifo,Belgium,False
+1986,WC-1986,Poland,4,1,7,1,1,2,-6,0.25,Argentina,Diego Maradona,Argentina,Gary Lineker,England,Enzo Scifo,Belgium,False
+1986,WC-1986,Portugal,3,2,4,1,0,2,-2,0.333,Argentina,Diego Maradona,Argentina,Gary Lineker,England,Enzo Scifo,Belgium,False
+1986,WC-1986,Scotland,3,1,3,0,1,2,-2,0.0,Argentina,Diego Maradona,Argentina,Gary Lineker,England,Enzo Scifo,Belgium,False
+1986,WC-1986,South Korea,3,4,7,0,1,2,-3,0.0,Argentina,Diego Maradona,Argentina,Gary Lineker,England,Enzo Scifo,Belgium,False
+1986,WC-1986,Soviet Union,4,12,5,2,1,1,7,0.5,Argentina,Diego Maradona,Argentina,Gary Lineker,England,Enzo Scifo,Belgium,False
+1986,WC-1986,Spain,5,11,4,3,0,2,7,0.6,Argentina,Diego Maradona,Argentina,Gary Lineker,England,Enzo Scifo,Belgium,False
+1986,WC-1986,Uruguay,4,2,8,0,2,2,-6,0.0,Argentina,Diego Maradona,Argentina,Gary Lineker,England,Enzo Scifo,Belgium,False
+1986,WC-1986,West Germany,7,8,7,4,1,2,1,0.571,Argentina,Diego Maradona,Argentina,Gary Lineker,England,Enzo Scifo,Belgium,False
+1990,WC-1990,Argentina,7,5,4,4,1,2,1,0.571,West Germany,Salvatore Schillaci,Italy,Salvatore Schillaci,Italy,Robert Prosinečki,Yugoslavia,False
+1990,WC-1990,Austria,3,2,3,1,0,2,-1,0.333,West Germany,Salvatore Schillaci,Italy,Salvatore Schillaci,Italy,Robert Prosinečki,Yugoslavia,False
+1990,WC-1990,Belgium,4,6,4,2,0,2,2,0.5,West Germany,Salvatore Schillaci,Italy,Salvatore Schillaci,Italy,Robert Prosinečki,Yugoslavia,False
+1990,WC-1990,Brazil,4,4,2,3,0,1,2,0.75,West Germany,Salvatore Schillaci,Italy,Salvatore Schillaci,Italy,Robert Prosinečki,Yugoslavia,False
+1990,WC-1990,Cameroon,5,7,9,3,0,2,-2,0.6,West Germany,Salvatore Schillaci,Italy,Salvatore Schillaci,Italy,Robert Prosinečki,Yugoslavia,False
+1990,WC-1990,Colombia,4,4,4,1,1,2,0,0.25,West Germany,Salvatore Schillaci,Italy,Salvatore Schillaci,Italy,Robert Prosinečki,Yugoslavia,False
+1990,WC-1990,Costa Rica,4,4,6,2,0,2,-2,0.5,West Germany,Salvatore Schillaci,Italy,Salvatore Schillaci,Italy,Robert Prosinečki,Yugoslavia,False
+1990,WC-1990,Czechoslovakia,5,10,5,3,0,2,5,0.6,West Germany,Salvatore Schillaci,Italy,Salvatore Schillaci,Italy,Robert Prosinečki,Yugoslavia,False
+1990,WC-1990,Egypt,3,1,2,0,2,1,-1,0.0,West Germany,Salvatore Schillaci,Italy,Salvatore Schillaci,Italy,Robert Prosinečki,Yugoslavia,False
+1990,WC-1990,England,7,8,6,3,2,2,2,0.429,West Germany,Salvatore Schillaci,Italy,Salvatore Schillaci,Italy,Robert Prosinečki,Yugoslavia,False
+1990,WC-1990,Italy,7,10,2,6,0,1,8,0.857,West Germany,Salvatore Schillaci,Italy,Salvatore Schillaci,Italy,Robert Prosinečki,Yugoslavia,False
+1990,WC-1990,Netherlands,4,3,4,0,3,1,-1,0.0,West Germany,Salvatore Schillaci,Italy,Salvatore Schillaci,Italy,Robert Prosinečki,Yugoslavia,False
+1990,WC-1990,Republic of Ireland,5,2,3,1,3,1,-1,0.2,West Germany,Salvatore Schillaci,Italy,Salvatore Schillaci,Italy,Robert Prosinečki,Yugoslavia,False
+1990,WC-1990,Romania,4,4,3,1,1,2,1,0.25,West Germany,Salvatore Schillaci,Italy,Salvatore Schillaci,Italy,Robert Prosinečki,Yugoslavia,False
+1990,WC-1990,Scotland,3,2,3,1,0,2,-1,0.333,West Germany,Salvatore Schillaci,Italy,Salvatore Schillaci,Italy,Robert Prosinečki,Yugoslavia,False
+1990,WC-1990,South Korea,3,1,6,0,0,3,-5,0.0,West Germany,Salvatore Schillaci,Italy,Salvatore Schillaci,Italy,Robert Prosinečki,Yugoslavia,False
+1990,WC-1990,Soviet Union,3,4,4,1,0,2,0,0.333,West Germany,Salvatore Schillaci,Italy,Salvatore Schillaci,Italy,Robert Prosinečki,Yugoslavia,False
+1990,WC-1990,Spain,4,6,4,2,1,1,2,0.5,West Germany,Salvatore Schillaci,Italy,Salvatore Schillaci,Italy,Robert Prosinečki,Yugoslavia,False
+1990,WC-1990,Sweden,3,3,6,0,0,3,-3,0.0,West Germany,Salvatore Schillaci,Italy,Salvatore Schillaci,Italy,Robert Prosinečki,Yugoslavia,False
+1990,WC-1990,United Arab Emirates,3,2,11,0,0,3,-9,0.0,West Germany,Salvatore Schillaci,Italy,Salvatore Schillaci,Italy,Robert Prosinečki,Yugoslavia,False
+1990,WC-1990,United States,3,2,8,0,0,3,-6,0.0,West Germany,Salvatore Schillaci,Italy,Salvatore Schillaci,Italy,Robert Prosinečki,Yugoslavia,False
+1990,WC-1990,Uruguay,4,2,5,1,1,2,-3,0.25,West Germany,Salvatore Schillaci,Italy,Salvatore Schillaci,Italy,Robert Prosinečki,Yugoslavia,False
+1990,WC-1990,West Germany,7,15,5,6,1,0,10,0.857,West Germany,Salvatore Schillaci,Italy,Salvatore Schillaci,Italy,Robert Prosinečki,Yugoslavia,True
+1990,WC-1990,Yugoslavia,5,8,6,3,0,2,2,0.6,West Germany,Salvatore Schillaci,Italy,Salvatore Schillaci,Italy,Robert Prosinečki,Yugoslavia,False
+1991,WC-1991,Brazil,3,1,7,1,0,2,-6,0.333,United States,Carin Jennings-Gabarra,United States,Michelle Akers,United States,,,False
+1991,WC-1991,China,4,10,4,2,1,1,6,0.5,United States,Carin Jennings-Gabarra,United States,Michelle Akers,United States,,,False
+1991,WC-1991,Chinese Taipei,4,2,15,1,0,3,-13,0.25,United States,Carin Jennings-Gabarra,United States,Michelle Akers,United States,,,False
+1991,WC-1991,Denmark,4,7,6,1,1,2,1,0.25,United States,Carin Jennings-Gabarra,United States,Michelle Akers,United States,,,False
+1991,WC-1991,Germany,6,13,10,4,0,2,3,0.667,United States,Carin Jennings-Gabarra,United States,Michelle Akers,United States,,,False
+1991,WC-1991,Italy,4,8,5,2,0,2,3,0.5,United States,Carin Jennings-Gabarra,United States,Michelle Akers,United States,,,False
+1991,WC-1991,Japan,3,0,12,0,0,3,-12,0.0,United States,Carin Jennings-Gabarra,United States,Michelle Akers,United States,,,False
+1991,WC-1991,New Zealand,3,1,11,0,0,3,-10,0.0,United States,Carin Jennings-Gabarra,United States,Michelle Akers,United States,,,False
+1991,WC-1991,Nigeria,3,0,7,0,0,3,-7,0.0,United States,Carin Jennings-Gabarra,United States,Michelle Akers,United States,,,False
+1991,WC-1991,Norway,6,14,10,4,0,2,4,0.667,United States,Carin Jennings-Gabarra,United States,Michelle Akers,United States,,,False
+1991,WC-1991,Sweden,6,18,7,4,0,2,11,0.667,United States,Carin Jennings-Gabarra,United States,Michelle Akers,United States,,,False
+1991,WC-1991,United States,6,25,5,6,0,0,20,1.0,United States,Carin Jennings-Gabarra,United States,Michelle Akers,United States,,,True
+1994,WC-1994,Argentina,4,8,6,2,0,2,2,0.5,Brazil,Romário,Brazil,Oleg Salenko,Russia,Marc Overmars,Netherlands,False
+1994,WC-1994,Belgium,4,4,4,2,0,2,0,0.5,Brazil,Romário,Brazil,Oleg Salenko,Russia,Marc Overmars,Netherlands,False
+1994,WC-1994,Bolivia,3,1,4,0,1,2,-3,0.0,Brazil,Romário,Brazil,Oleg Salenko,Russia,Marc Overmars,Netherlands,False
+1994,WC-1994,Brazil,7,11,3,6,1,0,8,0.857,Brazil,Romário,Brazil,Oleg Salenko,Russia,Marc Overmars,Netherlands,True
+1994,WC-1994,Bulgaria,7,10,11,4,0,3,-1,0.571,Brazil,Romário,Brazil,Oleg Salenko,Russia,Marc Overmars,Netherlands,False
+1994,WC-1994,Cameroon,3,3,11,0,1,2,-8,0.0,Brazil,Romário,Brazil,Oleg Salenko,Russia,Marc Overmars,Netherlands,False
+1994,WC-1994,Colombia,3,4,5,1,0,2,-1,0.333,Brazil,Romário,Brazil,Oleg Salenko,Russia,Marc Overmars,Netherlands,False
+1994,WC-1994,Germany,5,9,7,3,1,1,2,0.6,Brazil,Romário,Brazil,Oleg Salenko,Russia,Marc Overmars,Netherlands,False
+1994,WC-1994,Greece,3,0,10,0,0,3,-10,0.0,Brazil,Romário,Brazil,Oleg Salenko,Russia,Marc Overmars,Netherlands,False
+1994,WC-1994,Italy,7,8,5,4,1,2,3,0.571,Brazil,Romário,Brazil,Oleg Salenko,Russia,Marc Overmars,Netherlands,False
+1994,WC-1994,Mexico,4,4,4,1,1,2,0,0.25,Brazil,Romário,Brazil,Oleg Salenko,Russia,Marc Overmars,Netherlands,False
+1994,WC-1994,Morocco,3,2,5,0,0,3,-3,0.0,Brazil,Romário,Brazil,Oleg Salenko,Russia,Marc Overmars,Netherlands,False
+1994,WC-1994,Netherlands,5,8,6,3,0,2,2,0.6,Brazil,Romário,Brazil,Oleg Salenko,Russia,Marc Overmars,Netherlands,False
+1994,WC-1994,Nigeria,4,7,4,2,0,2,3,0.5,Brazil,Romário,Brazil,Oleg Salenko,Russia,Marc Overmars,Netherlands,False
+1994,WC-1994,Norway,3,1,1,1,1,1,0,0.333,Brazil,Romário,Brazil,Oleg Salenko,Russia,Marc Overmars,Netherlands,False
+1994,WC-1994,Republic of Ireland,4,2,4,1,1,2,-2,0.25,Brazil,Romário,Brazil,Oleg Salenko,Russia,Marc Overmars,Netherlands,False
+1994,WC-1994,Romania,5,10,9,3,0,2,1,0.6,Brazil,Romário,Brazil,Oleg Salenko,Russia,Marc Overmars,Netherlands,False
+1994,WC-1994,Russia,3,7,6,1,0,2,1,0.333,Brazil,Romário,Brazil,Oleg Salenko,Russia,Marc Overmars,Netherlands,False
+1994,WC-1994,Saudi Arabia,4,5,6,2,0,2,-1,0.5,Brazil,Romário,Brazil,Oleg Salenko,Russia,Marc Overmars,Netherlands,False
+1994,WC-1994,South Korea,3,4,5,0,2,1,-1,0.0,Brazil,Romário,Brazil,Oleg Salenko,Russia,Marc Overmars,Netherlands,False
+1994,WC-1994,Spain,5,10,6,2,2,1,4,0.4,Brazil,Romário,Brazil,Oleg Salenko,Russia,Marc Overmars,Netherlands,False
+1994,WC-1994,Sweden,7,15,8,4,2,1,7,0.571,Brazil,Romário,Brazil,Oleg Salenko,Russia,Marc Overmars,Netherlands,False
+1994,WC-1994,Switzerland,4,5,7,1,1,2,-2,0.25,Brazil,Romário,Brazil,Oleg Salenko,Russia,Marc Overmars,Netherlands,False
+1994,WC-1994,United States,4,3,4,1,1,2,-1,0.25,Brazil,Romário,Brazil,Oleg Salenko,Russia,Marc Overmars,Netherlands,False
+1995,WC-1995,Australia,3,3,13,0,0,3,-10,0.0,Norway,Hege Riise,Norway,Ann Kristin Aarønes,Norway,,,False
+1995,WC-1995,Brazil,3,3,8,1,0,2,-5,0.333,Norway,Hege Riise,Norway,Ann Kristin Aarønes,Norway,,,False
+1995,WC-1995,Canada,3,5,13,0,1,2,-8,0.0,Norway,Hege Riise,Norway,Ann Kristin Aarønes,Norway,,,False
+1995,WC-1995,China,6,11,10,3,1,2,1,0.5,Norway,Hege Riise,Norway,Ann Kristin Aarønes,Norway,,,False
+1995,WC-1995,Denmark,4,7,8,1,0,3,-1,0.25,Norway,Hege Riise,Norway,Ann Kristin Aarønes,Norway,,,False
+1995,WC-1995,England,4,6,9,2,0,2,-3,0.5,Norway,Hege Riise,Norway,Ann Kristin Aarønes,Norway,,,False
+1995,WC-1995,Germany,6,13,6,4,0,2,7,0.667,Norway,Hege Riise,Norway,Ann Kristin Aarønes,Norway,,,False
+1995,WC-1995,Japan,4,2,8,1,0,3,-6,0.25,Norway,Hege Riise,Norway,Ann Kristin Aarønes,Norway,,,False
+1995,WC-1995,Nigeria,3,5,14,0,1,2,-9,0.0,Norway,Hege Riise,Norway,Ann Kristin Aarønes,Norway,,,False
+1995,WC-1995,Norway,6,23,1,6,0,0,22,1.0,Norway,Hege Riise,Norway,Ann Kristin Aarønes,Norway,,,True
+1995,WC-1995,Sweden,4,6,4,2,0,2,2,0.5,Norway,Hege Riise,Norway,Ann Kristin Aarønes,Norway,,,False
+1995,WC-1995,United States,6,15,5,4,1,1,10,0.667,Norway,Hege Riise,Norway,Ann Kristin Aarønes,Norway,,,False
+1998,WC-1998,Argentina,5,10,4,4,0,1,6,0.8,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,Austria,3,3,4,0,2,1,-1,0.0,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,Belgium,3,3,3,0,3,0,0,0.0,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,Brazil,7,14,10,5,0,2,4,0.714,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,Bulgaria,3,1,7,0,1,2,-6,0.0,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,Cameroon,3,2,5,0,2,1,-3,0.0,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,Chile,4,5,8,0,3,1,-3,0.0,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,Colombia,3,1,3,1,0,2,-2,0.333,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,Croatia,7,11,5,5,0,2,6,0.714,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,Denmark,5,9,7,2,1,2,2,0.4,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,England,4,7,4,2,0,2,3,0.5,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,France,7,15,2,7,0,0,13,1.0,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,True
+1998,WC-1998,Germany,5,8,6,3,1,1,2,0.6,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,Iran,3,2,4,1,0,2,-2,0.333,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,Italy,5,8,3,3,1,1,5,0.6,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,Jamaica,3,3,9,1,0,2,-6,0.333,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,Japan,3,1,4,0,0,3,-3,0.0,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,Mexico,4,8,7,1,2,1,1,0.25,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,Morocco,3,5,5,1,1,1,0,0.333,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,Netherlands,7,13,7,3,2,2,6,0.429,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,Nigeria,4,6,9,2,0,2,-3,0.5,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,Norway,4,5,5,1,2,1,0,0.25,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,Paraguay,4,3,2,1,2,1,1,0.25,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,Romania,4,4,3,2,1,1,1,0.5,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,Saudi Arabia,3,2,7,0,1,2,-5,0.0,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,Scotland,3,2,6,0,1,2,-4,0.0,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,South Africa,3,3,6,0,2,1,-3,0.0,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,South Korea,3,2,9,0,1,2,-7,0.0,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,Spain,3,8,4,1,1,1,4,0.333,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,Tunisia,3,1,4,0,1,2,-3,0.0,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,United States,3,1,5,0,0,3,-4,0.0,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1998,WC-1998,Yugoslavia,4,5,4,2,1,1,1,0.5,France,Ronaldo,Brazil,Davor Šuker,Croatia,Michael Owen,England,False
+1999,WC-1999,Australia,3,3,7,0,1,2,-4,0.0,United States,Wen Sun,China,Sissi,Brazil,,,False
+1999,WC-1999,Brazil,6,16,9,4,1,1,7,0.667,United States,Wen Sun,China,Sissi,Brazil,,,False
+1999,WC-1999,Canada,3,3,12,0,1,2,-9,0.0,United States,Wen Sun,China,Sissi,Brazil,,,False
+1999,WC-1999,China,6,19,2,5,0,1,17,0.833,United States,Wen Sun,China,Sissi,Brazil,,,False
+1999,WC-1999,Denmark,3,1,8,0,0,3,-7,0.0,United States,Wen Sun,China,Sissi,Brazil,,,False
+1999,WC-1999,Germany,4,12,7,1,2,1,5,0.25,United States,Wen Sun,China,Sissi,Brazil,,,False
+1999,WC-1999,Ghana,3,1,10,0,1,2,-9,0.0,United States,Wen Sun,China,Sissi,Brazil,,,False
+1999,WC-1999,Italy,3,3,3,1,1,1,0,0.333,United States,Wen Sun,China,Sissi,Brazil,,,False
+1999,WC-1999,Japan,3,1,10,0,1,2,-9,0.0,United States,Wen Sun,China,Sissi,Brazil,,,False
+1999,WC-1999,Mexico,3,1,15,0,0,3,-14,0.0,United States,Wen Sun,China,Sissi,Brazil,,,False
+1999,WC-1999,Nigeria,4,8,12,2,0,2,-4,0.5,United States,Wen Sun,China,Sissi,Brazil,,,False
+1999,WC-1999,North Korea,3,4,6,1,0,2,-2,0.333,United States,Wen Sun,China,Sissi,Brazil,,,False
+1999,WC-1999,Norway,6,16,8,4,0,2,8,0.667,United States,Wen Sun,China,Sissi,Brazil,,,False
+1999,WC-1999,Russia,4,10,5,2,0,2,5,0.5,United States,Wen Sun,China,Sissi,Brazil,,,False
+1999,WC-1999,Sweden,4,7,6,2,0,2,1,0.5,United States,Wen Sun,China,Sissi,Brazil,,,False
+1999,WC-1999,United States,6,18,3,6,0,0,15,1.0,United States,Wen Sun,China,Sissi,Brazil,,,True
+2002,WC-2002,Argentina,3,2,2,1,1,1,0,0.333,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,Belgium,4,6,7,1,2,1,-1,0.25,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,Brazil,7,18,4,7,0,0,14,1.0,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,True
+2002,WC-2002,Cameroon,3,2,3,1,1,1,-1,0.333,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,China,3,0,9,0,0,3,-9,0.0,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,Costa Rica,3,5,6,1,1,1,-1,0.333,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,Croatia,3,2,3,1,0,2,-1,0.333,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,Denmark,4,5,5,2,1,1,0,0.5,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,Ecuador,3,2,4,1,0,2,-2,0.333,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,England,5,6,3,2,2,1,3,0.4,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,France,3,0,3,0,1,2,-3,0.0,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,Germany,7,14,3,5,1,1,11,0.714,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,Italy,4,5,5,1,1,2,0,0.25,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,Japan,4,5,3,2,1,1,2,0.5,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,Mexico,4,4,4,2,1,1,0,0.5,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,Nigeria,3,1,3,0,1,2,-2,0.0,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,Paraguay,4,6,7,1,1,2,-1,0.25,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,Poland,3,3,7,1,0,2,-4,0.333,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,Portugal,3,6,4,1,0,2,2,0.333,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,Republic of Ireland,4,6,3,1,2,1,3,0.25,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,Russia,3,4,4,1,0,2,0,0.333,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,Saudi Arabia,3,0,12,0,0,3,-12,0.0,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,Senegal,5,7,6,2,2,1,1,0.4,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,Slovenia,3,2,7,0,0,3,-5,0.0,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,South Africa,3,5,5,1,1,1,0,0.333,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,South Korea,7,8,6,4,1,2,2,0.571,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,Spain,5,10,5,4,0,1,5,0.8,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,Sweden,4,5,5,1,2,1,0,0.25,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,Tunisia,3,1,5,0,1,2,-4,0.0,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,Turkey,7,10,6,4,1,2,4,0.571,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,United States,5,7,7,2,1,2,0,0.4,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2002,WC-2002,Uruguay,3,4,5,0,2,1,-1,0.0,Brazil,Oliver Kahn,Germany,Ronaldo,Brazil,Landon Donovan,United States,False
+2003,WC-2003,Argentina,3,1,15,0,0,3,-14,0.0,Germany,Birgit Prinz,Germany,Birgit Prinz,Germany,,,False
+2003,WC-2003,Australia,3,3,5,0,1,2,-2,0.0,Germany,Birgit Prinz,Germany,Birgit Prinz,Germany,,,False
+2003,WC-2003,Brazil,4,9,4,2,1,1,5,0.5,Germany,Birgit Prinz,Germany,Birgit Prinz,Germany,,,False
+2003,WC-2003,Canada,6,10,10,3,0,3,0,0.5,Germany,Birgit Prinz,Germany,Birgit Prinz,Germany,,,False
+2003,WC-2003,China,4,3,2,2,1,1,1,0.5,Germany,Birgit Prinz,Germany,Birgit Prinz,Germany,,,False
+2003,WC-2003,France,3,2,3,1,1,1,-1,0.333,Germany,Birgit Prinz,Germany,Birgit Prinz,Germany,,,False
+2003,WC-2003,Germany,6,25,4,6,0,0,21,1.0,Germany,Birgit Prinz,Germany,Birgit Prinz,Germany,,,True
+2003,WC-2003,Ghana,3,2,5,1,0,2,-3,0.333,Germany,Birgit Prinz,Germany,Birgit Prinz,Germany,,,False
+2003,WC-2003,Japan,3,7,6,1,0,2,1,0.333,Germany,Birgit Prinz,Germany,Birgit Prinz,Germany,,,False
+2003,WC-2003,Nigeria,3,0,11,0,0,3,-11,0.0,Germany,Birgit Prinz,Germany,Birgit Prinz,Germany,,,False
+2003,WC-2003,North Korea,3,3,4,1,0,2,-1,0.333,Germany,Birgit Prinz,Germany,Birgit Prinz,Germany,,,False
+2003,WC-2003,Norway,4,10,6,2,0,2,4,0.5,Germany,Birgit Prinz,Germany,Birgit Prinz,Germany,,,False
+2003,WC-2003,Russia,4,6,9,2,0,2,-3,0.5,Germany,Birgit Prinz,Germany,Birgit Prinz,Germany,,,False
+2003,WC-2003,South Korea,3,1,11,0,0,3,-10,0.0,Germany,Birgit Prinz,Germany,Birgit Prinz,Germany,,,False
+2003,WC-2003,Sweden,6,10,7,4,0,2,3,0.667,Germany,Birgit Prinz,Germany,Birgit Prinz,Germany,,,False
+2003,WC-2003,United States,6,15,5,5,0,1,10,0.833,Germany,Birgit Prinz,Germany,Birgit Prinz,Germany,,,False
+2006,WC-2006,Angola,3,1,2,0,2,1,-1,0.0,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Argentina,5,11,3,3,1,1,8,0.6,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Australia,4,5,6,1,1,2,-1,0.25,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Brazil,5,10,2,4,0,1,8,0.8,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Costa Rica,3,3,9,0,0,3,-6,0.0,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Croatia,3,2,3,0,2,1,-1,0.0,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Czech Republic,3,3,4,1,0,2,-1,0.333,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Ecuador,4,5,4,2,0,2,1,0.5,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,England,5,6,2,3,1,1,4,0.6,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,France,7,9,3,4,2,1,6,0.571,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Germany,7,14,6,6,0,1,8,0.857,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Ghana,4,4,6,2,0,2,-2,0.5,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Iran,3,2,6,0,1,2,-4,0.0,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Italy,7,12,2,6,1,0,10,0.857,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,True
+2006,WC-2006,Ivory Coast,3,5,6,1,0,2,-1,0.333,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Japan,3,2,7,0,1,2,-5,0.0,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Mexico,4,5,5,1,1,2,0,0.25,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Netherlands,4,3,2,2,1,1,1,0.5,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Paraguay,3,2,2,1,0,2,0,0.333,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Poland,3,2,4,1,0,2,-2,0.333,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Portugal,7,7,5,5,0,2,2,0.714,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Saudi Arabia,3,2,7,0,1,2,-5,0.0,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Serbia and Montenegro,3,2,10,0,0,3,-8,0.0,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,South Korea,3,3,4,1,1,1,-1,0.333,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Spain,4,9,4,3,0,1,5,0.75,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Sweden,4,3,4,1,2,1,-1,0.25,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Switzerland,4,4,0,2,1,1,4,0.5,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Togo,3,1,6,0,0,3,-5,0.0,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Trinidad and Tobago,3,0,4,0,1,2,-4,0.0,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Tunisia,3,3,6,0,1,2,-3,0.0,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,Ukraine,5,5,7,3,0,2,-2,0.6,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2006,WC-2006,United States,3,2,6,0,1,2,-4,0.0,Italy,Zinedine Zidane,France,Miroslav Klose,Germany,Lukas Podolski,Germany,False
+2007,WC-2007,Argentina,3,1,18,0,0,3,-17,0.0,Germany,Marta,Brazil,Marta,Brazil,,,False
+2007,WC-2007,Australia,4,9,7,1,2,1,2,0.25,Germany,Marta,Brazil,Marta,Brazil,,,False
+2007,WC-2007,Brazil,6,17,4,5,0,1,13,0.833,Germany,Marta,Brazil,Marta,Brazil,,,False
+2007,WC-2007,Canada,3,7,4,1,1,1,3,0.333,Germany,Marta,Brazil,Marta,Brazil,,,False
+2007,WC-2007,China,4,5,7,2,0,2,-2,0.5,Germany,Marta,Brazil,Marta,Brazil,,,False
+2007,WC-2007,Denmark,3,4,4,1,0,2,0,0.333,Germany,Marta,Brazil,Marta,Brazil,,,False
+2007,WC-2007,England,4,8,6,1,2,1,2,0.25,Germany,Marta,Brazil,Marta,Brazil,,,False
+2007,WC-2007,Germany,6,21,0,5,1,0,21,0.833,Germany,Marta,Brazil,Marta,Brazil,,,True
+2007,WC-2007,Ghana,3,3,15,0,0,3,-12,0.0,Germany,Marta,Brazil,Marta,Brazil,,,False
+2007,WC-2007,Japan,3,3,4,1,1,1,-1,0.333,Germany,Marta,Brazil,Marta,Brazil,,,False
+2007,WC-2007,New Zealand,3,0,9,0,0,3,-9,0.0,Germany,Marta,Brazil,Marta,Brazil,,,False
+2007,WC-2007,Nigeria,3,1,4,0,1,2,-3,0.0,Germany,Marta,Brazil,Marta,Brazil,,,False
+2007,WC-2007,North Korea,4,5,7,1,1,2,-2,0.25,Germany,Marta,Brazil,Marta,Brazil,,,False
+2007,WC-2007,Norway,6,12,11,3,1,2,1,0.5,Germany,Marta,Brazil,Marta,Brazil,,,False
+2007,WC-2007,Sweden,3,3,4,1,1,1,-1,0.333,Germany,Marta,Brazil,Marta,Brazil,,,False
+2007,WC-2007,United States,6,12,7,4,1,1,5,0.667,Germany,Marta,Brazil,Marta,Brazil,,,False
+2010,WC-2010,Algeria,3,0,2,0,1,2,-2,0.0,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,Argentina,5,10,6,4,0,1,4,0.8,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,Australia,3,3,6,1,1,1,-3,0.333,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,Brazil,5,9,4,3,1,1,5,0.6,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,Cameroon,3,2,5,0,0,3,-3,0.0,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,Chile,4,3,5,2,0,2,-2,0.5,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,Denmark,3,3,6,1,0,2,-3,0.333,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,England,4,3,5,1,2,1,-2,0.25,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,France,3,1,4,0,1,2,-3,0.0,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,Germany,7,16,5,5,0,2,11,0.714,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,Ghana,5,5,4,2,1,2,1,0.4,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,Greece,3,2,5,1,0,2,-3,0.333,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,Honduras,3,0,3,0,1,2,-3,0.0,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,Italy,3,4,5,0,2,1,-1,0.0,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,Ivory Coast,3,4,3,1,1,1,1,0.333,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,Japan,4,4,2,2,0,2,2,0.5,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,Mexico,4,4,5,1,1,2,-1,0.25,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,Netherlands,7,12,6,6,0,1,6,0.857,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,New Zealand,3,2,2,0,3,0,0,0.0,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,Nigeria,3,3,5,0,1,2,-2,0.0,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,North Korea,3,1,12,0,0,3,-11,0.0,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,Paraguay,5,3,2,2,2,1,1,0.4,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,Portugal,4,7,1,1,2,1,6,0.25,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,Serbia,3,2,3,1,0,2,-1,0.333,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,Slovakia,4,5,7,1,1,2,-2,0.25,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,Slovenia,3,3,3,1,1,1,0,0.333,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,South Africa,3,3,5,1,1,1,-2,0.333,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,South Korea,4,6,8,1,1,2,-2,0.25,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,Spain,7,8,2,6,0,1,6,0.857,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,True
+2010,WC-2010,Switzerland,3,1,1,1,1,1,0,0.333,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,United States,4,5,5,1,2,1,0,0.25,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2010,WC-2010,Uruguay,7,11,8,4,1,2,3,0.571,Spain,Diego Forlán,Uruguay,Thomas Müller,Germany,Thomas Müller,Germany,False
+2011,WC-2011,Australia,4,6,7,2,0,2,-1,0.5,Japan,Homare Sawa,Japan,Homare Sawa,Japan,Caitlin Foord,Australia,False
+2011,WC-2011,Brazil,4,9,2,3,0,1,7,0.75,Japan,Homare Sawa,Japan,Homare Sawa,Japan,Caitlin Foord,Australia,False
+2011,WC-2011,Canada,3,1,7,0,0,3,-6,0.0,Japan,Homare Sawa,Japan,Homare Sawa,Japan,Caitlin Foord,Australia,False
+2011,WC-2011,Colombia,3,0,4,0,1,2,-4,0.0,Japan,Homare Sawa,Japan,Homare Sawa,Japan,Caitlin Foord,Australia,False
+2011,WC-2011,England,4,6,3,2,1,1,3,0.5,Japan,Homare Sawa,Japan,Homare Sawa,Japan,Caitlin Foord,Australia,False
+2011,WC-2011,Equatorial Guinea,3,2,7,0,0,3,-5,0.0,Japan,Homare Sawa,Japan,Homare Sawa,Japan,Caitlin Foord,Australia,False
+2011,WC-2011,France,6,10,10,3,0,3,0,0.5,Japan,Homare Sawa,Japan,Homare Sawa,Japan,Caitlin Foord,Australia,False
+2011,WC-2011,Germany,4,7,4,3,0,1,3,0.75,Japan,Homare Sawa,Japan,Homare Sawa,Japan,Caitlin Foord,Australia,False
+2011,WC-2011,Japan,6,12,6,5,0,1,6,0.833,Japan,Homare Sawa,Japan,Homare Sawa,Japan,Caitlin Foord,Australia,True
+2011,WC-2011,Mexico,3,3,7,0,2,1,-4,0.0,Japan,Homare Sawa,Japan,Homare Sawa,Japan,Caitlin Foord,Australia,False
+2011,WC-2011,New Zealand,3,4,6,0,1,2,-2,0.0,Japan,Homare Sawa,Japan,Homare Sawa,Japan,Caitlin Foord,Australia,False
+2011,WC-2011,Nigeria,3,1,2,1,0,2,-1,0.333,Japan,Homare Sawa,Japan,Homare Sawa,Japan,Caitlin Foord,Australia,False
+2011,WC-2011,North Korea,3,0,3,0,1,2,-3,0.0,Japan,Homare Sawa,Japan,Homare Sawa,Japan,Caitlin Foord,Australia,False
+2011,WC-2011,Norway,3,2,5,1,0,2,-3,0.333,Japan,Homare Sawa,Japan,Homare Sawa,Japan,Caitlin Foord,Australia,False
+2011,WC-2011,Sweden,6,10,6,5,0,1,4,0.833,Japan,Homare Sawa,Japan,Homare Sawa,Japan,Caitlin Foord,Australia,False
+2011,WC-2011,United States,6,13,7,4,0,2,6,0.667,Japan,Homare Sawa,Japan,Homare Sawa,Japan,Caitlin Foord,Australia,False
+2014,WC-2014,Algeria,4,7,7,1,1,2,0,0.25,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Argentina,7,8,4,6,0,1,4,0.857,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Australia,3,3,9,0,0,3,-6,0.0,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Belgium,5,6,3,4,0,1,3,0.8,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Bosnia and Herzegovina,3,4,4,1,0,2,0,0.333,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Brazil,7,11,14,4,1,2,-3,0.571,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Cameroon,3,1,9,0,0,3,-8,0.0,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Chile,4,6,4,2,0,2,2,0.5,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Colombia,5,12,4,4,0,1,8,0.8,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Costa Rica,5,5,2,3,1,1,3,0.6,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Croatia,3,6,6,1,0,2,0,0.333,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Ecuador,3,3,3,1,1,1,0,0.333,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,England,3,2,4,0,1,2,-2,0.0,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,France,5,10,3,3,1,1,7,0.6,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Germany,7,18,4,6,1,0,14,0.857,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,True
+2014,WC-2014,Ghana,3,4,6,0,1,2,-2,0.0,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Greece,4,3,5,1,1,2,-2,0.25,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Honduras,3,1,8,0,0,3,-7,0.0,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Iran,3,1,4,0,1,2,-3,0.0,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Italy,3,2,3,1,0,2,-1,0.333,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Ivory Coast,3,4,5,1,0,2,-1,0.333,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Japan,3,2,6,0,1,2,-4,0.0,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Mexico,4,5,3,2,1,1,2,0.5,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Netherlands,7,15,4,6,0,1,11,0.857,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Nigeria,4,3,5,1,1,2,-2,0.25,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Portugal,3,4,7,1,1,1,-3,0.333,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Russia,3,2,3,0,2,1,-1,0.0,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,South Korea,3,3,6,0,1,2,-3,0.0,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Spain,3,4,7,1,0,2,-3,0.333,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Switzerland,4,7,7,2,0,2,0,0.5,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,United States,4,5,6,1,1,2,-1,0.25,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2014,WC-2014,Uruguay,4,4,6,2,0,2,-2,0.5,Germany,Lionel Messi,Argentina,James Rodríguez,Colombia,Paul Pogba,France,False
+2015,WC-2015,Australia,5,5,5,2,1,2,0,0.4,United States,Carli Lloyd,United States,Célia Šašić,Germany,Kadeisha Buchanan,Canada,False
+2015,WC-2015,Brazil,4,4,1,3,0,1,3,0.75,United States,Carli Lloyd,United States,Célia Šašić,Germany,Kadeisha Buchanan,Canada,False
+2015,WC-2015,Cameroon,4,9,4,2,0,2,5,0.5,United States,Carli Lloyd,United States,Célia Šašić,Germany,Kadeisha Buchanan,Canada,False
+2015,WC-2015,Canada,5,4,3,2,2,1,1,0.4,United States,Carli Lloyd,United States,Célia Šašić,Germany,Kadeisha Buchanan,Canada,False
+2015,WC-2015,China,5,4,4,2,1,2,0,0.4,United States,Carli Lloyd,United States,Célia Šašić,Germany,Kadeisha Buchanan,Canada,False
+2015,WC-2015,Colombia,4,4,5,1,1,2,-1,0.25,United States,Carli Lloyd,United States,Célia Šašić,Germany,Kadeisha Buchanan,Canada,False
+2015,WC-2015,Costa Rica,3,3,4,0,2,1,-1,0.0,United States,Carli Lloyd,United States,Célia Šašić,Germany,Kadeisha Buchanan,Canada,False
+2015,WC-2015,Ecuador,3,1,17,0,0,3,-16,0.0,United States,Carli Lloyd,United States,Célia Šašić,Germany,Kadeisha Buchanan,Canada,False
+2015,WC-2015,England,7,10,7,5,0,2,3,0.714,United States,Carli Lloyd,United States,Célia Šašić,Germany,Kadeisha Buchanan,Canada,False
+2015,WC-2015,France,5,10,3,3,0,2,7,0.6,United States,Carli Lloyd,United States,Célia Šašić,Germany,Kadeisha Buchanan,Canada,False
+2015,WC-2015,Germany,7,20,6,4,1,2,14,0.571,United States,Carli Lloyd,United States,Célia Šašić,Germany,Kadeisha Buchanan,Canada,False
+2015,WC-2015,Ivory Coast,3,3,16,0,0,3,-13,0.0,United States,Carli Lloyd,United States,Célia Šašić,Germany,Kadeisha Buchanan,Canada,False
+2015,WC-2015,Japan,7,11,8,6,0,1,3,0.857,United States,Carli Lloyd,United States,Célia Šašić,Germany,Kadeisha Buchanan,Canada,False
+2015,WC-2015,Mexico,3,2,8,0,1,2,-6,0.0,United States,Carli Lloyd,United States,Célia Šašić,Germany,Kadeisha Buchanan,Canada,False
+2015,WC-2015,Netherlands,4,3,4,1,1,2,-1,0.25,United States,Carli Lloyd,United States,Célia Šašić,Germany,Kadeisha Buchanan,Canada,False
+2015,WC-2015,New Zealand,3,2,3,0,2,1,-1,0.0,United States,Carli Lloyd,United States,Célia Šašić,Germany,Kadeisha Buchanan,Canada,False
+2015,WC-2015,Nigeria,3,3,6,0,1,2,-3,0.0,United States,Carli Lloyd,United States,Célia Šašić,Germany,Kadeisha Buchanan,Canada,False
+2015,WC-2015,Norway,4,9,4,2,1,1,5,0.5,United States,Carli Lloyd,United States,Célia Šašić,Germany,Kadeisha Buchanan,Canada,False
+2015,WC-2015,South Korea,4,4,8,1,1,2,-4,0.25,United States,Carli Lloyd,United States,Célia Šašić,Germany,Kadeisha Buchanan,Canada,False
+2015,WC-2015,Spain,3,2,4,0,1,2,-2,0.0,United States,Carli Lloyd,United States,Célia Šašić,Germany,Kadeisha Buchanan,Canada,False
+2015,WC-2015,Sweden,4,5,8,0,3,1,-3,0.0,United States,Carli Lloyd,United States,Célia Šašić,Germany,Kadeisha Buchanan,Canada,False
+2015,WC-2015,Switzerland,4,11,5,1,0,3,6,0.25,United States,Carli Lloyd,United States,Célia Šašić,Germany,Kadeisha Buchanan,Canada,False
+2015,WC-2015,Thailand,3,3,10,1,0,2,-7,0.333,United States,Carli Lloyd,United States,Célia Šašić,Germany,Kadeisha Buchanan,Canada,False
+2015,WC-2015,United States,7,14,3,6,1,0,11,0.857,United States,Carli Lloyd,United States,Célia Šašić,Germany,Kadeisha Buchanan,Canada,True
+2018,WC-2018,Argentina,4,6,9,1,1,2,-3,0.25,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Australia,3,2,5,0,1,2,-3,0.0,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Belgium,7,16,6,6,0,1,10,0.857,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Brazil,5,8,3,3,1,1,5,0.6,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Colombia,4,6,3,2,0,2,3,0.5,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Costa Rica,3,2,5,0,1,2,-3,0.0,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Croatia,7,14,9,6,0,1,5,0.857,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Denmark,4,3,2,1,2,1,1,0.25,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Egypt,3,2,6,0,0,3,-4,0.0,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,England,7,12,8,4,0,3,4,0.571,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,France,7,14,6,6,1,0,8,0.857,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,True
+2018,WC-2018,Germany,3,2,4,1,0,2,-2,0.333,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Iceland,3,2,5,0,1,2,-3,0.0,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Iran,3,2,2,1,1,1,0,0.333,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Japan,4,6,7,1,1,2,-1,0.25,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Mexico,4,3,6,2,0,2,-3,0.5,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Morocco,3,2,4,0,1,2,-2,0.0,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Nigeria,3,3,4,1,0,2,-1,0.333,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Panama,3,2,11,0,0,3,-9,0.0,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Peru,3,2,2,1,0,2,0,0.333,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Poland,3,2,5,1,0,2,-3,0.333,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Portugal,4,6,6,1,2,1,0,0.25,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Russia,5,11,7,3,0,2,4,0.6,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Saudi Arabia,3,2,7,1,0,2,-5,0.333,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Senegal,3,4,4,1,1,1,0,0.333,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Serbia,3,2,4,1,0,2,-2,0.333,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,South Korea,3,3,3,1,0,2,0,0.333,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Spain,4,7,6,1,2,1,1,0.25,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Sweden,5,6,4,3,0,2,2,0.6,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Switzerland,4,5,5,1,2,1,0,0.25,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Tunisia,3,5,8,1,0,2,-3,0.333,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2018,WC-2018,Uruguay,5,7,3,4,0,1,4,0.8,France,Luka Modrić,Croatia,Harry Kane,England,Kylian Mbappé,France,False
+2019,WC-2019,Argentina,3,3,4,0,2,1,-1,0.0,United States,Megan Rapinoe,United States,Megan Rapinoe,United States,Giulia Gwinn,Germany,False
+2019,WC-2019,Australia,4,9,6,2,0,2,3,0.5,United States,Megan Rapinoe,United States,Megan Rapinoe,United States,Giulia Gwinn,Germany,False
+2019,WC-2019,Brazil,4,7,5,2,0,2,2,0.5,United States,Megan Rapinoe,United States,Megan Rapinoe,United States,Giulia Gwinn,Germany,False
+2019,WC-2019,Cameroon,4,3,8,1,0,3,-5,0.25,United States,Megan Rapinoe,United States,Megan Rapinoe,United States,Giulia Gwinn,Germany,False
+2019,WC-2019,Canada,4,4,3,2,0,2,1,0.5,United States,Megan Rapinoe,United States,Megan Rapinoe,United States,Giulia Gwinn,Germany,False
+2019,WC-2019,Chile,3,2,5,1,0,2,-3,0.333,United States,Megan Rapinoe,United States,Megan Rapinoe,United States,Giulia Gwinn,Germany,False
+2019,WC-2019,China,4,1,3,1,1,2,-2,0.25,United States,Megan Rapinoe,United States,Megan Rapinoe,United States,Giulia Gwinn,Germany,False
+2019,WC-2019,England,7,13,5,5,0,2,8,0.714,United States,Megan Rapinoe,United States,Megan Rapinoe,United States,Giulia Gwinn,Germany,False
+2019,WC-2019,France,5,10,4,4,0,1,6,0.8,United States,Megan Rapinoe,United States,Megan Rapinoe,United States,Giulia Gwinn,Germany,False
+2019,WC-2019,Germany,5,10,2,4,0,1,8,0.8,United States,Megan Rapinoe,United States,Megan Rapinoe,United States,Giulia Gwinn,Germany,False
+2019,WC-2019,Italy,5,9,4,3,0,2,5,0.6,United States,Megan Rapinoe,United States,Megan Rapinoe,United States,Giulia Gwinn,Germany,False
+2019,WC-2019,Jamaica,3,1,12,0,0,3,-11,0.0,United States,Megan Rapinoe,United States,Megan Rapinoe,United States,Giulia Gwinn,Germany,False
+2019,WC-2019,Japan,4,3,5,1,1,2,-2,0.25,United States,Megan Rapinoe,United States,Megan Rapinoe,United States,Giulia Gwinn,Germany,False
+2019,WC-2019,Netherlands,7,11,5,6,0,1,6,0.857,United States,Megan Rapinoe,United States,Megan Rapinoe,United States,Giulia Gwinn,Germany,False
+2019,WC-2019,New Zealand,3,1,5,0,0,3,-4,0.0,United States,Megan Rapinoe,United States,Megan Rapinoe,United States,Giulia Gwinn,Germany,False
+2019,WC-2019,Nigeria,4,2,7,1,0,3,-5,0.25,United States,Megan Rapinoe,United States,Megan Rapinoe,United States,Giulia Gwinn,Germany,False
+2019,WC-2019,Norway,5,7,7,3,0,2,0,0.6,United States,Megan Rapinoe,United States,Megan Rapinoe,United States,Giulia Gwinn,Germany,False
+2019,WC-2019,Scotland,3,5,7,0,1,2,-2,0.0,United States,Megan Rapinoe,United States,Megan Rapinoe,United States,Giulia Gwinn,Germany,False
+2019,WC-2019,South Africa,3,1,8,0,0,3,-7,0.0,United States,Megan Rapinoe,United States,Megan Rapinoe,United States,Giulia Gwinn,Germany,False
+2019,WC-2019,South Korea,3,1,8,0,0,3,-7,0.0,United States,Megan Rapinoe,United States,Megan Rapinoe,United States,Giulia Gwinn,Germany,False
+2019,WC-2019,Spain,4,4,4,1,1,2,0,0.25,United States,Megan Rapinoe,United States,Megan Rapinoe,United States,Giulia Gwinn,Germany,False
+2019,WC-2019,Sweden,7,12,6,5,0,2,6,0.714,United States,Megan Rapinoe,United States,Megan Rapinoe,United States,Giulia Gwinn,Germany,False
+2019,WC-2019,Thailand,3,1,20,0,0,3,-19,0.0,United States,Megan Rapinoe,United States,Megan Rapinoe,United States,Giulia Gwinn,Germany,False
+2019,WC-2019,United States,7,26,3,7,0,0,23,1.0,United States,Megan Rapinoe,United States,Megan Rapinoe,United States,Giulia Gwinn,Germany,True
+2022,WC-2022,Argentina,7,15,8,6,0,1,7,0.857,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,True
+2022,WC-2022,Australia,4,4,6,2,0,2,-2,0.5,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Belgium,3,1,2,1,1,1,-1,0.333,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Brazil,5,8,3,3,0,2,5,0.6,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Cameroon,3,4,4,1,1,1,0,0.333,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Canada,3,2,7,0,0,3,-5,0.0,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Costa Rica,3,3,11,1,0,2,-8,0.333,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Croatia,7,8,7,4,2,1,1,0.571,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Denmark,3,1,3,0,1,2,-2,0.0,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Ecuador,3,4,3,1,1,1,1,0.333,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,England,5,13,4,3,1,1,9,0.6,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,France,7,16,8,5,0,2,8,0.714,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Germany,3,6,5,1,1,1,1,0.333,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Ghana,3,5,7,1,0,2,-2,0.333,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Iran,3,4,7,1,0,2,-3,0.333,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Japan,4,5,4,2,0,2,1,0.5,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Mexico,3,2,3,1,1,1,-1,0.333,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Morocco,7,6,5,4,1,2,1,0.571,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Netherlands,5,10,4,3,1,1,6,0.6,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Poland,4,3,5,1,1,2,-2,0.25,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Portugal,5,12,6,3,0,2,6,0.6,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Qatar,3,1,7,0,0,3,-6,0.0,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Saudi Arabia,3,3,5,1,0,2,-2,0.333,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Senegal,4,5,7,2,0,2,-2,0.5,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Serbia,3,5,8,0,1,2,-3,0.0,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,South Korea,4,5,8,1,1,2,-3,0.25,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Spain,4,9,3,1,1,2,6,0.25,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Switzerland,4,5,9,2,0,2,-4,0.5,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Tunisia,3,1,1,1,1,1,0,0.333,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,United States,4,3,4,1,2,1,-1,0.25,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Uruguay,3,2,2,1,1,1,0,0.333,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False
+2022,WC-2022,Wales,3,1,6,0,1,2,-5,0.0,Argentina,Lionel Messi,Argentina,Kylian Mbappé,France,Enzo Fernández,Argentina,False

@@ -1,0 +1,1249 @@
+year,tournament_id,match_id,stage_name,home_team,away_team,home_goals,away_goals,result,home_team_win,away_team_win,draw,extra_time,penalty_shootout,match_date,total_goals
+1930,WC-1930,M-1930-01,group stage,France,Mexico,4,1,home team win,1,0,0,0,0,1930-07-13,5
+1930,WC-1930,M-1930-02,group stage,United States,Belgium,3,0,home team win,1,0,0,0,0,1930-07-13,3
+1930,WC-1930,M-1930-03,group stage,Yugoslavia,Brazil,2,1,home team win,1,0,0,0,0,1930-07-14,3
+1930,WC-1930,M-1930-04,group stage,Romania,Peru,3,1,home team win,1,0,0,0,0,1930-07-14,4
+1930,WC-1930,M-1930-05,group stage,Argentina,France,1,0,home team win,1,0,0,0,0,1930-07-15,1
+1930,WC-1930,M-1930-06,group stage,Chile,Mexico,3,0,home team win,1,0,0,0,0,1930-07-16,3
+1930,WC-1930,M-1930-07,group stage,Yugoslavia,Bolivia,4,0,home team win,1,0,0,0,0,1930-07-17,4
+1930,WC-1930,M-1930-08,group stage,United States,Paraguay,3,0,home team win,1,0,0,0,0,1930-07-17,3
+1930,WC-1930,M-1930-09,group stage,Uruguay,Peru,1,0,home team win,1,0,0,0,0,1930-07-18,1
+1930,WC-1930,M-1930-10,group stage,Chile,France,1,0,home team win,1,0,0,0,0,1930-07-19,1
+1930,WC-1930,M-1930-11,group stage,Argentina,Mexico,6,3,home team win,1,0,0,0,0,1930-07-19,9
+1930,WC-1930,M-1930-12,group stage,Brazil,Bolivia,4,0,home team win,1,0,0,0,0,1930-07-20,4
+1930,WC-1930,M-1930-13,group stage,Paraguay,Belgium,1,0,home team win,1,0,0,0,0,1930-07-20,1
+1930,WC-1930,M-1930-14,group stage,Uruguay,Romania,4,0,home team win,1,0,0,0,0,1930-07-21,4
+1930,WC-1930,M-1930-15,group stage,Argentina,Chile,3,1,home team win,1,0,0,0,0,1930-07-22,4
+1930,WC-1930,M-1930-16,semi-finals,Argentina,United States,6,1,home team win,1,0,0,0,0,1930-07-26,7
+1930,WC-1930,M-1930-17,semi-finals,Uruguay,Yugoslavia,6,1,home team win,1,0,0,0,0,1930-07-27,7
+1930,WC-1930,M-1930-18,final,Uruguay,Argentina,4,2,home team win,1,0,0,0,0,1930-07-30,6
+1934,WC-1934,M-1934-01,round of 16,Austria,France,3,2,home team win,1,0,0,1,0,1934-05-27,5
+1934,WC-1934,M-1934-02,round of 16,Czechoslovakia,Romania,2,1,home team win,1,0,0,0,0,1934-05-27,3
+1934,WC-1934,M-1934-03,round of 16,Germany,Belgium,5,2,home team win,1,0,0,0,0,1934-05-27,7
+1934,WC-1934,M-1934-04,round of 16,Hungary,Egypt,4,2,home team win,1,0,0,0,0,1934-05-27,6
+1934,WC-1934,M-1934-05,round of 16,Italy,United States,7,1,home team win,1,0,0,0,0,1934-05-27,8
+1934,WC-1934,M-1934-06,round of 16,Spain,Brazil,3,1,home team win,1,0,0,0,0,1934-05-27,4
+1934,WC-1934,M-1934-07,round of 16,Sweden,Argentina,3,2,home team win,1,0,0,0,0,1934-05-27,5
+1934,WC-1934,M-1934-08,round of 16,Switzerland,Netherlands,3,2,home team win,1,0,0,0,0,1934-05-27,5
+1934,WC-1934,M-1934-09,quarter-finals,Austria,Hungary,2,1,home team win,1,0,0,0,0,1934-05-31,3
+1934,WC-1934,M-1934-10,quarter-finals,Czechoslovakia,Switzerland,3,2,home team win,1,0,0,0,0,1934-05-31,5
+1934,WC-1934,M-1934-11,quarter-finals,Germany,Sweden,2,1,home team win,1,0,0,0,0,1934-05-31,3
+1934,WC-1934,M-1934-12,quarter-finals,Italy,Spain,1,1,draw,0,0,1,1,0,1934-05-31,2
+1934,WC-1934,M-1934-13,quarter-finals,Italy,Spain,1,0,home team win,1,0,0,0,0,1934-06-01,1
+1934,WC-1934,M-1934-14,semi-finals,Czechoslovakia,Germany,3,1,home team win,1,0,0,0,0,1934-06-03,4
+1934,WC-1934,M-1934-15,semi-finals,Italy,Austria,1,0,home team win,1,0,0,0,0,1934-06-03,1
+1934,WC-1934,M-1934-16,third-place match,Germany,Austria,3,2,home team win,1,0,0,0,0,1934-06-07,5
+1934,WC-1934,M-1934-17,final,Italy,Czechoslovakia,2,1,home team win,1,0,0,1,0,1934-06-10,3
+1938,WC-1938,M-1938-01,round of 16,Switzerland,Germany,1,1,draw,0,0,1,1,0,1938-06-04,2
+1938,WC-1938,M-1938-02,round of 16,Cuba,Romania,3,3,draw,0,0,1,1,0,1938-06-05,6
+1938,WC-1938,M-1938-03,round of 16,France,Belgium,3,1,home team win,1,0,0,0,0,1938-06-05,4
+1938,WC-1938,M-1938-04,round of 16,Hungary,Dutch East Indies,6,0,home team win,1,0,0,0,0,1938-06-05,6
+1938,WC-1938,M-1938-05,round of 16,Italy,Norway,2,1,home team win,1,0,0,1,0,1938-06-05,3
+1938,WC-1938,M-1938-06,round of 16,Brazil,Poland,6,5,home team win,1,0,0,1,0,1938-06-05,11
+1938,WC-1938,M-1938-07,round of 16,Czechoslovakia,Netherlands,3,0,home team win,1,0,0,1,0,1938-06-05,3
+1938,WC-1938,M-1938-08,round of 16,Cuba,Romania,2,1,home team win,1,0,0,0,0,1938-06-09,3
+1938,WC-1938,M-1938-09,round of 16,Switzerland,Germany,4,2,home team win,1,0,0,0,0,1938-06-09,6
+1938,WC-1938,M-1938-10,quarter-finals,Brazil,Czechoslovakia,1,1,draw,0,0,1,1,0,1938-06-12,2
+1938,WC-1938,M-1938-11,quarter-finals,Hungary,Switzerland,2,0,home team win,1,0,0,0,0,1938-06-12,2
+1938,WC-1938,M-1938-12,quarter-finals,Italy,France,3,1,home team win,1,0,0,0,0,1938-06-12,4
+1938,WC-1938,M-1938-13,quarter-finals,Sweden,Cuba,8,0,home team win,1,0,0,0,0,1938-06-12,8
+1938,WC-1938,M-1938-14,quarter-finals,Brazil,Czechoslovakia,2,1,home team win,1,0,0,0,0,1938-06-14,3
+1938,WC-1938,M-1938-15,semi-finals,Hungary,Sweden,5,1,home team win,1,0,0,0,0,1938-06-16,6
+1938,WC-1938,M-1938-16,semi-finals,Italy,Brazil,2,1,home team win,1,0,0,0,0,1938-06-16,3
+1938,WC-1938,M-1938-17,third-place match,Brazil,Sweden,4,2,home team win,1,0,0,0,0,1938-06-19,6
+1938,WC-1938,M-1938-18,final,Italy,Hungary,4,2,home team win,1,0,0,0,0,1938-06-19,6
+1950,WC-1950,M-1950-01,group stage,Brazil,Mexico,4,0,home team win,1,0,0,0,0,1950-06-24,4
+1950,WC-1950,M-1950-02,group stage,Yugoslavia,Switzerland,3,0,home team win,1,0,0,0,0,1950-06-25,3
+1950,WC-1950,M-1950-03,group stage,England,Chile,2,0,home team win,1,0,0,0,0,1950-06-25,2
+1950,WC-1950,M-1950-04,group stage,Spain,United States,3,1,home team win,1,0,0,0,0,1950-06-25,4
+1950,WC-1950,M-1950-05,group stage,Sweden,Italy,3,2,home team win,1,0,0,0,0,1950-06-25,5
+1950,WC-1950,M-1950-06,group stage,Brazil,Switzerland,2,2,draw,0,0,1,0,0,1950-06-28,4
+1950,WC-1950,M-1950-07,group stage,Yugoslavia,Mexico,4,1,home team win,1,0,0,0,0,1950-06-28,5
+1950,WC-1950,M-1950-08,group stage,Spain,Chile,2,0,home team win,1,0,0,0,0,1950-06-29,2
+1950,WC-1950,M-1950-09,group stage,United States,England,1,0,home team win,1,0,0,0,0,1950-06-29,1
+1950,WC-1950,M-1950-10,group stage,Sweden,Paraguay,2,2,draw,0,0,1,0,0,1950-06-29,4
+1950,WC-1950,M-1950-11,group stage,Brazil,Yugoslavia,2,0,home team win,1,0,0,0,0,1950-07-01,2
+1950,WC-1950,M-1950-12,group stage,Chile,United States,5,2,home team win,1,0,0,0,0,1950-07-02,7
+1950,WC-1950,M-1950-13,group stage,Spain,England,1,0,home team win,1,0,0,0,0,1950-07-02,1
+1950,WC-1950,M-1950-14,group stage,Italy,Paraguay,2,0,home team win,1,0,0,0,0,1950-07-02,2
+1950,WC-1950,M-1950-15,group stage,Uruguay,Bolivia,8,0,home team win,1,0,0,0,0,1950-07-02,8
+1950,WC-1950,M-1950-16,group stage,Switzerland,Mexico,2,1,home team win,1,0,0,0,0,1950-07-02,3
+1950,WC-1950,M-1950-17,final round,Brazil,Sweden,7,1,home team win,1,0,0,0,0,1950-07-09,8
+1950,WC-1950,M-1950-18,final round,Uruguay,Spain,2,2,draw,0,0,1,0,0,1950-07-09,4
+1950,WC-1950,M-1950-19,final round,Brazil,Spain,6,1,home team win,1,0,0,0,0,1950-07-13,7
+1950,WC-1950,M-1950-20,final round,Uruguay,Sweden,3,2,home team win,1,0,0,0,0,1950-07-13,5
+1950,WC-1950,M-1950-21,final round,Sweden,Spain,3,1,home team win,1,0,0,0,0,1950-07-16,4
+1950,WC-1950,M-1950-22,final round,Uruguay,Brazil,2,1,home team win,1,0,0,0,0,1950-07-16,3
+1954,WC-1954,M-1954-01,group stage,Brazil,Mexico,5,0,home team win,1,0,0,0,0,1954-06-16,5
+1954,WC-1954,M-1954-02,group stage,Yugoslavia,France,1,0,home team win,1,0,0,0,0,1954-06-16,1
+1954,WC-1954,M-1954-03,group stage,Austria,Scotland,1,0,home team win,1,0,0,0,0,1954-06-16,1
+1954,WC-1954,M-1954-04,group stage,Uruguay,Czechoslovakia,2,0,home team win,1,0,0,0,0,1954-06-16,2
+1954,WC-1954,M-1954-05,group stage,Switzerland,Italy,2,1,home team win,1,0,0,0,0,1954-06-17,3
+1954,WC-1954,M-1954-06,group stage,Hungary,South Korea,9,0,home team win,1,0,0,0,0,1954-06-17,9
+1954,WC-1954,M-1954-07,group stage,West Germany,Turkey,4,1,home team win,1,0,0,0,0,1954-06-17,5
+1954,WC-1954,M-1954-08,group stage,England,Belgium,4,4,draw,0,0,1,1,0,1954-06-17,8
+1954,WC-1954,M-1954-09,group stage,Uruguay,Scotland,7,0,home team win,1,0,0,0,0,1954-06-19,7
+1954,WC-1954,M-1954-10,group stage,Brazil,Yugoslavia,1,1,draw,0,0,1,1,0,1954-06-19,2
+1954,WC-1954,M-1954-11,group stage,Austria,Czechoslovakia,5,0,home team win,1,0,0,0,0,1954-06-19,5
+1954,WC-1954,M-1954-12,group stage,France,Mexico,3,2,home team win,1,0,0,0,0,1954-06-19,5
+1954,WC-1954,M-1954-13,group stage,Hungary,West Germany,8,3,home team win,1,0,0,0,0,1954-06-20,11
+1954,WC-1954,M-1954-14,group stage,Turkey,South Korea,7,0,home team win,1,0,0,0,0,1954-06-20,7
+1954,WC-1954,M-1954-15,group stage,Italy,Belgium,4,1,home team win,1,0,0,0,0,1954-06-20,5
+1954,WC-1954,M-1954-16,group stage,England,Switzerland,2,0,home team win,1,0,0,0,0,1954-06-20,2
+1954,WC-1954,M-1954-17,group stage,West Germany,Turkey,7,2,home team win,1,0,0,0,0,1954-06-23,9
+1954,WC-1954,M-1954-18,group stage,Switzerland,Italy,4,1,home team win,1,0,0,0,0,1954-06-23,5
+1954,WC-1954,M-1954-19,quarter-finals,Austria,Switzerland,7,5,home team win,1,0,0,0,0,1954-06-26,12
+1954,WC-1954,M-1954-20,quarter-finals,Uruguay,England,4,2,home team win,1,0,0,0,0,1954-06-26,6
+1954,WC-1954,M-1954-21,quarter-finals,Hungary,Brazil,4,2,home team win,1,0,0,0,0,1954-06-27,6
+1954,WC-1954,M-1954-22,quarter-finals,West Germany,Yugoslavia,2,0,home team win,1,0,0,0,0,1954-06-27,2
+1954,WC-1954,M-1954-23,semi-finals,Hungary,Uruguay,4,2,home team win,1,0,0,1,0,1954-06-30,6
+1954,WC-1954,M-1954-24,semi-finals,West Germany,Austria,6,1,home team win,1,0,0,0,0,1954-06-30,7
+1954,WC-1954,M-1954-25,third-place match,Austria,Uruguay,3,1,home team win,1,0,0,0,0,1954-07-03,4
+1954,WC-1954,M-1954-26,final,West Germany,Hungary,3,2,home team win,1,0,0,0,0,1954-07-04,5
+1958,WC-1958,M-1958-01,group stage,Sweden,Mexico,3,0,home team win,1,0,0,0,0,1958-06-08,3
+1958,WC-1958,M-1958-02,group stage,Argentina,West Germany,1,3,away team win,0,1,0,0,0,1958-06-08,4
+1958,WC-1958,M-1958-03,group stage,Northern Ireland,Czechoslovakia,1,0,home team win,1,0,0,0,0,1958-06-08,1
+1958,WC-1958,M-1958-04,group stage,France,Paraguay,7,3,home team win,1,0,0,0,0,1958-06-08,10
+1958,WC-1958,M-1958-05,group stage,Yugoslavia,Scotland,1,1,draw,0,0,1,0,0,1958-06-08,2
+1958,WC-1958,M-1958-06,group stage,Hungary,Wales,1,1,draw,0,0,1,0,0,1958-06-08,2
+1958,WC-1958,M-1958-07,group stage,Brazil,Austria,3,0,home team win,1,0,0,0,0,1958-06-08,3
+1958,WC-1958,M-1958-08,group stage,Soviet Union,England,2,2,draw,0,0,1,0,0,1958-06-08,4
+1958,WC-1958,M-1958-09,group stage,Argentina,Northern Ireland,3,1,home team win,1,0,0,0,0,1958-06-11,4
+1958,WC-1958,M-1958-10,group stage,West Germany,Czechoslovakia,2,2,draw,0,0,1,0,0,1958-06-11,4
+1958,WC-1958,M-1958-11,group stage,Paraguay,Scotland,3,2,home team win,1,0,0,0,0,1958-06-11,5
+1958,WC-1958,M-1958-12,group stage,Yugoslavia,France,3,2,home team win,1,0,0,0,0,1958-06-11,5
+1958,WC-1958,M-1958-13,group stage,Mexico,Wales,1,1,draw,0,0,1,0,0,1958-06-11,2
+1958,WC-1958,M-1958-14,group stage,Brazil,England,0,0,draw,0,0,1,0,0,1958-06-11,0
+1958,WC-1958,M-1958-15,group stage,Soviet Union,Austria,2,0,home team win,1,0,0,0,0,1958-06-11,2
+1958,WC-1958,M-1958-16,group stage,Sweden,Hungary,2,1,home team win,1,0,0,0,0,1958-06-12,3
+1958,WC-1958,M-1958-17,group stage,Sweden,Wales,0,0,draw,0,0,1,0,0,1958-06-15,0
+1958,WC-1958,M-1958-18,group stage,Czechoslovakia,Argentina,6,1,home team win,1,0,0,0,0,1958-06-15,7
+1958,WC-1958,M-1958-19,group stage,West Germany,Northern Ireland,2,2,draw,0,0,1,0,0,1958-06-15,4
+1958,WC-1958,M-1958-20,group stage,France,Scotland,2,1,home team win,1,0,0,0,0,1958-06-15,3
+1958,WC-1958,M-1958-21,group stage,Paraguay,Yugoslavia,3,3,draw,0,0,1,0,0,1958-06-15,6
+1958,WC-1958,M-1958-22,group stage,Hungary,Mexico,4,0,home team win,1,0,0,0,0,1958-06-15,4
+1958,WC-1958,M-1958-23,group stage,Brazil,Soviet Union,2,0,home team win,1,0,0,0,0,1958-06-15,2
+1958,WC-1958,M-1958-24,group stage,England,Austria,2,2,draw,0,0,1,0,0,1958-06-15,4
+1958,WC-1958,M-1958-25,group stage,Northern Ireland,Czechoslovakia,2,1,home team win,1,0,0,1,0,1958-06-17,3
+1958,WC-1958,M-1958-26,group stage,Wales,Hungary,2,1,home team win,1,0,0,0,0,1958-06-17,3
+1958,WC-1958,M-1958-27,group stage,Soviet Union,England,1,0,home team win,1,0,0,0,0,1958-06-17,1
+1958,WC-1958,M-1958-28,quarter-finals,Brazil,Wales,1,0,home team win,1,0,0,0,0,1958-06-19,1
+1958,WC-1958,M-1958-29,quarter-finals,France,Northern Ireland,4,0,home team win,1,0,0,0,0,1958-06-19,4
+1958,WC-1958,M-1958-30,quarter-finals,Sweden,Soviet Union,2,0,home team win,1,0,0,0,0,1958-06-19,2
+1958,WC-1958,M-1958-31,quarter-finals,West Germany,Yugoslavia,1,0,home team win,1,0,0,0,0,1958-06-19,1
+1958,WC-1958,M-1958-32,semi-finals,Brazil,France,5,2,home team win,1,0,0,0,0,1958-06-24,7
+1958,WC-1958,M-1958-33,semi-finals,Sweden,West Germany,3,1,home team win,1,0,0,0,0,1958-06-24,4
+1958,WC-1958,M-1958-34,third-place match,France,West Germany,6,3,home team win,1,0,0,0,0,1958-06-28,9
+1958,WC-1958,M-1958-35,final,Brazil,Sweden,5,2,home team win,1,0,0,0,0,1958-06-29,7
+1962,WC-1962,M-1962-01,group stage,Uruguay,Colombia,2,1,home team win,1,0,0,0,0,1962-05-30,3
+1962,WC-1962,M-1962-02,group stage,Chile,Switzerland,3,1,home team win,1,0,0,0,0,1962-05-30,4
+1962,WC-1962,M-1962-03,group stage,Brazil,Mexico,2,0,home team win,1,0,0,0,0,1962-05-30,2
+1962,WC-1962,M-1962-04,group stage,Argentina,Bulgaria,1,0,home team win,1,0,0,0,0,1962-05-30,1
+1962,WC-1962,M-1962-05,group stage,Soviet Union,Yugoslavia,2,0,home team win,1,0,0,0,0,1962-05-31,2
+1962,WC-1962,M-1962-06,group stage,West Germany,Italy,0,0,draw,0,0,1,0,0,1962-05-31,0
+1962,WC-1962,M-1962-07,group stage,Czechoslovakia,Spain,1,0,home team win,1,0,0,0,0,1962-05-31,1
+1962,WC-1962,M-1962-08,group stage,Hungary,England,2,1,home team win,1,0,0,0,0,1962-05-31,3
+1962,WC-1962,M-1962-09,group stage,Yugoslavia,Uruguay,3,1,home team win,1,0,0,0,0,1962-06-02,4
+1962,WC-1962,M-1962-10,group stage,Chile,Italy,2,0,home team win,1,0,0,0,0,1962-06-02,2
+1962,WC-1962,M-1962-11,group stage,Brazil,Czechoslovakia,0,0,draw,0,0,1,0,0,1962-06-02,0
+1962,WC-1962,M-1962-12,group stage,England,Argentina,3,1,home team win,1,0,0,0,0,1962-06-02,4
+1962,WC-1962,M-1962-13,group stage,Soviet Union,Colombia,4,4,draw,0,0,1,0,0,1962-06-03,8
+1962,WC-1962,M-1962-14,group stage,West Germany,Switzerland,2,1,home team win,1,0,0,0,0,1962-06-03,3
+1962,WC-1962,M-1962-15,group stage,Spain,Mexico,1,0,home team win,1,0,0,0,0,1962-06-03,1
+1962,WC-1962,M-1962-16,group stage,Hungary,Bulgaria,6,1,home team win,1,0,0,0,0,1962-06-03,7
+1962,WC-1962,M-1962-17,group stage,Soviet Union,Uruguay,2,1,home team win,1,0,0,0,0,1962-06-06,3
+1962,WC-1962,M-1962-18,group stage,West Germany,Chile,2,0,home team win,1,0,0,0,0,1962-06-06,2
+1962,WC-1962,M-1962-19,group stage,Brazil,Spain,2,1,home team win,1,0,0,0,0,1962-06-06,3
+1962,WC-1962,M-1962-20,group stage,Hungary,Argentina,0,0,draw,0,0,1,0,0,1962-06-06,0
+1962,WC-1962,M-1962-21,group stage,Yugoslavia,Colombia,5,0,home team win,1,0,0,0,0,1962-06-07,5
+1962,WC-1962,M-1962-22,group stage,Italy,Switzerland,3,0,home team win,1,0,0,0,0,1962-06-07,3
+1962,WC-1962,M-1962-23,group stage,Mexico,Czechoslovakia,3,1,home team win,1,0,0,0,0,1962-06-07,4
+1962,WC-1962,M-1962-24,group stage,England,Bulgaria,0,0,draw,0,0,1,0,0,1962-06-07,0
+1962,WC-1962,M-1962-25,quarter-finals,Brazil,England,3,1,home team win,1,0,0,0,0,1962-06-10,4
+1962,WC-1962,M-1962-26,quarter-finals,Chile,Soviet Union,2,1,home team win,1,0,0,0,0,1962-06-10,3
+1962,WC-1962,M-1962-27,quarter-finals,Czechoslovakia,Hungary,1,0,home team win,1,0,0,0,0,1962-06-10,1
+1962,WC-1962,M-1962-28,quarter-finals,Yugoslavia,West Germany,1,0,home team win,1,0,0,0,0,1962-06-10,1
+1962,WC-1962,M-1962-29,semi-finals,Brazil,Chile,4,2,home team win,1,0,0,0,0,1962-06-13,6
+1962,WC-1962,M-1962-30,semi-finals,Czechoslovakia,Yugoslavia,3,1,home team win,1,0,0,0,0,1962-06-13,4
+1962,WC-1962,M-1962-31,third-place match,Chile,Yugoslavia,1,0,home team win,1,0,0,0,0,1962-06-16,1
+1962,WC-1962,M-1962-32,final,Brazil,Czechoslovakia,3,1,home team win,1,0,0,0,0,1962-06-17,4
+1966,WC-1966,M-1966-01,group stage,England,Uruguay,0,0,draw,0,0,1,0,0,1966-07-11,0
+1966,WC-1966,M-1966-02,group stage,West Germany,Switzerland,5,0,home team win,1,0,0,0,0,1966-07-12,5
+1966,WC-1966,M-1966-03,group stage,Brazil,Bulgaria,2,0,home team win,1,0,0,0,0,1966-07-12,2
+1966,WC-1966,M-1966-04,group stage,Soviet Union,North Korea,3,0,home team win,1,0,0,0,0,1966-07-12,3
+1966,WC-1966,M-1966-05,group stage,France,Mexico,1,1,draw,0,0,1,0,0,1966-07-13,2
+1966,WC-1966,M-1966-06,group stage,Argentina,Spain,2,1,home team win,1,0,0,0,0,1966-07-13,3
+1966,WC-1966,M-1966-07,group stage,Portugal,Hungary,3,1,home team win,1,0,0,0,0,1966-07-13,4
+1966,WC-1966,M-1966-08,group stage,Italy,Chile,2,0,home team win,1,0,0,0,0,1966-07-13,2
+1966,WC-1966,M-1966-09,group stage,Uruguay,France,2,1,home team win,1,0,0,0,0,1966-07-15,3
+1966,WC-1966,M-1966-10,group stage,Spain,Switzerland,2,1,home team win,1,0,0,0,0,1966-07-15,3
+1966,WC-1966,M-1966-11,group stage,Hungary,Brazil,3,1,home team win,1,0,0,0,0,1966-07-15,4
+1966,WC-1966,M-1966-12,group stage,Chile,North Korea,1,1,draw,0,0,1,0,0,1966-07-15,2
+1966,WC-1966,M-1966-13,group stage,Argentina,West Germany,0,0,draw,0,0,1,0,0,1966-07-16,0
+1966,WC-1966,M-1966-14,group stage,Portugal,Bulgaria,3,0,home team win,1,0,0,0,0,1966-07-16,3
+1966,WC-1966,M-1966-15,group stage,Soviet Union,Italy,1,0,home team win,1,0,0,0,0,1966-07-16,1
+1966,WC-1966,M-1966-16,group stage,England,Mexico,2,0,home team win,1,0,0,0,0,1966-07-16,2
+1966,WC-1966,M-1966-17,group stage,Mexico,Uruguay,0,0,draw,0,0,1,0,0,1966-07-19,0
+1966,WC-1966,M-1966-18,group stage,Argentina,Switzerland,2,0,home team win,1,0,0,0,0,1966-07-19,2
+1966,WC-1966,M-1966-19,group stage,Portugal,Brazil,3,1,home team win,1,0,0,0,0,1966-07-19,4
+1966,WC-1966,M-1966-20,group stage,North Korea,Italy,1,0,home team win,1,0,0,0,0,1966-07-19,1
+1966,WC-1966,M-1966-21,group stage,England,France,2,0,home team win,1,0,0,0,0,1966-07-20,2
+1966,WC-1966,M-1966-22,group stage,West Germany,Spain,2,1,home team win,1,0,0,0,0,1966-07-20,3
+1966,WC-1966,M-1966-23,group stage,Hungary,Bulgaria,3,1,home team win,1,0,0,0,0,1966-07-20,4
+1966,WC-1966,M-1966-24,group stage,Soviet Union,Chile,2,1,home team win,1,0,0,0,0,1966-07-20,3
+1966,WC-1966,M-1966-25,quarter-finals,England,Argentina,1,0,home team win,1,0,0,0,0,1966-07-23,1
+1966,WC-1966,M-1966-26,quarter-finals,Portugal,North Korea,5,3,home team win,1,0,0,0,0,1966-07-23,8
+1966,WC-1966,M-1966-27,quarter-finals,Soviet Union,Hungary,2,1,home team win,1,0,0,0,0,1966-07-23,3
+1966,WC-1966,M-1966-28,quarter-finals,West Germany,Uruguay,4,0,home team win,1,0,0,0,0,1966-07-23,4
+1966,WC-1966,M-1966-29,semi-finals,West Germany,Soviet Union,2,1,home team win,1,0,0,0,0,1966-07-25,3
+1966,WC-1966,M-1966-30,semi-finals,England,Portugal,2,1,home team win,1,0,0,0,0,1966-07-26,3
+1966,WC-1966,M-1966-31,third-place match,Portugal,Soviet Union,2,1,home team win,1,0,0,0,0,1966-07-28,3
+1966,WC-1966,M-1966-32,final,England,West Germany,4,2,home team win,1,0,0,1,0,1966-07-30,6
+1970,WC-1970,M-1970-01,group stage,Mexico,Soviet Union,0,0,draw,0,0,1,0,0,1970-05-31,0
+1970,WC-1970,M-1970-02,group stage,Uruguay,Israel,2,0,home team win,1,0,0,0,0,1970-06-02,2
+1970,WC-1970,M-1970-03,group stage,England,Romania,1,0,home team win,1,0,0,0,0,1970-06-02,1
+1970,WC-1970,M-1970-04,group stage,Peru,Bulgaria,3,2,home team win,1,0,0,0,0,1970-06-02,5
+1970,WC-1970,M-1970-05,group stage,Belgium,El Salvador,3,0,home team win,1,0,0,0,0,1970-06-03,3
+1970,WC-1970,M-1970-06,group stage,Italy,Sweden,1,0,home team win,1,0,0,0,0,1970-06-03,1
+1970,WC-1970,M-1970-07,group stage,Brazil,Czechoslovakia,4,1,home team win,1,0,0,0,0,1970-06-03,5
+1970,WC-1970,M-1970-08,group stage,West Germany,Morocco,2,1,home team win,1,0,0,0,0,1970-06-03,3
+1970,WC-1970,M-1970-09,group stage,Soviet Union,Belgium,4,1,home team win,1,0,0,0,0,1970-06-06,5
+1970,WC-1970,M-1970-10,group stage,Uruguay,Italy,0,0,draw,0,0,1,0,0,1970-06-06,0
+1970,WC-1970,M-1970-11,group stage,Romania,Czechoslovakia,2,1,home team win,1,0,0,0,0,1970-06-06,3
+1970,WC-1970,M-1970-12,group stage,Peru,Morocco,3,0,home team win,1,0,0,0,0,1970-06-06,3
+1970,WC-1970,M-1970-13,group stage,Mexico,El Salvador,4,0,home team win,1,0,0,0,0,1970-06-07,4
+1970,WC-1970,M-1970-14,group stage,Sweden,Israel,1,1,draw,0,0,1,0,0,1970-06-07,2
+1970,WC-1970,M-1970-15,group stage,Brazil,England,1,0,home team win,1,0,0,0,0,1970-06-07,1
+1970,WC-1970,M-1970-16,group stage,West Germany,Bulgaria,5,2,home team win,1,0,0,0,0,1970-06-07,7
+1970,WC-1970,M-1970-17,group stage,Soviet Union,El Salvador,2,0,home team win,1,0,0,0,0,1970-06-10,2
+1970,WC-1970,M-1970-18,group stage,Sweden,Uruguay,1,0,home team win,1,0,0,0,0,1970-06-10,1
+1970,WC-1970,M-1970-19,group stage,Brazil,Romania,3,2,home team win,1,0,0,0,0,1970-06-10,5
+1970,WC-1970,M-1970-20,group stage,West Germany,Peru,3,1,home team win,1,0,0,0,0,1970-06-10,4
+1970,WC-1970,M-1970-21,group stage,Mexico,Belgium,1,0,home team win,1,0,0,0,0,1970-06-11,1
+1970,WC-1970,M-1970-22,group stage,Italy,Israel,0,0,draw,0,0,1,0,0,1970-06-11,0
+1970,WC-1970,M-1970-23,group stage,England,Czechoslovakia,1,0,home team win,1,0,0,0,0,1970-06-11,1
+1970,WC-1970,M-1970-24,group stage,Bulgaria,Morocco,1,1,draw,0,0,1,0,0,1970-06-11,2
+1970,WC-1970,M-1970-25,quarter-finals,Brazil,Peru,4,2,home team win,1,0,0,0,0,1970-06-14,6
+1970,WC-1970,M-1970-26,quarter-finals,Italy,Mexico,4,1,home team win,1,0,0,0,0,1970-06-14,5
+1970,WC-1970,M-1970-27,quarter-finals,Soviet Union,Uruguay,0,1,away team win,0,1,0,1,0,1970-06-14,1
+1970,WC-1970,M-1970-28,quarter-finals,West Germany,England,3,2,home team win,1,0,0,1,0,1970-06-14,5
+1970,WC-1970,M-1970-29,semi-finals,Brazil,Uruguay,3,1,home team win,1,0,0,0,0,1970-06-17,4
+1970,WC-1970,M-1970-30,semi-finals,Italy,West Germany,4,3,home team win,1,0,0,1,0,1970-06-17,7
+1970,WC-1970,M-1970-31,third-place match,West Germany,Uruguay,1,0,home team win,1,0,0,0,0,1970-06-20,1
+1970,WC-1970,M-1970-32,final,Brazil,Italy,4,1,home team win,1,0,0,0,0,1970-06-21,5
+1974,WC-1974,M-1974-01,group stage,Brazil,Yugoslavia,0,0,draw,0,0,1,0,0,1974-06-13,0
+1974,WC-1974,M-1974-02,group stage,West Germany,Chile,1,0,home team win,1,0,0,0,0,1974-06-14,1
+1974,WC-1974,M-1974-03,group stage,East Germany,Australia,2,0,home team win,1,0,0,0,0,1974-06-14,2
+1974,WC-1974,M-1974-04,group stage,Zaire,Scotland,0,2,away team win,0,1,0,0,0,1974-06-14,2
+1974,WC-1974,M-1974-05,group stage,Sweden,Bulgaria,0,0,draw,0,0,1,0,0,1974-06-15,0
+1974,WC-1974,M-1974-06,group stage,Uruguay,Netherlands,0,2,away team win,0,1,0,0,0,1974-06-15,2
+1974,WC-1974,M-1974-07,group stage,Italy,Haiti,3,1,home team win,1,0,0,0,0,1974-06-15,4
+1974,WC-1974,M-1974-08,group stage,Poland,Argentina,3,2,home team win,1,0,0,0,0,1974-06-15,5
+1974,WC-1974,M-1974-09,group stage,Australia,West Germany,0,3,away team win,0,1,0,0,0,1974-06-18,3
+1974,WC-1974,M-1974-10,group stage,Chile,East Germany,1,1,draw,0,0,1,0,0,1974-06-18,2
+1974,WC-1974,M-1974-11,group stage,Scotland,Brazil,0,0,draw,0,0,1,0,0,1974-06-18,0
+1974,WC-1974,M-1974-12,group stage,Yugoslavia,Zaire,9,0,home team win,1,0,0,0,0,1974-06-18,9
+1974,WC-1974,M-1974-13,group stage,Bulgaria,Uruguay,1,1,draw,0,0,1,0,0,1974-06-19,2
+1974,WC-1974,M-1974-14,group stage,Netherlands,Sweden,0,0,draw,0,0,1,0,0,1974-06-19,0
+1974,WC-1974,M-1974-15,group stage,Argentina,Italy,1,1,draw,0,0,1,0,0,1974-06-19,2
+1974,WC-1974,M-1974-16,group stage,Haiti,Poland,0,7,away team win,0,1,0,0,0,1974-06-19,7
+1974,WC-1974,M-1974-17,group stage,Australia,Chile,0,0,draw,0,0,1,0,0,1974-06-22,0
+1974,WC-1974,M-1974-18,group stage,Scotland,Yugoslavia,1,1,draw,0,0,1,0,0,1974-06-22,2
+1974,WC-1974,M-1974-19,group stage,Zaire,Brazil,0,3,away team win,0,1,0,0,0,1974-06-22,3
+1974,WC-1974,M-1974-20,group stage,East Germany,West Germany,1,0,home team win,1,0,0,0,0,1974-06-22,1
+1974,WC-1974,M-1974-21,group stage,Bulgaria,Netherlands,1,4,away team win,0,1,0,0,0,1974-06-23,5
+1974,WC-1974,M-1974-22,group stage,Sweden,Uruguay,3,0,home team win,1,0,0,0,0,1974-06-23,3
+1974,WC-1974,M-1974-23,group stage,Argentina,Haiti,4,1,home team win,1,0,0,0,0,1974-06-23,5
+1974,WC-1974,M-1974-24,group stage,Poland,Italy,2,1,home team win,1,0,0,0,0,1974-06-23,3
+1974,WC-1974,M-1974-25,second group stage,Yugoslavia,West Germany,0,2,away team win,0,1,0,0,0,1974-06-26,2
+1974,WC-1974,M-1974-26,second group stage,Brazil,East Germany,1,0,home team win,1,0,0,0,0,1974-06-26,1
+1974,WC-1974,M-1974-27,second group stage,Netherlands,Argentina,4,0,home team win,1,0,0,0,0,1974-06-26,4
+1974,WC-1974,M-1974-28,second group stage,Sweden,Poland,0,1,away team win,0,1,0,0,0,1974-06-26,1
+1974,WC-1974,M-1974-29,second group stage,Argentina,Brazil,1,2,away team win,0,1,0,0,0,1974-06-30,3
+1974,WC-1974,M-1974-30,second group stage,East Germany,Netherlands,0,2,away team win,0,1,0,0,0,1974-06-30,2
+1974,WC-1974,M-1974-31,second group stage,Poland,Yugoslavia,2,1,home team win,1,0,0,0,0,1974-06-30,3
+1974,WC-1974,M-1974-32,second group stage,West Germany,Sweden,4,2,home team win,1,0,0,0,0,1974-06-30,6
+1974,WC-1974,M-1974-33,second group stage,Poland,West Germany,0,1,away team win,0,1,0,0,0,1974-07-03,1
+1974,WC-1974,M-1974-34,second group stage,Argentina,East Germany,1,1,draw,0,0,1,0,0,1974-07-03,2
+1974,WC-1974,M-1974-35,second group stage,Netherlands,Brazil,2,0,home team win,1,0,0,0,0,1974-07-03,2
+1974,WC-1974,M-1974-36,second group stage,Sweden,Yugoslavia,2,1,home team win,1,0,0,0,0,1974-07-03,3
+1974,WC-1974,M-1974-37,third-place match,Brazil,Poland,0,1,away team win,0,1,0,0,0,1974-07-06,1
+1974,WC-1974,M-1974-38,final,Netherlands,West Germany,1,2,away team win,0,1,0,0,0,1974-07-07,3
+1978,WC-1978,M-1978-01,group stage,West Germany,Poland,0,0,draw,0,0,1,0,0,1978-06-01,0
+1978,WC-1978,M-1978-02,group stage,Italy,France,2,1,home team win,1,0,0,0,0,1978-06-02,3
+1978,WC-1978,M-1978-03,group stage,Tunisia,Mexico,3,1,home team win,1,0,0,0,0,1978-06-02,4
+1978,WC-1978,M-1978-04,group stage,Argentina,Hungary,2,1,home team win,1,0,0,0,0,1978-06-02,3
+1978,WC-1978,M-1978-05,group stage,Austria,Spain,2,1,home team win,1,0,0,0,0,1978-06-03,3
+1978,WC-1978,M-1978-06,group stage,Brazil,Sweden,1,1,draw,0,0,1,0,0,1978-06-03,2
+1978,WC-1978,M-1978-07,group stage,Netherlands,Iran,3,0,home team win,1,0,0,0,0,1978-06-03,3
+1978,WC-1978,M-1978-08,group stage,Peru,Scotland,3,1,home team win,1,0,0,0,0,1978-06-03,4
+1978,WC-1978,M-1978-09,group stage,Italy,Hungary,3,1,home team win,1,0,0,0,0,1978-06-06,4
+1978,WC-1978,M-1978-10,group stage,Poland,Tunisia,1,0,home team win,1,0,0,0,0,1978-06-06,1
+1978,WC-1978,M-1978-11,group stage,West Germany,Mexico,6,0,home team win,1,0,0,0,0,1978-06-06,6
+1978,WC-1978,M-1978-12,group stage,Argentina,France,2,1,home team win,1,0,0,0,0,1978-06-06,3
+1978,WC-1978,M-1978-13,group stage,Austria,Sweden,1,0,home team win,1,0,0,0,0,1978-06-07,1
+1978,WC-1978,M-1978-14,group stage,Brazil,Spain,0,0,draw,0,0,1,0,0,1978-06-07,0
+1978,WC-1978,M-1978-15,group stage,Netherlands,Peru,0,0,draw,0,0,1,0,0,1978-06-07,0
+1978,WC-1978,M-1978-16,group stage,Scotland,Iran,1,1,draw,0,0,1,0,0,1978-06-07,2
+1978,WC-1978,M-1978-17,group stage,France,Hungary,3,1,home team win,1,0,0,0,0,1978-06-10,4
+1978,WC-1978,M-1978-18,group stage,Poland,Mexico,3,1,home team win,1,0,0,0,0,1978-06-10,4
+1978,WC-1978,M-1978-19,group stage,West Germany,Tunisia,0,0,draw,0,0,1,0,0,1978-06-10,0
+1978,WC-1978,M-1978-20,group stage,Argentina,Italy,0,1,away team win,0,1,0,0,0,1978-06-10,1
+1978,WC-1978,M-1978-21,group stage,Brazil,Austria,1,0,home team win,1,0,0,0,0,1978-06-11,1
+1978,WC-1978,M-1978-22,group stage,Spain,Sweden,1,0,home team win,1,0,0,0,0,1978-06-11,1
+1978,WC-1978,M-1978-23,group stage,Peru,Iran,4,1,home team win,1,0,0,0,0,1978-06-11,5
+1978,WC-1978,M-1978-24,group stage,Scotland,Netherlands,3,2,home team win,1,0,0,0,0,1978-06-11,5
+1978,WC-1978,M-1978-25,second group stage,Austria,Netherlands,1,5,away team win,0,1,0,0,0,1978-06-14,6
+1978,WC-1978,M-1978-26,second group stage,Italy,West Germany,0,0,draw,0,0,1,0,0,1978-06-14,0
+1978,WC-1978,M-1978-27,second group stage,Brazil,Peru,3,0,home team win,1,0,0,0,0,1978-06-14,3
+1978,WC-1978,M-1978-28,second group stage,Argentina,Poland,2,0,home team win,1,0,0,0,0,1978-06-14,2
+1978,WC-1978,M-1978-29,second group stage,Peru,Poland,0,1,away team win,0,1,0,0,0,1978-06-18,1
+1978,WC-1978,M-1978-30,second group stage,Italy,Austria,1,0,home team win,1,0,0,0,0,1978-06-18,1
+1978,WC-1978,M-1978-31,second group stage,Netherlands,West Germany,2,2,draw,0,0,1,0,0,1978-06-18,4
+1978,WC-1978,M-1978-32,second group stage,Argentina,Brazil,0,0,draw,0,0,1,0,0,1978-06-18,0
+1978,WC-1978,M-1978-33,second group stage,Austria,West Germany,3,2,home team win,1,0,0,0,0,1978-06-21,5
+1978,WC-1978,M-1978-34,second group stage,Italy,Netherlands,1,2,away team win,0,1,0,0,0,1978-06-21,3
+1978,WC-1978,M-1978-35,second group stage,Brazil,Poland,3,1,home team win,1,0,0,0,0,1978-06-21,4
+1978,WC-1978,M-1978-36,second group stage,Argentina,Peru,6,0,home team win,1,0,0,0,0,1978-06-21,6
+1978,WC-1978,M-1978-37,third-place match,Brazil,Italy,2,1,home team win,1,0,0,0,0,1978-06-24,3
+1978,WC-1978,M-1978-38,final,Argentina,Netherlands,3,1,home team win,1,0,0,1,0,1978-06-25,4
+1982,WC-1982,M-1982-01,group stage,Argentina,Belgium,0,1,away team win,0,1,0,0,0,1982-06-13,1
+1982,WC-1982,M-1982-02,group stage,Italy,Poland,0,0,draw,0,0,1,0,0,1982-06-14,0
+1982,WC-1982,M-1982-03,group stage,Brazil,Soviet Union,2,1,home team win,1,0,0,0,0,1982-06-14,3
+1982,WC-1982,M-1982-04,group stage,Peru,Cameroon,0,0,draw,0,0,1,0,0,1982-06-15,0
+1982,WC-1982,M-1982-05,group stage,Hungary,El Salvador,10,1,home team win,1,0,0,0,0,1982-06-15,11
+1982,WC-1982,M-1982-06,group stage,Scotland,New Zealand,5,2,home team win,1,0,0,0,0,1982-06-15,7
+1982,WC-1982,M-1982-07,group stage,West Germany,Algeria,1,2,away team win,0,1,0,0,0,1982-06-16,3
+1982,WC-1982,M-1982-08,group stage,England,France,3,1,home team win,1,0,0,0,0,1982-06-16,4
+1982,WC-1982,M-1982-09,group stage,Spain,Honduras,1,1,draw,0,0,1,0,0,1982-06-16,2
+1982,WC-1982,M-1982-10,group stage,Chile,Austria,0,1,away team win,0,1,0,0,0,1982-06-17,1
+1982,WC-1982,M-1982-11,group stage,Czechoslovakia,Kuwait,1,1,draw,0,0,1,0,0,1982-06-17,2
+1982,WC-1982,M-1982-12,group stage,Yugoslavia,Northern Ireland,0,0,draw,0,0,1,0,0,1982-06-17,0
+1982,WC-1982,M-1982-13,group stage,Italy,Peru,1,1,draw,0,0,1,0,0,1982-06-18,2
+1982,WC-1982,M-1982-14,group stage,Argentina,Hungary,4,1,home team win,1,0,0,0,0,1982-06-18,5
+1982,WC-1982,M-1982-15,group stage,Brazil,Scotland,4,1,home team win,1,0,0,0,0,1982-06-18,5
+1982,WC-1982,M-1982-16,group stage,Poland,Cameroon,0,0,draw,0,0,1,0,0,1982-06-19,0
+1982,WC-1982,M-1982-17,group stage,Belgium,El Salvador,1,0,home team win,1,0,0,0,0,1982-06-19,1
+1982,WC-1982,M-1982-18,group stage,Soviet Union,New Zealand,3,0,home team win,1,0,0,0,0,1982-06-19,3
+1982,WC-1982,M-1982-19,group stage,West Germany,Chile,4,1,home team win,1,0,0,0,0,1982-06-20,5
+1982,WC-1982,M-1982-20,group stage,England,Czechoslovakia,2,0,home team win,1,0,0,0,0,1982-06-20,2
+1982,WC-1982,M-1982-21,group stage,Spain,Yugoslavia,2,1,home team win,1,0,0,0,0,1982-06-20,3
+1982,WC-1982,M-1982-22,group stage,Algeria,Austria,0,2,away team win,0,1,0,0,0,1982-06-21,2
+1982,WC-1982,M-1982-23,group stage,France,Kuwait,4,1,home team win,1,0,0,0,0,1982-06-21,5
+1982,WC-1982,M-1982-24,group stage,Honduras,Northern Ireland,1,1,draw,0,0,1,0,0,1982-06-21,2
+1982,WC-1982,M-1982-25,group stage,Poland,Peru,5,1,home team win,1,0,0,0,0,1982-06-22,6
+1982,WC-1982,M-1982-26,group stage,Belgium,Hungary,1,1,draw,0,0,1,0,0,1982-06-22,2
+1982,WC-1982,M-1982-27,group stage,Soviet Union,Scotland,2,2,draw,0,0,1,0,0,1982-06-22,4
+1982,WC-1982,M-1982-28,group stage,Italy,Cameroon,1,1,draw,0,0,1,0,0,1982-06-23,2
+1982,WC-1982,M-1982-29,group stage,Argentina,El Salvador,2,0,home team win,1,0,0,0,0,1982-06-23,2
+1982,WC-1982,M-1982-30,group stage,Brazil,New Zealand,4,0,home team win,1,0,0,0,0,1982-06-23,4
+1982,WC-1982,M-1982-31,group stage,Algeria,Chile,3,2,home team win,1,0,0,0,0,1982-06-24,5
+1982,WC-1982,M-1982-32,group stage,France,Czechoslovakia,1,1,draw,0,0,1,0,0,1982-06-24,2
+1982,WC-1982,M-1982-33,group stage,Honduras,Yugoslavia,0,1,away team win,0,1,0,0,0,1982-06-24,1
+1982,WC-1982,M-1982-34,group stage,West Germany,Austria,1,0,home team win,1,0,0,0,0,1982-06-25,1
+1982,WC-1982,M-1982-35,group stage,England,Kuwait,1,0,home team win,1,0,0,0,0,1982-06-25,1
+1982,WC-1982,M-1982-36,group stage,Spain,Northern Ireland,0,1,away team win,0,1,0,0,0,1982-06-25,1
+1982,WC-1982,M-1982-37,second group stage,Austria,France,0,1,away team win,0,1,0,0,0,1982-06-28,1
+1982,WC-1982,M-1982-38,second group stage,Poland,Belgium,3,0,home team win,1,0,0,0,0,1982-06-28,3
+1982,WC-1982,M-1982-39,second group stage,Italy,Argentina,2,1,home team win,1,0,0,0,0,1982-06-29,3
+1982,WC-1982,M-1982-40,second group stage,West Germany,England,0,0,draw,0,0,1,0,0,1982-06-29,0
+1982,WC-1982,M-1982-41,second group stage,Austria,Northern Ireland,2,2,draw,0,0,1,0,0,1982-07-01,4
+1982,WC-1982,M-1982-42,second group stage,Belgium,Soviet Union,0,1,away team win,0,1,0,0,0,1982-07-01,1
+1982,WC-1982,M-1982-43,second group stage,Argentina,Brazil,1,3,away team win,0,1,0,0,0,1982-07-02,4
+1982,WC-1982,M-1982-44,second group stage,West Germany,Spain,2,1,home team win,1,0,0,0,0,1982-07-02,3
+1982,WC-1982,M-1982-45,second group stage,France,Northern Ireland,4,1,home team win,1,0,0,0,0,1982-07-04,5
+1982,WC-1982,M-1982-46,second group stage,Soviet Union,Poland,0,0,draw,0,0,1,0,0,1982-07-04,0
+1982,WC-1982,M-1982-47,second group stage,Italy,Brazil,3,2,home team win,1,0,0,0,0,1982-07-05,5
+1982,WC-1982,M-1982-48,second group stage,Spain,England,0,0,draw,0,0,1,0,0,1982-07-05,0
+1982,WC-1982,M-1982-49,semi-finals,Poland,Italy,0,2,away team win,0,1,0,0,0,1982-07-08,2
+1982,WC-1982,M-1982-50,semi-finals,West Germany,France,3,3,home team win,1,0,0,1,1,1982-07-08,6
+1982,WC-1982,M-1982-51,third-place match,Poland,France,3,2,home team win,1,0,0,0,0,1982-07-10,5
+1982,WC-1982,M-1982-52,final,Italy,West Germany,3,1,home team win,1,0,0,0,0,1982-07-11,4
+1986,WC-1986,M-1986-01,group stage,Bulgaria,Italy,1,1,draw,0,0,1,0,0,1986-05-31,2
+1986,WC-1986,M-1986-02,group stage,Spain,Brazil,0,1,away team win,0,1,0,0,0,1986-06-01,1
+1986,WC-1986,M-1986-03,group stage,Canada,France,0,1,away team win,0,1,0,0,0,1986-06-01,1
+1986,WC-1986,M-1986-04,group stage,Argentina,South Korea,3,1,home team win,1,0,0,0,0,1986-06-02,4
+1986,WC-1986,M-1986-05,group stage,Soviet Union,Hungary,6,0,home team win,1,0,0,0,0,1986-06-02,6
+1986,WC-1986,M-1986-06,group stage,Morocco,Poland,0,0,draw,0,0,1,0,0,1986-06-02,0
+1986,WC-1986,M-1986-07,group stage,Belgium,Mexico,1,2,away team win,0,1,0,0,0,1986-06-03,3
+1986,WC-1986,M-1986-08,group stage,Algeria,Northern Ireland,1,1,draw,0,0,1,0,0,1986-06-03,2
+1986,WC-1986,M-1986-09,group stage,Portugal,England,1,0,home team win,1,0,0,0,0,1986-06-03,1
+1986,WC-1986,M-1986-10,group stage,Paraguay,Iraq,1,0,home team win,1,0,0,0,0,1986-06-04,1
+1986,WC-1986,M-1986-11,group stage,Uruguay,West Germany,1,1,draw,0,0,1,0,0,1986-06-04,2
+1986,WC-1986,M-1986-12,group stage,Scotland,Denmark,0,1,away team win,0,1,0,0,0,1986-06-04,1
+1986,WC-1986,M-1986-13,group stage,Italy,Argentina,1,1,draw,0,0,1,0,0,1986-06-05,2
+1986,WC-1986,M-1986-14,group stage,France,Soviet Union,1,1,draw,0,0,1,0,0,1986-06-05,2
+1986,WC-1986,M-1986-15,group stage,South Korea,Bulgaria,1,1,draw,0,0,1,0,0,1986-06-05,2
+1986,WC-1986,M-1986-16,group stage,Hungary,Canada,2,0,home team win,1,0,0,0,0,1986-06-06,2
+1986,WC-1986,M-1986-17,group stage,Brazil,Algeria,1,0,home team win,1,0,0,0,0,1986-06-06,1
+1986,WC-1986,M-1986-18,group stage,England,Morocco,0,0,draw,0,0,1,0,0,1986-06-06,0
+1986,WC-1986,M-1986-19,group stage,Mexico,Paraguay,1,1,draw,0,0,1,0,0,1986-06-07,2
+1986,WC-1986,M-1986-20,group stage,Northern Ireland,Spain,1,2,away team win,0,1,0,0,0,1986-06-07,3
+1986,WC-1986,M-1986-21,group stage,Poland,Portugal,1,0,home team win,1,0,0,0,0,1986-06-07,1
+1986,WC-1986,M-1986-22,group stage,Iraq,Belgium,1,2,away team win,0,1,0,0,0,1986-06-08,3
+1986,WC-1986,M-1986-23,group stage,West Germany,Scotland,2,1,home team win,1,0,0,0,0,1986-06-08,3
+1986,WC-1986,M-1986-24,group stage,Denmark,Uruguay,6,1,home team win,1,0,0,0,0,1986-06-08,7
+1986,WC-1986,M-1986-25,group stage,Hungary,France,0,3,away team win,0,1,0,0,0,1986-06-09,3
+1986,WC-1986,M-1986-26,group stage,Soviet Union,Canada,2,0,home team win,1,0,0,0,0,1986-06-09,2
+1986,WC-1986,M-1986-27,group stage,Argentina,Bulgaria,2,0,home team win,1,0,0,0,0,1986-06-10,2
+1986,WC-1986,M-1986-28,group stage,South Korea,Italy,2,3,away team win,0,1,0,0,0,1986-06-10,5
+1986,WC-1986,M-1986-29,group stage,Iraq,Mexico,0,1,away team win,0,1,0,0,0,1986-06-11,1
+1986,WC-1986,M-1986-30,group stage,Paraguay,Belgium,2,2,draw,0,0,1,0,0,1986-06-11,4
+1986,WC-1986,M-1986-31,group stage,England,Poland,3,0,home team win,1,0,0,0,0,1986-06-11,3
+1986,WC-1986,M-1986-32,group stage,Portugal,Morocco,1,3,away team win,0,1,0,0,0,1986-06-11,4
+1986,WC-1986,M-1986-33,group stage,Algeria,Spain,0,3,away team win,0,1,0,0,0,1986-06-12,3
+1986,WC-1986,M-1986-34,group stage,Northern Ireland,Brazil,0,3,away team win,0,1,0,0,0,1986-06-12,3
+1986,WC-1986,M-1986-35,group stage,Denmark,West Germany,2,0,home team win,1,0,0,0,0,1986-06-13,2
+1986,WC-1986,M-1986-36,group stage,Scotland,Uruguay,0,0,draw,0,0,1,0,0,1986-06-13,0
+1986,WC-1986,M-1986-37,round of 16,Mexico,Bulgaria,2,0,home team win,1,0,0,0,0,1986-06-15,2
+1986,WC-1986,M-1986-38,round of 16,Soviet Union,Belgium,3,4,away team win,0,1,0,1,0,1986-06-15,7
+1986,WC-1986,M-1986-39,round of 16,Brazil,Poland,4,0,home team win,1,0,0,0,0,1986-06-16,4
+1986,WC-1986,M-1986-40,round of 16,Argentina,Uruguay,1,0,home team win,1,0,0,0,0,1986-06-16,1
+1986,WC-1986,M-1986-41,round of 16,Italy,France,0,2,away team win,0,1,0,0,0,1986-06-17,2
+1986,WC-1986,M-1986-42,round of 16,Morocco,West Germany,0,1,away team win,0,1,0,0,0,1986-06-17,1
+1986,WC-1986,M-1986-43,round of 16,England,Paraguay,3,0,home team win,1,0,0,0,0,1986-06-18,3
+1986,WC-1986,M-1986-44,round of 16,Denmark,Spain,1,5,away team win,0,1,0,0,0,1986-06-18,6
+1986,WC-1986,M-1986-45,quarter-finals,Brazil,France,1,1,away team win,0,1,0,1,1,1986-06-21,2
+1986,WC-1986,M-1986-46,quarter-finals,West Germany,Mexico,0,0,home team win,1,0,0,1,1,1986-06-21,0
+1986,WC-1986,M-1986-47,quarter-finals,Argentina,England,2,1,home team win,1,0,0,0,0,1986-06-22,3
+1986,WC-1986,M-1986-48,quarter-finals,Spain,Belgium,1,1,away team win,0,1,0,1,1,1986-06-22,2
+1986,WC-1986,M-1986-49,semi-finals,France,West Germany,0,2,away team win,0,1,0,0,0,1986-06-25,2
+1986,WC-1986,M-1986-50,semi-finals,Argentina,Belgium,2,0,home team win,1,0,0,0,0,1986-06-25,2
+1986,WC-1986,M-1986-51,third-place match,Belgium,France,2,4,away team win,0,1,0,1,0,1986-06-28,6
+1986,WC-1986,M-1986-52,final,Argentina,West Germany,3,2,home team win,1,0,0,0,0,1986-06-29,5
+1990,WC-1990,M-1990-01,group stage,Argentina,Cameroon,0,1,away team win,0,1,0,0,0,1990-06-08,1
+1990,WC-1990,M-1990-02,group stage,Soviet Union,Romania,0,2,away team win,0,1,0,0,0,1990-06-09,2
+1990,WC-1990,M-1990-03,group stage,United Arab Emirates,Colombia,0,2,away team win,0,1,0,0,0,1990-06-09,2
+1990,WC-1990,M-1990-04,group stage,Italy,Austria,1,0,home team win,1,0,0,0,0,1990-06-09,1
+1990,WC-1990,M-1990-05,group stage,United States,Czechoslovakia,1,5,away team win,0,1,0,0,0,1990-06-10,6
+1990,WC-1990,M-1990-06,group stage,Brazil,Sweden,2,1,home team win,1,0,0,0,0,1990-06-10,3
+1990,WC-1990,M-1990-07,group stage,West Germany,Yugoslavia,4,1,home team win,1,0,0,0,0,1990-06-10,5
+1990,WC-1990,M-1990-08,group stage,Costa Rica,Scotland,1,0,home team win,1,0,0,0,0,1990-06-11,1
+1990,WC-1990,M-1990-09,group stage,England,Republic of Ireland,1,1,draw,0,0,1,0,0,1990-06-11,2
+1990,WC-1990,M-1990-10,group stage,Belgium,South Korea,2,0,home team win,1,0,0,0,0,1990-06-12,2
+1990,WC-1990,M-1990-11,group stage,Netherlands,Egypt,1,1,draw,0,0,1,0,0,1990-06-12,2
+1990,WC-1990,M-1990-12,group stage,Uruguay,Spain,0,0,draw,0,0,1,0,0,1990-06-13,0
+1990,WC-1990,M-1990-13,group stage,Argentina,Soviet Union,2,0,home team win,1,0,0,0,0,1990-06-13,2
+1990,WC-1990,M-1990-14,group stage,Cameroon,Romania,2,1,home team win,1,0,0,0,0,1990-06-14,3
+1990,WC-1990,M-1990-15,group stage,Yugoslavia,Colombia,1,0,home team win,1,0,0,0,0,1990-06-14,1
+1990,WC-1990,M-1990-16,group stage,Italy,United States,1,0,home team win,1,0,0,0,0,1990-06-14,1
+1990,WC-1990,M-1990-17,group stage,Austria,Czechoslovakia,0,1,away team win,0,1,0,0,0,1990-06-15,1
+1990,WC-1990,M-1990-18,group stage,West Germany,United Arab Emirates,5,1,home team win,1,0,0,0,0,1990-06-15,6
+1990,WC-1990,M-1990-19,group stage,Brazil,Costa Rica,1,0,home team win,1,0,0,0,0,1990-06-16,1
+1990,WC-1990,M-1990-20,group stage,Sweden,Scotland,1,2,away team win,0,1,0,0,0,1990-06-16,3
+1990,WC-1990,M-1990-21,group stage,England,Netherlands,0,0,draw,0,0,1,0,0,1990-06-16,0
+1990,WC-1990,M-1990-22,group stage,Republic of Ireland,Egypt,0,0,draw,0,0,1,0,0,1990-06-17,0
+1990,WC-1990,M-1990-23,group stage,Belgium,Uruguay,3,1,home team win,1,0,0,0,0,1990-06-17,4
+1990,WC-1990,M-1990-24,group stage,South Korea,Spain,1,3,away team win,0,1,0,0,0,1990-06-17,4
+1990,WC-1990,M-1990-25,group stage,Argentina,Romania,1,1,draw,0,0,1,0,0,1990-06-18,2
+1990,WC-1990,M-1990-26,group stage,Cameroon,Soviet Union,0,4,away team win,0,1,0,0,0,1990-06-18,4
+1990,WC-1990,M-1990-27,group stage,West Germany,Colombia,1,1,draw,0,0,1,0,0,1990-06-19,2
+1990,WC-1990,M-1990-28,group stage,Yugoslavia,United Arab Emirates,4,1,home team win,1,0,0,0,0,1990-06-19,5
+1990,WC-1990,M-1990-29,group stage,Austria,United States,2,1,home team win,1,0,0,0,0,1990-06-19,3
+1990,WC-1990,M-1990-30,group stage,Italy,Czechoslovakia,2,0,home team win,1,0,0,0,0,1990-06-19,2
+1990,WC-1990,M-1990-31,group stage,Brazil,Scotland,1,0,home team win,1,0,0,0,0,1990-06-20,1
+1990,WC-1990,M-1990-32,group stage,Sweden,Costa Rica,1,2,away team win,0,1,0,0,0,1990-06-20,3
+1990,WC-1990,M-1990-33,group stage,Belgium,Spain,1,2,away team win,0,1,0,0,0,1990-06-21,3
+1990,WC-1990,M-1990-34,group stage,South Korea,Uruguay,0,1,away team win,0,1,0,0,0,1990-06-21,1
+1990,WC-1990,M-1990-35,group stage,England,Egypt,1,0,home team win,1,0,0,0,0,1990-06-21,1
+1990,WC-1990,M-1990-36,group stage,Republic of Ireland,Netherlands,1,1,draw,0,0,1,0,0,1990-06-21,2
+1990,WC-1990,M-1990-37,round of 16,Cameroon,Colombia,2,1,home team win,1,0,0,1,0,1990-06-23,3
+1990,WC-1990,M-1990-38,round of 16,Czechoslovakia,Costa Rica,4,1,home team win,1,0,0,0,0,1990-06-23,5
+1990,WC-1990,M-1990-39,round of 16,Brazil,Argentina,0,1,away team win,0,1,0,0,0,1990-06-24,1
+1990,WC-1990,M-1990-40,round of 16,West Germany,Netherlands,2,1,home team win,1,0,0,0,0,1990-06-24,3
+1990,WC-1990,M-1990-41,round of 16,Republic of Ireland,Romania,0,0,home team win,1,0,0,1,1,1990-06-25,0
+1990,WC-1990,M-1990-42,round of 16,Italy,Uruguay,2,0,home team win,1,0,0,0,0,1990-06-25,2
+1990,WC-1990,M-1990-43,round of 16,Spain,Yugoslavia,1,2,away team win,0,1,0,1,0,1990-06-26,3
+1990,WC-1990,M-1990-44,round of 16,England,Belgium,1,0,home team win,1,0,0,1,0,1990-06-26,1
+1990,WC-1990,M-1990-45,quarter-finals,Argentina,Yugoslavia,0,0,home team win,1,0,0,1,1,1990-06-30,0
+1990,WC-1990,M-1990-46,quarter-finals,Republic of Ireland,Italy,0,1,away team win,0,1,0,0,0,1990-06-30,1
+1990,WC-1990,M-1990-47,quarter-finals,Czechoslovakia,West Germany,0,1,away team win,0,1,0,0,0,1990-07-01,1
+1990,WC-1990,M-1990-48,quarter-finals,Cameroon,England,2,3,away team win,0,1,0,1,0,1990-07-01,5
+1990,WC-1990,M-1990-49,semi-finals,Argentina,Italy,1,1,home team win,1,0,0,1,1,1990-07-03,2
+1990,WC-1990,M-1990-50,semi-finals,West Germany,England,1,1,home team win,1,0,0,1,1,1990-07-04,2
+1990,WC-1990,M-1990-51,third-place match,Italy,England,2,1,home team win,1,0,0,0,0,1990-07-07,3
+1990,WC-1990,M-1990-52,final,West Germany,Argentina,1,0,home team win,1,0,0,0,0,1990-07-08,1
+1991,WC-1991,M-1991-01,group stage,China,Norway,4,0,home team win,1,0,0,0,0,1991-11-16,4
+1991,WC-1991,M-1991-02,group stage,Germany,Nigeria,4,0,home team win,1,0,0,0,0,1991-11-17,4
+1991,WC-1991,M-1991-03,group stage,Denmark,New Zealand,3,0,home team win,1,0,0,0,0,1991-11-17,3
+1991,WC-1991,M-1991-04,group stage,Japan,Brazil,0,1,away team win,0,1,0,0,0,1991-11-17,1
+1991,WC-1991,M-1991-05,group stage,Sweden,United States,2,3,away team win,0,1,0,0,0,1991-11-17,5
+1991,WC-1991,M-1991-06,group stage,Chinese Taipei,Italy,0,5,away team win,0,1,0,0,0,1991-11-17,5
+1991,WC-1991,M-1991-07,group stage,Norway,New Zealand,4,0,home team win,1,0,0,0,0,1991-11-19,4
+1991,WC-1991,M-1991-08,group stage,Italy,Nigeria,1,0,home team win,1,0,0,0,0,1991-11-19,1
+1991,WC-1991,M-1991-09,group stage,China,Denmark,2,2,draw,0,0,1,0,0,1991-11-19,4
+1991,WC-1991,M-1991-10,group stage,Brazil,United States,0,5,away team win,0,1,0,0,0,1991-11-19,5
+1991,WC-1991,M-1991-11,group stage,Japan,Sweden,0,8,away team win,0,1,0,0,0,1991-11-19,8
+1991,WC-1991,M-1991-12,group stage,Chinese Taipei,Germany,0,3,away team win,0,1,0,0,0,1991-11-19,3
+1991,WC-1991,M-1991-13,group stage,Brazil,Sweden,0,2,away team win,0,1,0,0,0,1991-11-21,2
+1991,WC-1991,M-1991-14,group stage,Japan,United States,0,3,away team win,0,1,0,0,0,1991-11-21,3
+1991,WC-1991,M-1991-15,group stage,China,New Zealand,4,1,home team win,1,0,0,0,0,1991-11-21,5
+1991,WC-1991,M-1991-16,group stage,Norway,Denmark,2,1,home team win,1,0,0,0,0,1991-11-21,3
+1991,WC-1991,M-1991-17,group stage,Chinese Taipei,Nigeria,2,0,home team win,1,0,0,0,0,1991-11-21,2
+1991,WC-1991,M-1991-18,group stage,Italy,Germany,0,2,away team win,0,1,0,0,0,1991-11-21,2
+1991,WC-1991,M-1991-19,quarter-final,Denmark,Germany,1,2,away team win,0,1,0,1,0,1991-11-24,3
+1991,WC-1991,M-1991-20,quarter-final,China,Sweden,0,1,away team win,0,1,0,0,0,1991-11-24,1
+1991,WC-1991,M-1991-21,quarter-final,Norway,Italy,3,2,home team win,1,0,0,1,0,1991-11-24,5
+1991,WC-1991,M-1991-22,quarter-final,United States,Chinese Taipei,7,0,home team win,1,0,0,0,0,1991-11-24,7
+1991,WC-1991,M-1991-23,semi-final,Sweden,Norway,1,4,away team win,0,1,0,0,0,1991-11-27,5
+1991,WC-1991,M-1991-24,semi-final,Germany,United States,2,5,away team win,0,1,0,0,0,1991-11-27,7
+1991,WC-1991,M-1991-25,third-place match,Sweden,Germany,4,0,home team win,1,0,0,0,0,1991-11-29,4
+1991,WC-1991,M-1991-26,final,Norway,United States,1,2,away team win,0,1,0,0,0,1991-11-30,3
+1994,WC-1994,M-1994-01,group stage,Germany,Bolivia,1,0,home team win,1,0,0,0,0,1994-06-17,1
+1994,WC-1994,M-1994-02,group stage,Spain,South Korea,2,2,draw,0,0,1,0,0,1994-06-17,4
+1994,WC-1994,M-1994-03,group stage,United States,Switzerland,1,1,draw,0,0,1,0,0,1994-06-18,2
+1994,WC-1994,M-1994-04,group stage,Italy,Republic of Ireland,0,1,away team win,0,1,0,0,0,1994-06-18,1
+1994,WC-1994,M-1994-05,group stage,Colombia,Romania,1,3,away team win,0,1,0,0,0,1994-06-18,4
+1994,WC-1994,M-1994-06,group stage,Belgium,Morocco,1,0,home team win,1,0,0,0,0,1994-06-19,1
+1994,WC-1994,M-1994-07,group stage,Norway,Mexico,1,0,home team win,1,0,0,0,0,1994-06-19,1
+1994,WC-1994,M-1994-08,group stage,Cameroon,Sweden,2,2,draw,0,0,1,0,0,1994-06-19,4
+1994,WC-1994,M-1994-09,group stage,Brazil,Russia,2,0,home team win,1,0,0,0,0,1994-06-20,2
+1994,WC-1994,M-1994-10,group stage,Netherlands,Saudi Arabia,2,1,home team win,1,0,0,0,0,1994-06-20,3
+1994,WC-1994,M-1994-11,group stage,Argentina,Greece,4,0,home team win,1,0,0,0,0,1994-06-21,4
+1994,WC-1994,M-1994-12,group stage,Germany,Spain,1,1,draw,0,0,1,0,0,1994-06-21,2
+1994,WC-1994,M-1994-13,group stage,Nigeria,Bulgaria,3,0,home team win,1,0,0,0,0,1994-06-21,3
+1994,WC-1994,M-1994-14,group stage,Romania,Switzerland,1,4,away team win,0,1,0,0,0,1994-06-22,5
+1994,WC-1994,M-1994-15,group stage,United States,Colombia,2,1,home team win,1,0,0,0,0,1994-06-22,3
+1994,WC-1994,M-1994-16,group stage,Italy,Norway,1,0,home team win,1,0,0,0,0,1994-06-23,1
+1994,WC-1994,M-1994-17,group stage,South Korea,Bolivia,0,0,draw,0,0,1,0,0,1994-06-23,0
+1994,WC-1994,M-1994-18,group stage,Mexico,Republic of Ireland,2,1,home team win,1,0,0,0,0,1994-06-24,3
+1994,WC-1994,M-1994-19,group stage,Brazil,Cameroon,3,0,home team win,1,0,0,0,0,1994-06-24,3
+1994,WC-1994,M-1994-20,group stage,Sweden,Russia,3,1,home team win,1,0,0,0,0,1994-06-24,4
+1994,WC-1994,M-1994-21,group stage,Belgium,Netherlands,1,0,home team win,1,0,0,0,0,1994-06-25,1
+1994,WC-1994,M-1994-22,group stage,Saudi Arabia,Morocco,2,1,home team win,1,0,0,0,0,1994-06-25,3
+1994,WC-1994,M-1994-23,group stage,Argentina,Nigeria,2,1,home team win,1,0,0,0,0,1994-06-25,3
+1994,WC-1994,M-1994-24,group stage,Bulgaria,Greece,4,0,home team win,1,0,0,0,0,1994-06-26,4
+1994,WC-1994,M-1994-25,group stage,Switzerland,Colombia,0,2,away team win,0,1,0,0,0,1994-06-26,2
+1994,WC-1994,M-1994-26,group stage,United States,Romania,0,1,away team win,0,1,0,0,0,1994-06-26,1
+1994,WC-1994,M-1994-27,group stage,Bolivia,Spain,1,3,away team win,0,1,0,0,0,1994-06-27,4
+1994,WC-1994,M-1994-28,group stage,Germany,South Korea,3,2,home team win,1,0,0,0,0,1994-06-27,5
+1994,WC-1994,M-1994-29,group stage,Italy,Mexico,1,1,draw,0,0,1,0,0,1994-06-28,2
+1994,WC-1994,M-1994-30,group stage,Republic of Ireland,Norway,0,0,draw,0,0,1,0,0,1994-06-28,0
+1994,WC-1994,M-1994-31,group stage,Russia,Cameroon,6,1,home team win,1,0,0,0,0,1994-06-28,7
+1994,WC-1994,M-1994-32,group stage,Brazil,Sweden,1,1,draw,0,0,1,0,0,1994-06-28,2
+1994,WC-1994,M-1994-33,group stage,Belgium,Saudi Arabia,0,1,away team win,0,1,0,0,0,1994-06-29,1
+1994,WC-1994,M-1994-34,group stage,Morocco,Netherlands,1,2,away team win,0,1,0,0,0,1994-06-29,3
+1994,WC-1994,M-1994-35,group stage,Argentina,Bulgaria,0,2,away team win,0,1,0,0,0,1994-06-30,2
+1994,WC-1994,M-1994-36,group stage,Greece,Nigeria,0,2,away team win,0,1,0,0,0,1994-06-30,2
+1994,WC-1994,M-1994-37,round of 16,Germany,Belgium,3,2,home team win,1,0,0,0,0,1994-07-02,5
+1994,WC-1994,M-1994-38,round of 16,Spain,Switzerland,3,0,home team win,1,0,0,0,0,1994-07-02,3
+1994,WC-1994,M-1994-39,round of 16,Saudi Arabia,Sweden,1,3,away team win,0,1,0,0,0,1994-07-03,4
+1994,WC-1994,M-1994-40,round of 16,Romania,Argentina,3,2,home team win,1,0,0,0,0,1994-07-03,5
+1994,WC-1994,M-1994-41,round of 16,Netherlands,Republic of Ireland,2,0,home team win,1,0,0,0,0,1994-07-04,2
+1994,WC-1994,M-1994-42,round of 16,Brazil,United States,1,0,home team win,1,0,0,0,0,1994-07-04,1
+1994,WC-1994,M-1994-43,round of 16,Nigeria,Italy,1,2,away team win,0,1,0,1,0,1994-07-05,3
+1994,WC-1994,M-1994-44,round of 16,Mexico,Bulgaria,1,1,away team win,0,1,0,1,1,1994-07-05,2
+1994,WC-1994,M-1994-45,quarter-finals,Italy,Spain,2,1,home team win,1,0,0,0,0,1994-07-09,3
+1994,WC-1994,M-1994-46,quarter-finals,Netherlands,Brazil,2,3,away team win,0,1,0,0,0,1994-07-09,5
+1994,WC-1994,M-1994-47,quarter-finals,Bulgaria,Germany,2,1,home team win,1,0,0,0,0,1994-07-10,3
+1994,WC-1994,M-1994-48,quarter-finals,Romania,Sweden,2,2,away team win,0,1,0,1,1,1994-07-10,4
+1994,WC-1994,M-1994-49,semi-finals,Bulgaria,Italy,1,2,away team win,0,1,0,0,0,1994-07-13,3
+1994,WC-1994,M-1994-50,semi-finals,Sweden,Brazil,0,1,away team win,0,1,0,0,0,1994-07-13,1
+1994,WC-1994,M-1994-51,third-place match,Sweden,Bulgaria,4,0,home team win,1,0,0,0,0,1994-07-16,4
+1994,WC-1994,M-1994-52,final,Brazil,Italy,0,0,home team win,1,0,0,1,1,1994-07-17,0
+1995,WC-1995,M-1995-01,group stage,Germany,Japan,1,0,home team win,1,0,0,0,0,1995-06-05,1
+1995,WC-1995,M-1995-02,group stage,Sweden,Brazil,0,1,away team win,0,1,0,0,0,1995-06-05,1
+1995,WC-1995,M-1995-03,group stage,England,Canada,3,2,home team win,1,0,0,0,0,1995-06-06,5
+1995,WC-1995,M-1995-04,group stage,Norway,Nigeria,8,0,home team win,1,0,0,0,0,1995-06-06,8
+1995,WC-1995,M-1995-05,group stage,Denmark,Australia,5,0,home team win,1,0,0,0,0,1995-06-06,5
+1995,WC-1995,M-1995-06,group stage,United States,China,3,3,draw,0,0,1,0,0,1995-06-06,6
+1995,WC-1995,M-1995-07,group stage,Brazil,Japan,1,2,away team win,0,1,0,0,0,1995-06-07,3
+1995,WC-1995,M-1995-08,group stage,Sweden,Germany,3,2,home team win,1,0,0,0,0,1995-06-07,5
+1995,WC-1995,M-1995-09,group stage,Nigeria,Canada,3,3,draw,0,0,1,0,0,1995-06-08,6
+1995,WC-1995,M-1995-10,group stage,Norway,England,2,0,home team win,1,0,0,0,0,1995-06-08,2
+1995,WC-1995,M-1995-11,group stage,China,Australia,4,2,home team win,1,0,0,0,0,1995-06-08,6
+1995,WC-1995,M-1995-12,group stage,United States,Denmark,2,0,home team win,1,0,0,0,0,1995-06-08,2
+1995,WC-1995,M-1995-13,group stage,Brazil,Germany,1,6,away team win,0,1,0,0,0,1995-06-09,7
+1995,WC-1995,M-1995-14,group stage,Sweden,Japan,2,0,home team win,1,0,0,0,0,1995-06-09,2
+1995,WC-1995,M-1995-15,group stage,Nigeria,England,2,3,away team win,0,1,0,0,0,1995-06-10,5
+1995,WC-1995,M-1995-16,group stage,Norway,Canada,7,0,home team win,1,0,0,0,0,1995-06-10,7
+1995,WC-1995,M-1995-17,group stage,China,Denmark,3,1,home team win,1,0,0,0,0,1995-06-10,4
+1995,WC-1995,M-1995-18,group stage,United States,Australia,4,1,home team win,1,0,0,0,0,1995-06-10,5
+1995,WC-1995,M-1995-19,quarter-final,Japan,United States,0,4,away team win,0,1,0,0,0,1995-06-13,4
+1995,WC-1995,M-1995-20,quarter-final,Norway,Denmark,3,1,home team win,1,0,0,0,0,1995-06-13,4
+1995,WC-1995,M-1995-21,quarter-final,Germany,England,3,0,home team win,1,0,0,0,0,1995-06-13,3
+1995,WC-1995,M-1995-22,quarter-final,Sweden,China,1,1,away team win,0,1,0,1,1,1995-06-13,2
+1995,WC-1995,M-1995-23,semi-final,United States,Norway,0,1,away team win,0,1,0,0,0,1995-06-15,1
+1995,WC-1995,M-1995-24,semi-final,Germany,China,1,0,home team win,1,0,0,0,0,1995-06-15,1
+1995,WC-1995,M-1995-25,third-place match,China,United States,0,2,away team win,0,1,0,0,0,1995-06-17,2
+1995,WC-1995,M-1995-26,final,Germany,Norway,0,2,away team win,0,1,0,0,0,1995-06-18,2
+1998,WC-1998,M-1998-01,group stage,Brazil,Scotland,2,1,home team win,1,0,0,0,0,1998-06-10,3
+1998,WC-1998,M-1998-02,group stage,Morocco,Norway,2,2,draw,0,0,1,0,0,1998-06-10,4
+1998,WC-1998,M-1998-03,group stage,Italy,Chile,2,2,draw,0,0,1,0,0,1998-06-11,4
+1998,WC-1998,M-1998-04,group stage,Cameroon,Austria,1,1,draw,0,0,1,0,0,1998-06-11,2
+1998,WC-1998,M-1998-05,group stage,Paraguay,Bulgaria,0,0,draw,0,0,1,0,0,1998-06-12,0
+1998,WC-1998,M-1998-06,group stage,Saudi Arabia,Denmark,0,1,away team win,0,1,0,0,0,1998-06-12,1
+1998,WC-1998,M-1998-07,group stage,France,South Africa,3,0,home team win,1,0,0,0,0,1998-06-12,3
+1998,WC-1998,M-1998-08,group stage,Spain,Nigeria,2,3,away team win,0,1,0,0,0,1998-06-13,5
+1998,WC-1998,M-1998-09,group stage,South Korea,Mexico,1,3,away team win,0,1,0,0,0,1998-06-13,4
+1998,WC-1998,M-1998-10,group stage,Netherlands,Belgium,0,0,draw,0,0,1,0,0,1998-06-13,0
+1998,WC-1998,M-1998-11,group stage,Argentina,Japan,1,0,home team win,1,0,0,0,0,1998-06-14,1
+1998,WC-1998,M-1998-12,group stage,Yugoslavia,Iran,1,0,home team win,1,0,0,0,0,1998-06-14,1
+1998,WC-1998,M-1998-13,group stage,Jamaica,Croatia,1,3,away team win,0,1,0,0,0,1998-06-14,4
+1998,WC-1998,M-1998-14,group stage,England,Tunisia,2,0,home team win,1,0,0,0,0,1998-06-15,2
+1998,WC-1998,M-1998-15,group stage,Romania,Colombia,1,0,home team win,1,0,0,0,0,1998-06-15,1
+1998,WC-1998,M-1998-16,group stage,Germany,United States,2,0,home team win,1,0,0,0,0,1998-06-15,2
+1998,WC-1998,M-1998-17,group stage,Scotland,Norway,1,1,draw,0,0,1,0,0,1998-06-16,2
+1998,WC-1998,M-1998-18,group stage,Brazil,Morocco,3,0,home team win,1,0,0,0,0,1998-06-16,3
+1998,WC-1998,M-1998-19,group stage,Chile,Austria,1,1,draw,0,0,1,0,0,1998-06-17,2
+1998,WC-1998,M-1998-20,group stage,Italy,Cameroon,3,0,home team win,1,0,0,0,0,1998-06-17,3
+1998,WC-1998,M-1998-21,group stage,South Africa,Denmark,1,1,draw,0,0,1,0,0,1998-06-18,2
+1998,WC-1998,M-1998-22,group stage,France,Saudi Arabia,4,0,home team win,1,0,0,0,0,1998-06-18,4
+1998,WC-1998,M-1998-23,group stage,Nigeria,Bulgaria,1,0,home team win,1,0,0,0,0,1998-06-19,1
+1998,WC-1998,M-1998-24,group stage,Spain,Paraguay,0,0,draw,0,0,1,0,0,1998-06-19,0
+1998,WC-1998,M-1998-25,group stage,Japan,Croatia,0,1,away team win,0,1,0,0,0,1998-06-20,1
+1998,WC-1998,M-1998-26,group stage,Belgium,Mexico,2,2,draw,0,0,1,0,0,1998-06-20,4
+1998,WC-1998,M-1998-27,group stage,Netherlands,South Korea,5,0,home team win,1,0,0,0,0,1998-06-20,5
+1998,WC-1998,M-1998-28,group stage,Germany,Yugoslavia,2,2,draw,0,0,1,0,0,1998-06-21,4
+1998,WC-1998,M-1998-29,group stage,Argentina,Jamaica,5,0,home team win,1,0,0,0,0,1998-06-21,5
+1998,WC-1998,M-1998-30,group stage,United States,Iran,1,2,away team win,0,1,0,0,0,1998-06-21,3
+1998,WC-1998,M-1998-31,group stage,Colombia,Tunisia,1,0,home team win,1,0,0,0,0,1998-06-22,1
+1998,WC-1998,M-1998-32,group stage,Romania,England,2,1,home team win,1,0,0,0,0,1998-06-22,3
+1998,WC-1998,M-1998-33,group stage,Chile,Cameroon,1,1,draw,0,0,1,0,0,1998-06-23,2
+1998,WC-1998,M-1998-34,group stage,Italy,Austria,2,1,home team win,1,0,0,0,0,1998-06-23,3
+1998,WC-1998,M-1998-35,group stage,Brazil,Norway,1,2,away team win,0,1,0,0,0,1998-06-23,3
+1998,WC-1998,M-1998-36,group stage,Scotland,Morocco,0,3,away team win,0,1,0,0,0,1998-06-23,3
+1998,WC-1998,M-1998-37,group stage,France,Denmark,2,1,home team win,1,0,0,0,0,1998-06-24,3
+1998,WC-1998,M-1998-38,group stage,South Africa,Saudi Arabia,2,2,draw,0,0,1,0,0,1998-06-24,4
+1998,WC-1998,M-1998-39,group stage,Nigeria,Paraguay,1,3,away team win,0,1,0,0,0,1998-06-24,4
+1998,WC-1998,M-1998-40,group stage,Spain,Bulgaria,6,1,home team win,1,0,0,0,0,1998-06-24,7
+1998,WC-1998,M-1998-41,group stage,Belgium,South Korea,1,1,draw,0,0,1,0,0,1998-06-25,2
+1998,WC-1998,M-1998-42,group stage,Netherlands,Mexico,2,2,draw,0,0,1,0,0,1998-06-25,4
+1998,WC-1998,M-1998-43,group stage,Germany,Iran,2,0,home team win,1,0,0,0,0,1998-06-25,2
+1998,WC-1998,M-1998-44,group stage,United States,Yugoslavia,0,1,away team win,0,1,0,0,0,1998-06-25,1
+1998,WC-1998,M-1998-45,group stage,Argentina,Croatia,1,0,home team win,1,0,0,0,0,1998-06-26,1
+1998,WC-1998,M-1998-46,group stage,Japan,Jamaica,1,2,away team win,0,1,0,0,0,1998-06-26,3
+1998,WC-1998,M-1998-47,group stage,Colombia,England,0,2,away team win,0,1,0,0,0,1998-06-26,2
+1998,WC-1998,M-1998-48,group stage,Romania,Tunisia,1,1,draw,0,0,1,0,0,1998-06-26,2
+1998,WC-1998,M-1998-49,round of 16,Italy,Norway,1,0,home team win,1,0,0,0,0,1998-06-27,1
+1998,WC-1998,M-1998-50,round of 16,Brazil,Chile,4,1,home team win,1,0,0,0,0,1998-06-27,5
+1998,WC-1998,M-1998-51,round of 16,France,Paraguay,1,0,home team win,1,0,0,1,0,1998-06-28,1
+1998,WC-1998,M-1998-52,round of 16,Nigeria,Denmark,1,4,away team win,0,1,0,0,0,1998-06-28,5
+1998,WC-1998,M-1998-53,round of 16,Germany,Mexico,2,1,home team win,1,0,0,0,0,1998-06-29,3
+1998,WC-1998,M-1998-54,round of 16,Netherlands,Yugoslavia,2,1,home team win,1,0,0,0,0,1998-06-29,3
+1998,WC-1998,M-1998-55,round of 16,Romania,Croatia,0,1,away team win,0,1,0,0,0,1998-06-30,1
+1998,WC-1998,M-1998-56,round of 16,Argentina,England,2,2,home team win,1,0,0,1,1,1998-06-30,4
+1998,WC-1998,M-1998-57,quarter-finals,Italy,France,0,0,away team win,0,1,0,1,1,1998-07-03,0
+1998,WC-1998,M-1998-58,quarter-finals,Brazil,Denmark,3,2,home team win,1,0,0,0,0,1998-07-03,5
+1998,WC-1998,M-1998-59,quarter-finals,Netherlands,Argentina,2,1,home team win,1,0,0,0,0,1998-07-04,3
+1998,WC-1998,M-1998-60,quarter-finals,Germany,Croatia,0,3,away team win,0,1,0,0,0,1998-07-04,3
+1998,WC-1998,M-1998-61,semi-finals,Brazil,Netherlands,1,1,home team win,1,0,0,1,1,1998-07-07,2
+1998,WC-1998,M-1998-62,semi-finals,France,Croatia,2,1,home team win,1,0,0,0,0,1998-07-08,3
+1998,WC-1998,M-1998-63,third-place match,Netherlands,Croatia,1,2,away team win,0,1,0,0,0,1998-07-11,3
+1998,WC-1998,M-1998-64,final,Brazil,France,0,3,away team win,0,1,0,0,0,1998-07-12,3
+1999,WC-1999,M-1999-01,group stage,United States,Denmark,3,0,home team win,1,0,0,0,0,1999-06-19,3
+1999,WC-1999,M-1999-02,group stage,China,Sweden,2,1,home team win,1,0,0,0,0,1999-06-19,3
+1999,WC-1999,M-1999-03,group stage,Brazil,Mexico,7,1,home team win,1,0,0,0,0,1999-06-19,8
+1999,WC-1999,M-1999-04,group stage,Japan,Canada,1,1,draw,0,0,1,0,0,1999-06-19,2
+1999,WC-1999,M-1999-05,group stage,Germany,Italy,1,1,draw,0,0,1,0,0,1999-06-20,2
+1999,WC-1999,M-1999-06,group stage,Norway,Russia,2,1,home team win,1,0,0,0,0,1999-06-20,3
+1999,WC-1999,M-1999-07,group stage,North Korea,Nigeria,1,2,away team win,0,1,0,0,0,1999-06-20,3
+1999,WC-1999,M-1999-08,group stage,Australia,Ghana,1,1,draw,0,0,1,0,0,1999-06-20,2
+1999,WC-1999,M-1999-09,group stage,Japan,Russia,0,5,away team win,0,1,0,0,0,1999-06-23,5
+1999,WC-1999,M-1999-10,group stage,Norway,Canada,7,1,home team win,1,0,0,0,0,1999-06-23,8
+1999,WC-1999,M-1999-11,group stage,Australia,Sweden,1,3,away team win,0,1,0,0,0,1999-06-23,4
+1999,WC-1999,M-1999-12,group stage,China,Ghana,7,0,home team win,1,0,0,0,0,1999-06-23,7
+1999,WC-1999,M-1999-13,group stage,Brazil,Italy,2,0,home team win,1,0,0,0,0,1999-06-24,2
+1999,WC-1999,M-1999-14,group stage,North Korea,Denmark,3,1,home team win,1,0,0,0,0,1999-06-24,4
+1999,WC-1999,M-1999-15,group stage,United States,Nigeria,7,1,home team win,1,0,0,0,0,1999-06-24,8
+1999,WC-1999,M-1999-16,group stage,Germany,Mexico,6,0,home team win,1,0,0,0,0,1999-06-24,6
+1999,WC-1999,M-1999-17,group stage,Canada,Russia,1,4,away team win,0,1,0,0,0,1999-06-26,5
+1999,WC-1999,M-1999-18,group stage,China,Australia,3,1,home team win,1,0,0,0,0,1999-06-26,4
+1999,WC-1999,M-1999-19,group stage,Ghana,Sweden,0,2,away team win,0,1,0,0,0,1999-06-26,2
+1999,WC-1999,M-1999-20,group stage,Norway,Japan,4,0,home team win,1,0,0,0,0,1999-06-26,4
+1999,WC-1999,M-1999-21,group stage,Germany,Brazil,3,3,draw,0,0,1,0,0,1999-06-27,6
+1999,WC-1999,M-1999-22,group stage,Nigeria,Denmark,2,0,home team win,1,0,0,0,0,1999-06-27,2
+1999,WC-1999,M-1999-23,group stage,Mexico,Italy,0,2,away team win,0,1,0,0,0,1999-06-27,2
+1999,WC-1999,M-1999-24,group stage,United States,North Korea,3,0,home team win,1,0,0,0,0,1999-06-27,3
+1999,WC-1999,M-1999-25,quarter-final,China,Russia,2,0,home team win,1,0,0,0,0,1999-06-30,2
+1999,WC-1999,M-1999-26,quarter-final,Norway,Sweden,3,1,home team win,1,0,0,0,0,1999-06-30,4
+1999,WC-1999,M-1999-27,quarter-final,United States,Germany,3,2,home team win,1,0,0,0,0,1999-07-01,5
+1999,WC-1999,M-1999-28,quarter-final,Brazil,Nigeria,4,3,home team win,1,0,0,1,0,1999-07-01,7
+1999,WC-1999,M-1999-29,semi-final,United States,Brazil,2,0,home team win,1,0,0,0,0,1999-07-04,2
+1999,WC-1999,M-1999-30,semi-final,Norway,China,0,5,away team win,0,1,0,0,0,1999-07-04,5
+1999,WC-1999,M-1999-31,third-place match,Brazil,Norway,0,0,home team win,1,0,0,0,1,1999-07-10,0
+1999,WC-1999,M-1999-32,final,United States,China,0,0,home team win,1,0,0,1,1,1999-07-10,0
+2002,WC-2002,M-2002-01,group stage,France,Senegal,0,1,away team win,0,1,0,0,0,2002-05-31,1
+2002,WC-2002,M-2002-02,group stage,Republic of Ireland,Cameroon,1,1,draw,0,0,1,0,0,2002-06-01,2
+2002,WC-2002,M-2002-03,group stage,Uruguay,Denmark,1,2,away team win,0,1,0,0,0,2002-06-01,3
+2002,WC-2002,M-2002-04,group stage,Germany,Saudi Arabia,8,0,home team win,1,0,0,0,0,2002-06-01,8
+2002,WC-2002,M-2002-05,group stage,Argentina,Nigeria,1,0,home team win,1,0,0,0,0,2002-06-02,1
+2002,WC-2002,M-2002-06,group stage,Paraguay,South Africa,2,2,draw,0,0,1,0,0,2002-06-02,4
+2002,WC-2002,M-2002-07,group stage,England,Sweden,1,1,draw,0,0,1,0,0,2002-06-02,2
+2002,WC-2002,M-2002-08,group stage,Spain,Slovenia,3,1,home team win,1,0,0,0,0,2002-06-02,4
+2002,WC-2002,M-2002-09,group stage,Croatia,Mexico,0,1,away team win,0,1,0,0,0,2002-06-03,1
+2002,WC-2002,M-2002-10,group stage,Brazil,Turkey,2,1,home team win,1,0,0,0,0,2002-06-03,3
+2002,WC-2002,M-2002-11,group stage,Italy,Ecuador,2,0,home team win,1,0,0,0,0,2002-06-03,2
+2002,WC-2002,M-2002-12,group stage,China,Costa Rica,0,2,away team win,0,1,0,0,0,2002-06-04,2
+2002,WC-2002,M-2002-13,group stage,Japan,Belgium,2,2,draw,0,0,1,0,0,2002-06-04,4
+2002,WC-2002,M-2002-14,group stage,South Korea,Poland,2,0,home team win,1,0,0,0,0,2002-06-04,2
+2002,WC-2002,M-2002-15,group stage,Russia,Tunisia,2,0,home team win,1,0,0,0,0,2002-06-05,2
+2002,WC-2002,M-2002-16,group stage,United States,Portugal,3,2,home team win,1,0,0,0,0,2002-06-05,5
+2002,WC-2002,M-2002-17,group stage,Germany,Republic of Ireland,1,1,draw,0,0,1,0,0,2002-06-05,2
+2002,WC-2002,M-2002-18,group stage,Denmark,Senegal,1,1,draw,0,0,1,0,0,2002-06-06,2
+2002,WC-2002,M-2002-19,group stage,Cameroon,Saudi Arabia,1,0,home team win,1,0,0,0,0,2002-06-06,1
+2002,WC-2002,M-2002-20,group stage,France,Uruguay,0,0,draw,0,0,1,0,0,2002-06-06,0
+2002,WC-2002,M-2002-21,group stage,Sweden,Nigeria,2,1,home team win,1,0,0,0,0,2002-06-07,3
+2002,WC-2002,M-2002-22,group stage,Spain,Paraguay,3,1,home team win,1,0,0,0,0,2002-06-07,4
+2002,WC-2002,M-2002-23,group stage,Argentina,England,0,1,away team win,0,1,0,0,0,2002-06-07,1
+2002,WC-2002,M-2002-24,group stage,South Africa,Slovenia,1,0,home team win,1,0,0,0,0,2002-06-08,1
+2002,WC-2002,M-2002-25,group stage,Italy,Croatia,1,2,away team win,0,1,0,0,0,2002-06-08,3
+2002,WC-2002,M-2002-26,group stage,Brazil,China,4,0,home team win,1,0,0,0,0,2002-06-08,4
+2002,WC-2002,M-2002-27,group stage,Mexico,Ecuador,2,1,home team win,1,0,0,0,0,2002-06-09,3
+2002,WC-2002,M-2002-28,group stage,Costa Rica,Turkey,1,1,draw,0,0,1,0,0,2002-06-09,2
+2002,WC-2002,M-2002-29,group stage,Japan,Russia,1,0,home team win,1,0,0,0,0,2002-06-09,1
+2002,WC-2002,M-2002-30,group stage,South Korea,United States,1,1,draw,0,0,1,0,0,2002-06-10,2
+2002,WC-2002,M-2002-31,group stage,Tunisia,Belgium,1,1,draw,0,0,1,0,0,2002-06-10,2
+2002,WC-2002,M-2002-32,group stage,Portugal,Poland,4,0,home team win,1,0,0,0,0,2002-06-10,4
+2002,WC-2002,M-2002-33,group stage,Denmark,France,2,0,home team win,1,0,0,0,0,2002-06-11,2
+2002,WC-2002,M-2002-34,group stage,Senegal,Uruguay,3,3,draw,0,0,1,0,0,2002-06-11,6
+2002,WC-2002,M-2002-35,group stage,Cameroon,Germany,0,2,away team win,0,1,0,0,0,2002-06-11,2
+2002,WC-2002,M-2002-36,group stage,Saudi Arabia,Republic of Ireland,0,3,away team win,0,1,0,0,0,2002-06-11,3
+2002,WC-2002,M-2002-37,group stage,Nigeria,England,0,0,draw,0,0,1,0,0,2002-06-12,0
+2002,WC-2002,M-2002-38,group stage,Sweden,Argentina,1,1,draw,0,0,1,0,0,2002-06-12,2
+2002,WC-2002,M-2002-39,group stage,Slovenia,Paraguay,1,3,away team win,0,1,0,0,0,2002-06-12,4
+2002,WC-2002,M-2002-40,group stage,South Africa,Spain,2,3,away team win,0,1,0,0,0,2002-06-12,5
+2002,WC-2002,M-2002-41,group stage,Costa Rica,Brazil,2,5,away team win,0,1,0,0,0,2002-06-13,7
+2002,WC-2002,M-2002-42,group stage,Turkey,China,3,0,home team win,1,0,0,0,0,2002-06-13,3
+2002,WC-2002,M-2002-43,group stage,Ecuador,Croatia,1,0,home team win,1,0,0,0,0,2002-06-13,1
+2002,WC-2002,M-2002-44,group stage,Mexico,Italy,1,1,draw,0,0,1,0,0,2002-06-13,2
+2002,WC-2002,M-2002-45,group stage,Belgium,Russia,3,2,home team win,1,0,0,0,0,2002-06-14,5
+2002,WC-2002,M-2002-46,group stage,Tunisia,Japan,0,2,away team win,0,1,0,0,0,2002-06-14,2
+2002,WC-2002,M-2002-47,group stage,Poland,United States,3,1,home team win,1,0,0,0,0,2002-06-14,4
+2002,WC-2002,M-2002-48,group stage,Portugal,South Korea,0,1,away team win,0,1,0,0,0,2002-06-14,1
+2002,WC-2002,M-2002-49,round of 16,Germany,Paraguay,1,0,home team win,1,0,0,0,0,2002-06-15,1
+2002,WC-2002,M-2002-50,round of 16,Denmark,England,0,3,away team win,0,1,0,0,0,2002-06-15,3
+2002,WC-2002,M-2002-51,round of 16,Sweden,Senegal,1,2,away team win,0,1,0,1,0,2002-06-16,3
+2002,WC-2002,M-2002-52,round of 16,Spain,Republic of Ireland,1,1,home team win,1,0,0,1,1,2002-06-16,2
+2002,WC-2002,M-2002-53,round of 16,Mexico,United States,0,2,away team win,0,1,0,0,0,2002-06-17,2
+2002,WC-2002,M-2002-54,round of 16,Brazil,Belgium,2,0,home team win,1,0,0,0,0,2002-06-17,2
+2002,WC-2002,M-2002-55,round of 16,Japan,Turkey,0,1,away team win,0,1,0,0,0,2002-06-18,1
+2002,WC-2002,M-2002-56,round of 16,South Korea,Italy,2,1,home team win,1,0,0,1,0,2002-06-18,3
+2002,WC-2002,M-2002-57,quarter-finals,England,Brazil,1,2,away team win,0,1,0,0,0,2002-06-21,3
+2002,WC-2002,M-2002-58,quarter-finals,Germany,United States,1,0,home team win,1,0,0,0,0,2002-06-21,1
+2002,WC-2002,M-2002-59,quarter-finals,Spain,South Korea,0,0,away team win,0,1,0,1,1,2002-06-22,0
+2002,WC-2002,M-2002-60,quarter-finals,Senegal,Turkey,0,1,away team win,0,1,0,1,0,2002-06-22,1
+2002,WC-2002,M-2002-61,semi-finals,Germany,South Korea,1,0,home team win,1,0,0,0,0,2002-06-25,1
+2002,WC-2002,M-2002-62,semi-finals,Brazil,Turkey,1,0,home team win,1,0,0,0,0,2002-06-26,1
+2002,WC-2002,M-2002-63,third-place match,South Korea,Turkey,2,3,away team win,0,1,0,0,0,2002-06-29,5
+2002,WC-2002,M-2002-64,final,Germany,Brazil,0,2,away team win,0,1,0,0,0,2002-06-30,2
+2003,WC-2003,M-2003-01,group stage,Norway,France,2,0,home team win,1,0,0,0,0,2003-09-20,2
+2003,WC-2003,M-2003-02,group stage,Nigeria,North Korea,0,3,away team win,0,1,0,0,0,2003-09-20,3
+2003,WC-2003,M-2003-03,group stage,Germany,Canada,4,1,home team win,1,0,0,0,0,2003-09-20,5
+2003,WC-2003,M-2003-04,group stage,Japan,Argentina,6,0,home team win,1,0,0,0,0,2003-09-20,6
+2003,WC-2003,M-2003-05,group stage,United States,Sweden,3,1,home team win,1,0,0,0,0,2003-09-21,4
+2003,WC-2003,M-2003-06,group stage,Brazil,South Korea,3,0,home team win,1,0,0,0,0,2003-09-21,3
+2003,WC-2003,M-2003-07,group stage,Australia,Russia,1,2,away team win,0,1,0,0,0,2003-09-21,3
+2003,WC-2003,M-2003-08,group stage,China,Ghana,1,0,home team win,1,0,0,0,0,2003-09-21,1
+2003,WC-2003,M-2003-09,group stage,Norway,Brazil,1,4,away team win,0,1,0,0,0,2003-09-24,5
+2003,WC-2003,M-2003-10,group stage,Germany,Japan,3,0,home team win,1,0,0,0,0,2003-09-24,3
+2003,WC-2003,M-2003-11,group stage,France,South Korea,1,0,home team win,1,0,0,0,0,2003-09-24,1
+2003,WC-2003,M-2003-12,group stage,Canada,Argentina,3,0,home team win,1,0,0,0,0,2003-09-24,3
+2003,WC-2003,M-2003-13,group stage,Ghana,Russia,0,3,away team win,0,1,0,0,0,2003-09-25,3
+2003,WC-2003,M-2003-14,group stage,Sweden,North Korea,1,0,home team win,1,0,0,0,0,2003-09-25,1
+2003,WC-2003,M-2003-15,group stage,China,Australia,1,1,draw,0,0,1,0,0,2003-09-25,2
+2003,WC-2003,M-2003-16,group stage,United States,Nigeria,5,0,home team win,1,0,0,0,0,2003-09-25,5
+2003,WC-2003,M-2003-17,group stage,France,Brazil,1,1,draw,0,0,1,0,0,2003-09-27,2
+2003,WC-2003,M-2003-18,group stage,South Korea,Norway,1,7,away team win,0,1,0,0,0,2003-09-27,8
+2003,WC-2003,M-2003-19,group stage,Argentina,Germany,1,6,away team win,0,1,0,0,0,2003-09-27,7
+2003,WC-2003,M-2003-20,group stage,Canada,Japan,3,1,home team win,1,0,0,0,0,2003-09-27,4
+2003,WC-2003,M-2003-21,group stage,Sweden,Nigeria,3,0,home team win,1,0,0,0,0,2003-09-28,3
+2003,WC-2003,M-2003-22,group stage,North Korea,United States,0,3,away team win,0,1,0,0,0,2003-09-28,3
+2003,WC-2003,M-2003-23,group stage,Ghana,Australia,2,1,home team win,1,0,0,0,0,2003-09-28,3
+2003,WC-2003,M-2003-24,group stage,China,Russia,1,0,home team win,1,0,0,0,0,2003-09-28,1
+2003,WC-2003,M-2003-25,quarter-final,Brazil,Sweden,1,2,away team win,0,1,0,0,0,2003-10-01,3
+2003,WC-2003,M-2003-26,quarter-final,United States,Norway,1,0,home team win,1,0,0,0,0,2003-10-01,1
+2003,WC-2003,M-2003-27,quarter-final,Germany,Russia,7,1,home team win,1,0,0,0,0,2003-10-02,8
+2003,WC-2003,M-2003-28,quarter-final,China,Canada,0,1,away team win,0,1,0,0,0,2003-10-02,1
+2003,WC-2003,M-2003-29,semi-final,United States,Germany,0,3,away team win,0,1,0,0,0,2003-10-05,3
+2003,WC-2003,M-2003-30,semi-final,Sweden,Canada,2,1,home team win,1,0,0,0,0,2003-10-05,3
+2003,WC-2003,M-2003-31,third-place match,United States,Canada,3,1,home team win,1,0,0,0,0,2003-10-11,4
+2003,WC-2003,M-2003-32,final,Germany,Sweden,2,1,home team win,1,0,0,1,0,2003-10-12,3
+2006,WC-2006,M-2006-01,group stage,Germany,Costa Rica,4,2,home team win,1,0,0,0,0,2006-06-09,6
+2006,WC-2006,M-2006-02,group stage,Poland,Ecuador,0,2,away team win,0,1,0,0,0,2006-06-09,2
+2006,WC-2006,M-2006-03,group stage,England,Paraguay,1,0,home team win,1,0,0,0,0,2006-06-10,1
+2006,WC-2006,M-2006-04,group stage,Trinidad and Tobago,Sweden,0,0,draw,0,0,1,0,0,2006-06-10,0
+2006,WC-2006,M-2006-05,group stage,Argentina,Ivory Coast,2,1,home team win,1,0,0,0,0,2006-06-10,3
+2006,WC-2006,M-2006-06,group stage,Serbia and Montenegro,Netherlands,0,1,away team win,0,1,0,0,0,2006-06-11,1
+2006,WC-2006,M-2006-07,group stage,Mexico,Iran,3,1,home team win,1,0,0,0,0,2006-06-11,4
+2006,WC-2006,M-2006-08,group stage,Angola,Portugal,0,1,away team win,0,1,0,0,0,2006-06-11,1
+2006,WC-2006,M-2006-09,group stage,Australia,Japan,3,1,home team win,1,0,0,0,0,2006-06-12,4
+2006,WC-2006,M-2006-10,group stage,United States,Czech Republic,0,3,away team win,0,1,0,0,0,2006-06-12,3
+2006,WC-2006,M-2006-11,group stage,Italy,Ghana,2,0,home team win,1,0,0,0,0,2006-06-12,2
+2006,WC-2006,M-2006-12,group stage,South Korea,Togo,2,1,home team win,1,0,0,0,0,2006-06-13,3
+2006,WC-2006,M-2006-13,group stage,France,Switzerland,0,0,draw,0,0,1,0,0,2006-06-13,0
+2006,WC-2006,M-2006-14,group stage,Brazil,Croatia,1,0,home team win,1,0,0,0,0,2006-06-13,1
+2006,WC-2006,M-2006-15,group stage,Spain,Ukraine,4,0,home team win,1,0,0,0,0,2006-06-14,4
+2006,WC-2006,M-2006-16,group stage,Tunisia,Saudi Arabia,2,2,draw,0,0,1,0,0,2006-06-14,4
+2006,WC-2006,M-2006-17,group stage,Germany,Poland,1,0,home team win,1,0,0,0,0,2006-06-14,1
+2006,WC-2006,M-2006-18,group stage,Ecuador,Costa Rica,3,0,home team win,1,0,0,0,0,2006-06-15,3
+2006,WC-2006,M-2006-19,group stage,England,Trinidad and Tobago,2,0,home team win,1,0,0,0,0,2006-06-15,2
+2006,WC-2006,M-2006-20,group stage,Sweden,Paraguay,1,0,home team win,1,0,0,0,0,2006-06-15,1
+2006,WC-2006,M-2006-21,group stage,Argentina,Serbia and Montenegro,6,0,home team win,1,0,0,0,0,2006-06-16,6
+2006,WC-2006,M-2006-22,group stage,Netherlands,Ivory Coast,2,1,home team win,1,0,0,0,0,2006-06-16,3
+2006,WC-2006,M-2006-23,group stage,Mexico,Angola,0,0,draw,0,0,1,0,0,2006-06-16,0
+2006,WC-2006,M-2006-24,group stage,Portugal,Iran,2,0,home team win,1,0,0,0,0,2006-06-17,2
+2006,WC-2006,M-2006-25,group stage,Czech Republic,Ghana,0,2,away team win,0,1,0,0,0,2006-06-17,2
+2006,WC-2006,M-2006-26,group stage,Italy,United States,1,1,draw,0,0,1,0,0,2006-06-17,2
+2006,WC-2006,M-2006-27,group stage,Japan,Croatia,0,0,draw,0,0,1,0,0,2006-06-18,0
+2006,WC-2006,M-2006-28,group stage,Brazil,Australia,2,0,home team win,1,0,0,0,0,2006-06-18,2
+2006,WC-2006,M-2006-29,group stage,France,South Korea,1,1,draw,0,0,1,0,0,2006-06-18,2
+2006,WC-2006,M-2006-30,group stage,Togo,Switzerland,0,2,away team win,0,1,0,0,0,2006-06-19,2
+2006,WC-2006,M-2006-31,group stage,Saudi Arabia,Ukraine,0,4,away team win,0,1,0,0,0,2006-06-19,4
+2006,WC-2006,M-2006-32,group stage,Spain,Tunisia,3,1,home team win,1,0,0,0,0,2006-06-19,4
+2006,WC-2006,M-2006-33,group stage,Costa Rica,Poland,1,2,away team win,0,1,0,0,0,2006-06-20,3
+2006,WC-2006,M-2006-34,group stage,Ecuador,Germany,0,3,away team win,0,1,0,0,0,2006-06-20,3
+2006,WC-2006,M-2006-35,group stage,Paraguay,Trinidad and Tobago,2,0,home team win,1,0,0,0,0,2006-06-20,2
+2006,WC-2006,M-2006-36,group stage,Sweden,England,2,2,draw,0,0,1,0,0,2006-06-20,4
+2006,WC-2006,M-2006-37,group stage,Iran,Angola,1,1,draw,0,0,1,0,0,2006-06-21,2
+2006,WC-2006,M-2006-38,group stage,Portugal,Mexico,2,1,home team win,1,0,0,0,0,2006-06-21,3
+2006,WC-2006,M-2006-39,group stage,Ivory Coast,Serbia and Montenegro,3,2,home team win,1,0,0,0,0,2006-06-21,5
+2006,WC-2006,M-2006-40,group stage,Netherlands,Argentina,0,0,draw,0,0,1,0,0,2006-06-21,0
+2006,WC-2006,M-2006-41,group stage,Czech Republic,Italy,0,2,away team win,0,1,0,0,0,2006-06-22,2
+2006,WC-2006,M-2006-42,group stage,Ghana,United States,2,1,home team win,1,0,0,0,0,2006-06-22,3
+2006,WC-2006,M-2006-43,group stage,Croatia,Australia,2,2,draw,0,0,1,0,0,2006-06-22,4
+2006,WC-2006,M-2006-44,group stage,Japan,Brazil,1,4,away team win,0,1,0,0,0,2006-06-22,5
+2006,WC-2006,M-2006-45,group stage,Saudi Arabia,Spain,0,1,away team win,0,1,0,0,0,2006-06-23,1
+2006,WC-2006,M-2006-46,group stage,Ukraine,Tunisia,1,0,home team win,1,0,0,0,0,2006-06-23,1
+2006,WC-2006,M-2006-47,group stage,Switzerland,South Korea,2,0,home team win,1,0,0,0,0,2006-06-23,2
+2006,WC-2006,M-2006-48,group stage,Togo,France,0,2,away team win,0,1,0,0,0,2006-06-23,2
+2006,WC-2006,M-2006-49,round of 16,Germany,Sweden,2,0,home team win,1,0,0,0,0,2006-06-24,2
+2006,WC-2006,M-2006-50,round of 16,Argentina,Mexico,2,1,home team win,1,0,0,1,0,2006-06-24,3
+2006,WC-2006,M-2006-51,round of 16,England,Ecuador,1,0,home team win,1,0,0,0,0,2006-06-25,1
+2006,WC-2006,M-2006-52,round of 16,Portugal,Netherlands,1,0,home team win,1,0,0,0,0,2006-06-25,1
+2006,WC-2006,M-2006-53,round of 16,Italy,Australia,1,0,home team win,1,0,0,0,0,2006-06-26,1
+2006,WC-2006,M-2006-54,round of 16,Switzerland,Ukraine,0,0,away team win,0,1,0,1,1,2006-06-26,0
+2006,WC-2006,M-2006-55,round of 16,Brazil,Ghana,3,0,home team win,1,0,0,0,0,2006-06-27,3
+2006,WC-2006,M-2006-56,round of 16,Spain,France,1,3,away team win,0,1,0,0,0,2006-06-27,4
+2006,WC-2006,M-2006-57,quarter-finals,Germany,Argentina,1,1,home team win,1,0,0,1,1,2006-06-30,2
+2006,WC-2006,M-2006-58,quarter-finals,Italy,Ukraine,3,0,home team win,1,0,0,0,0,2006-06-30,3
+2006,WC-2006,M-2006-59,quarter-finals,England,Portugal,0,0,away team win,0,1,0,1,1,2006-07-01,0
+2006,WC-2006,M-2006-60,quarter-finals,Brazil,France,0,1,away team win,0,1,0,0,0,2006-07-01,1
+2006,WC-2006,M-2006-61,semi-finals,Germany,Italy,0,2,away team win,0,1,0,1,0,2006-07-04,2
+2006,WC-2006,M-2006-62,semi-finals,Portugal,France,0,1,away team win,0,1,0,0,0,2006-07-05,1
+2006,WC-2006,M-2006-63,third-place match,Germany,Portugal,3,1,home team win,1,0,0,0,0,2006-07-08,4
+2006,WC-2006,M-2006-64,final,Italy,France,1,1,home team win,1,0,0,1,1,2006-07-09,2
+2007,WC-2007,M-2007-01,group stage,Germany,Argentina,11,0,home team win,1,0,0,0,0,2007-09-10,11
+2007,WC-2007,M-2007-02,group stage,United States,North Korea,2,2,draw,0,0,1,0,0,2007-09-11,4
+2007,WC-2007,M-2007-03,group stage,Japan,England,2,2,draw,0,0,1,0,0,2007-09-11,4
+2007,WC-2007,M-2007-04,group stage,Nigeria,Sweden,1,1,draw,0,0,1,0,0,2007-09-11,2
+2007,WC-2007,M-2007-05,group stage,Ghana,Australia,1,4,away team win,0,1,0,0,0,2007-09-12,5
+2007,WC-2007,M-2007-06,group stage,New Zealand,Brazil,0,5,away team win,0,1,0,0,0,2007-09-12,5
+2007,WC-2007,M-2007-07,group stage,Norway,Canada,2,1,home team win,1,0,0,0,0,2007-09-12,3
+2007,WC-2007,M-2007-08,group stage,China,Denmark,3,2,home team win,1,0,0,0,0,2007-09-12,5
+2007,WC-2007,M-2007-09,group stage,Argentina,Japan,0,1,away team win,0,1,0,0,0,2007-09-14,1
+2007,WC-2007,M-2007-10,group stage,Sweden,United States,0,2,away team win,0,1,0,0,0,2007-09-14,2
+2007,WC-2007,M-2007-11,group stage,England,Germany,0,0,draw,0,0,1,0,0,2007-09-14,0
+2007,WC-2007,M-2007-12,group stage,North Korea,Nigeria,2,0,home team win,1,0,0,0,0,2007-09-14,2
+2007,WC-2007,M-2007-13,group stage,Canada,Ghana,4,0,home team win,1,0,0,0,0,2007-09-15,4
+2007,WC-2007,M-2007-14,group stage,Denmark,New Zealand,2,0,home team win,1,0,0,0,0,2007-09-15,2
+2007,WC-2007,M-2007-15,group stage,Australia,Norway,1,1,draw,0,0,1,0,0,2007-09-15,2
+2007,WC-2007,M-2007-16,group stage,Brazil,China,4,0,home team win,1,0,0,0,0,2007-09-15,4
+2007,WC-2007,M-2007-17,group stage,England,Argentina,6,1,home team win,1,0,0,0,0,2007-09-17,7
+2007,WC-2007,M-2007-18,group stage,Germany,Japan,2,0,home team win,1,0,0,0,0,2007-09-17,2
+2007,WC-2007,M-2007-19,group stage,Nigeria,United States,0,1,away team win,0,1,0,0,0,2007-09-18,1
+2007,WC-2007,M-2007-20,group stage,North Korea,Sweden,1,2,away team win,0,1,0,0,0,2007-09-18,3
+2007,WC-2007,M-2007-21,group stage,Australia,Canada,2,2,draw,0,0,1,0,0,2007-09-20,4
+2007,WC-2007,M-2007-22,group stage,Norway,Ghana,7,2,home team win,1,0,0,0,0,2007-09-20,9
+2007,WC-2007,M-2007-23,group stage,Brazil,Denmark,1,0,home team win,1,0,0,0,0,2007-09-20,1
+2007,WC-2007,M-2007-24,group stage,China,New Zealand,2,0,home team win,1,0,0,0,0,2007-09-20,2
+2007,WC-2007,M-2007-25,quarter-final,Germany,North Korea,3,0,home team win,1,0,0,0,0,2007-09-22,3
+2007,WC-2007,M-2007-26,quarter-final,United States,England,3,0,home team win,1,0,0,0,0,2007-09-22,3
+2007,WC-2007,M-2007-27,quarter-final,Norway,China,1,0,home team win,1,0,0,0,0,2007-09-23,1
+2007,WC-2007,M-2007-28,quarter-final,Brazil,Australia,3,2,home team win,1,0,0,0,0,2007-09-23,5
+2007,WC-2007,M-2007-29,semi-final,Germany,Norway,3,0,home team win,1,0,0,0,0,2007-09-26,3
+2007,WC-2007,M-2007-30,semi-final,United States,Brazil,0,4,away team win,0,1,0,0,0,2007-09-27,4
+2007,WC-2007,M-2007-31,third-place match,Norway,United States,1,4,away team win,0,1,0,0,0,2007-09-30,5
+2007,WC-2007,M-2007-32,final,Germany,Brazil,2,0,home team win,1,0,0,0,0,2007-09-30,2
+2010,WC-2010,M-2010-01,group stage,South Africa,Mexico,1,1,draw,0,0,1,0,0,2010-06-11,2
+2010,WC-2010,M-2010-02,group stage,Uruguay,France,0,0,draw,0,0,1,0,0,2010-06-11,0
+2010,WC-2010,M-2010-03,group stage,South Korea,Greece,2,0,home team win,1,0,0,0,0,2010-06-12,2
+2010,WC-2010,M-2010-04,group stage,Argentina,Nigeria,1,0,home team win,1,0,0,0,0,2010-06-12,1
+2010,WC-2010,M-2010-05,group stage,England,United States,1,1,draw,0,0,1,0,0,2010-06-12,2
+2010,WC-2010,M-2010-06,group stage,Algeria,Slovenia,0,1,away team win,0,1,0,0,0,2010-06-13,1
+2010,WC-2010,M-2010-07,group stage,Serbia,Ghana,0,1,away team win,0,1,0,0,0,2010-06-13,1
+2010,WC-2010,M-2010-08,group stage,Germany,Australia,4,0,home team win,1,0,0,0,0,2010-06-13,4
+2010,WC-2010,M-2010-09,group stage,Netherlands,Denmark,2,0,home team win,1,0,0,0,0,2010-06-14,2
+2010,WC-2010,M-2010-10,group stage,Japan,Cameroon,1,0,home team win,1,0,0,0,0,2010-06-14,1
+2010,WC-2010,M-2010-11,group stage,Italy,Paraguay,1,1,draw,0,0,1,0,0,2010-06-14,2
+2010,WC-2010,M-2010-12,group stage,New Zealand,Slovakia,1,1,draw,0,0,1,0,0,2010-06-15,2
+2010,WC-2010,M-2010-13,group stage,Ivory Coast,Portugal,0,0,draw,0,0,1,0,0,2010-06-15,0
+2010,WC-2010,M-2010-14,group stage,Brazil,North Korea,2,1,home team win,1,0,0,0,0,2010-06-15,3
+2010,WC-2010,M-2010-15,group stage,Honduras,Chile,0,1,away team win,0,1,0,0,0,2010-06-16,1
+2010,WC-2010,M-2010-16,group stage,Spain,Switzerland,0,1,away team win,0,1,0,0,0,2010-06-16,1
+2010,WC-2010,M-2010-17,group stage,South Africa,Uruguay,0,3,away team win,0,1,0,0,0,2010-06-16,3
+2010,WC-2010,M-2010-18,group stage,Argentina,South Korea,4,1,home team win,1,0,0,0,0,2010-06-17,5
+2010,WC-2010,M-2010-19,group stage,Greece,Nigeria,2,1,home team win,1,0,0,0,0,2010-06-17,3
+2010,WC-2010,M-2010-20,group stage,France,Mexico,0,2,away team win,0,1,0,0,0,2010-06-17,2
+2010,WC-2010,M-2010-21,group stage,Germany,Serbia,0,1,away team win,0,1,0,0,0,2010-06-18,1
+2010,WC-2010,M-2010-22,group stage,Slovenia,United States,2,2,draw,0,0,1,0,0,2010-06-18,4
+2010,WC-2010,M-2010-23,group stage,England,Algeria,0,0,draw,0,0,1,0,0,2010-06-18,0
+2010,WC-2010,M-2010-24,group stage,Netherlands,Japan,1,0,home team win,1,0,0,0,0,2010-06-19,1
+2010,WC-2010,M-2010-25,group stage,Ghana,Australia,1,1,draw,0,0,1,0,0,2010-06-19,2
+2010,WC-2010,M-2010-26,group stage,Cameroon,Denmark,1,2,away team win,0,1,0,0,0,2010-06-19,3
+2010,WC-2010,M-2010-27,group stage,Slovakia,Paraguay,0,2,away team win,0,1,0,0,0,2010-06-20,2
+2010,WC-2010,M-2010-28,group stage,Italy,New Zealand,1,1,draw,0,0,1,0,0,2010-06-20,2
+2010,WC-2010,M-2010-29,group stage,Brazil,Ivory Coast,3,1,home team win,1,0,0,0,0,2010-06-20,4
+2010,WC-2010,M-2010-30,group stage,Portugal,North Korea,7,0,home team win,1,0,0,0,0,2010-06-21,7
+2010,WC-2010,M-2010-31,group stage,Chile,Switzerland,1,0,home team win,1,0,0,0,0,2010-06-21,1
+2010,WC-2010,M-2010-32,group stage,Spain,Honduras,2,0,home team win,1,0,0,0,0,2010-06-21,2
+2010,WC-2010,M-2010-33,group stage,France,South Africa,1,2,away team win,0,1,0,0,0,2010-06-22,3
+2010,WC-2010,M-2010-34,group stage,Mexico,Uruguay,0,1,away team win,0,1,0,0,0,2010-06-22,1
+2010,WC-2010,M-2010-35,group stage,Greece,Argentina,0,2,away team win,0,1,0,0,0,2010-06-22,2
+2010,WC-2010,M-2010-36,group stage,Nigeria,South Korea,2,2,draw,0,0,1,0,0,2010-06-22,4
+2010,WC-2010,M-2010-37,group stage,Slovenia,England,0,1,away team win,0,1,0,0,0,2010-06-23,1
+2010,WC-2010,M-2010-38,group stage,United States,Algeria,1,0,home team win,1,0,0,0,0,2010-06-23,1
+2010,WC-2010,M-2010-39,group stage,Australia,Serbia,2,1,home team win,1,0,0,0,0,2010-06-23,3
+2010,WC-2010,M-2010-40,group stage,Ghana,Germany,0,1,away team win,0,1,0,0,0,2010-06-23,1
+2010,WC-2010,M-2010-41,group stage,Paraguay,New Zealand,0,0,draw,0,0,1,0,0,2010-06-24,0
+2010,WC-2010,M-2010-42,group stage,Slovakia,Italy,3,2,home team win,1,0,0,0,0,2010-06-24,5
+2010,WC-2010,M-2010-43,group stage,Cameroon,Netherlands,1,2,away team win,0,1,0,0,0,2010-06-24,3
+2010,WC-2010,M-2010-44,group stage,Denmark,Japan,1,3,away team win,0,1,0,0,0,2010-06-24,4
+2010,WC-2010,M-2010-45,group stage,North Korea,Ivory Coast,0,3,away team win,0,1,0,0,0,2010-06-25,3
+2010,WC-2010,M-2010-46,group stage,Portugal,Brazil,0,0,draw,0,0,1,0,0,2010-06-25,0
+2010,WC-2010,M-2010-47,group stage,Chile,Spain,1,2,away team win,0,1,0,0,0,2010-06-25,3
+2010,WC-2010,M-2010-48,group stage,Switzerland,Honduras,0,0,draw,0,0,1,0,0,2010-06-25,0
+2010,WC-2010,M-2010-49,round of 16,Uruguay,South Korea,2,1,home team win,1,0,0,0,0,2010-06-26,3
+2010,WC-2010,M-2010-50,round of 16,United States,Ghana,1,2,away team win,0,1,0,1,0,2010-06-26,3
+2010,WC-2010,M-2010-51,round of 16,Germany,England,4,1,home team win,1,0,0,0,0,2010-06-27,5
+2010,WC-2010,M-2010-52,round of 16,Argentina,Mexico,3,1,home team win,1,0,0,0,0,2010-06-27,4
+2010,WC-2010,M-2010-53,round of 16,Netherlands,Slovakia,2,1,home team win,1,0,0,0,0,2010-06-28,3
+2010,WC-2010,M-2010-54,round of 16,Brazil,Chile,3,0,home team win,1,0,0,0,0,2010-06-28,3
+2010,WC-2010,M-2010-55,round of 16,Paraguay,Japan,0,0,home team win,1,0,0,1,1,2010-06-29,0
+2010,WC-2010,M-2010-56,round of 16,Spain,Portugal,1,0,home team win,1,0,0,0,0,2010-06-29,1
+2010,WC-2010,M-2010-57,quarter-finals,Netherlands,Brazil,2,1,home team win,1,0,0,0,0,2010-07-02,3
+2010,WC-2010,M-2010-58,quarter-finals,Uruguay,Ghana,1,1,home team win,1,0,0,1,1,2010-07-02,2
+2010,WC-2010,M-2010-59,quarter-finals,Argentina,Germany,0,4,away team win,0,1,0,0,0,2010-07-03,4
+2010,WC-2010,M-2010-60,quarter-finals,Paraguay,Spain,0,1,away team win,0,1,0,0,0,2010-07-03,1
+2010,WC-2010,M-2010-61,semi-finals,Uruguay,Netherlands,2,3,away team win,0,1,0,0,0,2010-07-06,5
+2010,WC-2010,M-2010-62,semi-finals,Germany,Spain,0,1,away team win,0,1,0,0,0,2010-07-07,1
+2010,WC-2010,M-2010-63,third-place match,Uruguay,Germany,2,3,away team win,0,1,0,0,0,2010-07-10,5
+2010,WC-2010,M-2010-64,final,Netherlands,Spain,0,1,away team win,0,1,0,1,0,2010-07-11,1
+2011,WC-2011,M-2011-01,group stage,Nigeria,France,0,1,away team win,0,1,0,0,0,2011-06-26,1
+2011,WC-2011,M-2011-02,group stage,Germany,Canada,2,1,home team win,1,0,0,0,0,2011-06-26,3
+2011,WC-2011,M-2011-03,group stage,Japan,New Zealand,2,1,home team win,1,0,0,0,0,2011-06-27,3
+2011,WC-2011,M-2011-04,group stage,Mexico,England,1,1,draw,0,0,1,0,0,2011-06-27,2
+2011,WC-2011,M-2011-05,group stage,Colombia,Sweden,0,1,away team win,0,1,0,0,0,2011-06-28,1
+2011,WC-2011,M-2011-06,group stage,United States,North Korea,2,0,home team win,1,0,0,0,0,2011-06-28,2
+2011,WC-2011,M-2011-07,group stage,Norway,Equatorial Guinea,1,0,home team win,1,0,0,0,0,2011-06-29,1
+2011,WC-2011,M-2011-08,group stage,Brazil,Australia,1,0,home team win,1,0,0,0,0,2011-06-29,1
+2011,WC-2011,M-2011-09,group stage,Canada,France,0,4,away team win,0,1,0,0,0,2011-06-30,4
+2011,WC-2011,M-2011-10,group stage,Germany,Nigeria,1,0,home team win,1,0,0,0,0,2011-06-30,1
+2011,WC-2011,M-2011-11,group stage,Japan,Mexico,4,0,home team win,1,0,0,0,0,2011-07-01,4
+2011,WC-2011,M-2011-12,group stage,New Zealand,England,1,2,away team win,0,1,0,0,0,2011-07-01,3
+2011,WC-2011,M-2011-13,group stage,North Korea,Sweden,0,1,away team win,0,1,0,0,0,2011-07-02,1
+2011,WC-2011,M-2011-14,group stage,United States,Colombia,3,0,home team win,1,0,0,0,0,2011-07-02,3
+2011,WC-2011,M-2011-15,group stage,Australia,Equatorial Guinea,3,2,home team win,1,0,0,0,0,2011-07-03,5
+2011,WC-2011,M-2011-16,group stage,Brazil,Norway,3,0,home team win,1,0,0,0,0,2011-07-03,3
+2011,WC-2011,M-2011-17,group stage,England,Japan,2,0,home team win,1,0,0,0,0,2011-07-05,2
+2011,WC-2011,M-2011-18,group stage,New Zealand,Mexico,2,2,draw,0,0,1,0,0,2011-07-05,4
+2011,WC-2011,M-2011-19,group stage,Canada,Nigeria,0,1,away team win,0,1,0,0,0,2011-07-05,1
+2011,WC-2011,M-2011-20,group stage,France,Germany,2,4,away team win,0,1,0,0,0,2011-07-05,6
+2011,WC-2011,M-2011-21,group stage,Australia,Norway,2,1,home team win,1,0,0,0,0,2011-07-06,3
+2011,WC-2011,M-2011-22,group stage,Equatorial Guinea,Brazil,0,3,away team win,0,1,0,0,0,2011-07-06,3
+2011,WC-2011,M-2011-23,group stage,North Korea,Colombia,0,0,draw,0,0,1,0,0,2011-07-06,0
+2011,WC-2011,M-2011-24,group stage,Sweden,United States,2,1,home team win,1,0,0,0,0,2011-07-06,3
+2011,WC-2011,M-2011-25,quarter-final,England,France,1,1,away team win,0,1,0,1,1,2011-07-09,2
+2011,WC-2011,M-2011-26,quarter-final,Germany,Japan,0,1,away team win,0,1,0,1,0,2011-07-09,1
+2011,WC-2011,M-2011-27,quarter-final,Sweden,Australia,3,1,home team win,1,0,0,0,0,2011-07-10,4
+2011,WC-2011,M-2011-28,quarter-final,Brazil,United States,2,2,away team win,0,1,0,1,1,2011-07-10,4
+2011,WC-2011,M-2011-29,semi-final,France,United States,1,3,away team win,0,1,0,0,0,2011-07-13,4
+2011,WC-2011,M-2011-30,semi-final,Japan,Sweden,3,1,home team win,1,0,0,0,0,2011-07-13,4
+2011,WC-2011,M-2011-31,third-place match,Sweden,France,2,1,home team win,1,0,0,0,0,2011-07-16,3
+2011,WC-2011,M-2011-32,final,Japan,United States,2,2,home team win,1,0,0,1,1,2011-07-17,4
+2014,WC-2014,M-2014-01,group stage,Brazil,Croatia,3,1,home team win,1,0,0,0,0,2014-06-12,4
+2014,WC-2014,M-2014-02,group stage,Mexico,Cameroon,1,0,home team win,1,0,0,0,0,2014-06-13,1
+2014,WC-2014,M-2014-03,group stage,Spain,Netherlands,1,5,away team win,0,1,0,0,0,2014-06-13,6
+2014,WC-2014,M-2014-04,group stage,Chile,Australia,3,1,home team win,1,0,0,0,0,2014-06-13,4
+2014,WC-2014,M-2014-05,group stage,Colombia,Greece,3,0,home team win,1,0,0,0,0,2014-06-14,3
+2014,WC-2014,M-2014-06,group stage,Uruguay,Costa Rica,1,3,away team win,0,1,0,0,0,2014-06-14,4
+2014,WC-2014,M-2014-07,group stage,England,Italy,1,2,away team win,0,1,0,0,0,2014-06-14,3
+2014,WC-2014,M-2014-08,group stage,Ivory Coast,Japan,2,1,home team win,1,0,0,0,0,2014-06-14,3
+2014,WC-2014,M-2014-09,group stage,Switzerland,Ecuador,2,1,home team win,1,0,0,0,0,2014-06-15,3
+2014,WC-2014,M-2014-10,group stage,France,Honduras,3,0,home team win,1,0,0,0,0,2014-06-15,3
+2014,WC-2014,M-2014-11,group stage,Argentina,Bosnia and Herzegovina,2,1,home team win,1,0,0,0,0,2014-06-15,3
+2014,WC-2014,M-2014-12,group stage,Germany,Portugal,4,0,home team win,1,0,0,0,0,2014-06-16,4
+2014,WC-2014,M-2014-13,group stage,Iran,Nigeria,0,0,draw,0,0,1,0,0,2014-06-16,0
+2014,WC-2014,M-2014-14,group stage,Ghana,United States,1,2,away team win,0,1,0,0,0,2014-06-16,3
+2014,WC-2014,M-2014-15,group stage,Belgium,Algeria,2,1,home team win,1,0,0,0,0,2014-06-17,3
+2014,WC-2014,M-2014-16,group stage,Brazil,Mexico,0,0,draw,0,0,1,0,0,2014-06-17,0
+2014,WC-2014,M-2014-17,group stage,Russia,South Korea,1,1,draw,0,0,1,0,0,2014-06-17,2
+2014,WC-2014,M-2014-18,group stage,Australia,Netherlands,2,3,away team win,0,1,0,0,0,2014-06-18,5
+2014,WC-2014,M-2014-19,group stage,Spain,Chile,0,2,away team win,0,1,0,0,0,2014-06-18,2
+2014,WC-2014,M-2014-20,group stage,Cameroon,Croatia,0,4,away team win,0,1,0,0,0,2014-06-18,4
+2014,WC-2014,M-2014-21,group stage,Colombia,Ivory Coast,2,1,home team win,1,0,0,0,0,2014-06-19,3
+2014,WC-2014,M-2014-22,group stage,Uruguay,England,2,1,home team win,1,0,0,0,0,2014-06-19,3
+2014,WC-2014,M-2014-23,group stage,Japan,Greece,0,0,draw,0,0,1,0,0,2014-06-19,0
+2014,WC-2014,M-2014-24,group stage,Italy,Costa Rica,0,1,away team win,0,1,0,0,0,2014-06-20,1
+2014,WC-2014,M-2014-25,group stage,Switzerland,France,2,5,away team win,0,1,0,0,0,2014-06-20,7
+2014,WC-2014,M-2014-26,group stage,Honduras,Ecuador,1,2,away team win,0,1,0,0,0,2014-06-20,3
+2014,WC-2014,M-2014-27,group stage,Argentina,Iran,1,0,home team win,1,0,0,0,0,2014-06-21,1
+2014,WC-2014,M-2014-28,group stage,Germany,Ghana,2,2,draw,0,0,1,0,0,2014-06-21,4
+2014,WC-2014,M-2014-29,group stage,Nigeria,Bosnia and Herzegovina,1,0,home team win,1,0,0,0,0,2014-06-21,1
+2014,WC-2014,M-2014-30,group stage,Belgium,Russia,1,0,home team win,1,0,0,0,0,2014-06-22,1
+2014,WC-2014,M-2014-31,group stage,South Korea,Algeria,2,4,away team win,0,1,0,0,0,2014-06-22,6
+2014,WC-2014,M-2014-32,group stage,United States,Portugal,2,2,draw,0,0,1,0,0,2014-06-22,4
+2014,WC-2014,M-2014-33,group stage,Australia,Spain,0,3,away team win,0,1,0,0,0,2014-06-23,3
+2014,WC-2014,M-2014-34,group stage,Netherlands,Chile,2,0,home team win,1,0,0,0,0,2014-06-23,2
+2014,WC-2014,M-2014-35,group stage,Cameroon,Brazil,1,4,away team win,0,1,0,0,0,2014-06-23,5
+2014,WC-2014,M-2014-36,group stage,Croatia,Mexico,1,3,away team win,0,1,0,0,0,2014-06-23,4
+2014,WC-2014,M-2014-37,group stage,Costa Rica,England,0,0,draw,0,0,1,0,0,2014-06-24,0
+2014,WC-2014,M-2014-38,group stage,Italy,Uruguay,0,1,away team win,0,1,0,0,0,2014-06-24,1
+2014,WC-2014,M-2014-39,group stage,Japan,Colombia,1,4,away team win,0,1,0,0,0,2014-06-24,5
+2014,WC-2014,M-2014-40,group stage,Greece,Ivory Coast,2,1,home team win,1,0,0,0,0,2014-06-24,3
+2014,WC-2014,M-2014-41,group stage,Bosnia and Herzegovina,Iran,3,1,home team win,1,0,0,0,0,2014-06-25,4
+2014,WC-2014,M-2014-42,group stage,Nigeria,Argentina,2,3,away team win,0,1,0,0,0,2014-06-25,5
+2014,WC-2014,M-2014-43,group stage,Honduras,Switzerland,0,3,away team win,0,1,0,0,0,2014-06-25,3
+2014,WC-2014,M-2014-44,group stage,Ecuador,France,0,0,draw,0,0,1,0,0,2014-06-25,0
+2014,WC-2014,M-2014-45,group stage,Portugal,Ghana,2,1,home team win,1,0,0,0,0,2014-06-26,3
+2014,WC-2014,M-2014-46,group stage,United States,Germany,0,1,away team win,0,1,0,0,0,2014-06-26,1
+2014,WC-2014,M-2014-47,group stage,Algeria,Russia,1,1,draw,0,0,1,0,0,2014-06-26,2
+2014,WC-2014,M-2014-48,group stage,South Korea,Belgium,0,1,away team win,0,1,0,0,0,2014-06-26,1
+2014,WC-2014,M-2014-49,round of 16,Brazil,Chile,1,1,home team win,1,0,0,1,1,2014-06-28,2
+2014,WC-2014,M-2014-50,round of 16,Colombia,Uruguay,2,0,home team win,1,0,0,0,0,2014-06-28,2
+2014,WC-2014,M-2014-51,round of 16,Netherlands,Mexico,2,1,home team win,1,0,0,0,0,2014-06-29,3
+2014,WC-2014,M-2014-52,round of 16,Costa Rica,Greece,1,1,home team win,1,0,0,1,1,2014-06-29,2
+2014,WC-2014,M-2014-53,round of 16,France,Nigeria,2,0,home team win,1,0,0,0,0,2014-06-30,2
+2014,WC-2014,M-2014-54,round of 16,Germany,Algeria,2,1,home team win,1,0,0,1,0,2014-06-30,3
+2014,WC-2014,M-2014-55,round of 16,Argentina,Switzerland,1,0,home team win,1,0,0,1,0,2014-07-01,1
+2014,WC-2014,M-2014-56,round of 16,Belgium,United States,2,1,home team win,1,0,0,1,0,2014-07-01,3
+2014,WC-2014,M-2014-57,quarter-finals,France,Germany,0,1,away team win,0,1,0,0,0,2014-07-04,1
+2014,WC-2014,M-2014-58,quarter-finals,Brazil,Colombia,2,1,home team win,1,0,0,0,0,2014-07-04,3
+2014,WC-2014,M-2014-59,quarter-finals,Argentina,Belgium,1,0,home team win,1,0,0,0,0,2014-07-05,1
+2014,WC-2014,M-2014-60,quarter-finals,Netherlands,Costa Rica,0,0,home team win,1,0,0,1,1,2014-07-05,0
+2014,WC-2014,M-2014-61,semi-finals,Brazil,Germany,1,7,away team win,0,1,0,0,0,2014-07-08,8
+2014,WC-2014,M-2014-62,semi-finals,Netherlands,Argentina,0,0,away team win,0,1,0,1,1,2014-07-09,0
+2014,WC-2014,M-2014-63,third-place match,Brazil,Netherlands,0,3,away team win,0,1,0,0,0,2014-07-12,3
+2014,WC-2014,M-2014-64,final,Germany,Argentina,1,0,home team win,1,0,0,1,0,2014-07-13,1
+2015,WC-2015,M-2015-01,group stage,Canada,China,1,0,home team win,1,0,0,0,0,2015-06-06,1
+2015,WC-2015,M-2015-02,group stage,New Zealand,Netherlands,0,1,away team win,0,1,0,0,0,2015-06-06,1
+2015,WC-2015,M-2015-03,group stage,Norway,Thailand,4,0,home team win,1,0,0,0,0,2015-06-07,4
+2015,WC-2015,M-2015-04,group stage,Germany,Ivory Coast,10,0,home team win,1,0,0,0,0,2015-06-07,10
+2015,WC-2015,M-2015-05,group stage,Sweden,Nigeria,3,3,draw,0,0,1,0,0,2015-06-08,6
+2015,WC-2015,M-2015-06,group stage,Cameroon,Ecuador,6,0,home team win,1,0,0,0,0,2015-06-08,6
+2015,WC-2015,M-2015-07,group stage,United States,Australia,3,1,home team win,1,0,0,0,0,2015-06-08,4
+2015,WC-2015,M-2015-08,group stage,Japan,Switzerland,1,0,home team win,1,0,0,0,0,2015-06-08,1
+2015,WC-2015,M-2015-09,group stage,France,England,1,0,home team win,1,0,0,0,0,2015-06-09,1
+2015,WC-2015,M-2015-10,group stage,Spain,Costa Rica,1,1,draw,0,0,1,0,0,2015-06-09,2
+2015,WC-2015,M-2015-11,group stage,Colombia,Mexico,1,1,draw,0,0,1,0,0,2015-06-09,2
+2015,WC-2015,M-2015-12,group stage,Brazil,South Korea,2,0,home team win,1,0,0,0,0,2015-06-09,2
+2015,WC-2015,M-2015-13,group stage,China,Netherlands,1,0,home team win,1,0,0,0,0,2015-06-11,1
+2015,WC-2015,M-2015-14,group stage,Germany,Norway,1,1,draw,0,0,1,0,0,2015-06-11,2
+2015,WC-2015,M-2015-15,group stage,Canada,New Zealand,0,0,draw,0,0,1,0,0,2015-06-11,0
+2015,WC-2015,M-2015-16,group stage,Ivory Coast,Thailand,2,3,away team win,0,1,0,0,0,2015-06-11,5
+2015,WC-2015,M-2015-17,group stage,Switzerland,Ecuador,10,1,home team win,1,0,0,0,0,2015-06-12,11
+2015,WC-2015,M-2015-18,group stage,Australia,Nigeria,2,0,home team win,1,0,0,0,0,2015-06-12,2
+2015,WC-2015,M-2015-19,group stage,Japan,Cameroon,2,1,home team win,1,0,0,0,0,2015-06-12,3
+2015,WC-2015,M-2015-20,group stage,United States,Sweden,0,0,draw,0,0,1,0,0,2015-06-12,0
+2015,WC-2015,M-2015-21,group stage,France,Colombia,0,2,away team win,0,1,0,0,0,2015-06-13,2
+2015,WC-2015,M-2015-22,group stage,Brazil,Spain,1,0,home team win,1,0,0,0,0,2015-06-13,1
+2015,WC-2015,M-2015-23,group stage,England,Mexico,2,1,home team win,1,0,0,0,0,2015-06-13,3
+2015,WC-2015,M-2015-24,group stage,South Korea,Costa Rica,2,2,draw,0,0,1,0,0,2015-06-13,4
+2015,WC-2015,M-2015-25,group stage,Thailand,Germany,0,4,away team win,0,1,0,0,0,2015-06-15,4
+2015,WC-2015,M-2015-26,group stage,Ivory Coast,Norway,1,3,away team win,0,1,0,0,0,2015-06-15,4
+2015,WC-2015,M-2015-27,group stage,China,New Zealand,2,2,draw,0,0,1,0,0,2015-06-15,4
+2015,WC-2015,M-2015-28,group stage,Netherlands,Canada,1,1,draw,0,0,1,0,0,2015-06-15,2
+2015,WC-2015,M-2015-29,group stage,Switzerland,Cameroon,1,2,away team win,0,1,0,0,0,2015-06-16,3
+2015,WC-2015,M-2015-30,group stage,Ecuador,Japan,0,1,away team win,0,1,0,0,0,2015-06-16,1
+2015,WC-2015,M-2015-31,group stage,Nigeria,United States,0,1,away team win,0,1,0,0,0,2015-06-16,1
+2015,WC-2015,M-2015-32,group stage,Australia,Sweden,1,1,draw,0,0,1,0,0,2015-06-16,2
+2015,WC-2015,M-2015-33,group stage,England,Colombia,2,1,home team win,1,0,0,0,0,2015-06-17,3
+2015,WC-2015,M-2015-34,group stage,Mexico,France,0,5,away team win,0,1,0,0,0,2015-06-17,5
+2015,WC-2015,M-2015-35,group stage,South Korea,Spain,2,1,home team win,1,0,0,0,0,2015-06-17,3
+2015,WC-2015,M-2015-36,group stage,Costa Rica,Brazil,0,1,away team win,0,1,0,0,0,2015-06-17,1
+2015,WC-2015,M-2015-37,round of 16,Germany,Sweden,4,1,home team win,1,0,0,0,0,2015-06-20,5
+2015,WC-2015,M-2015-38,round of 16,China,Cameroon,1,0,home team win,1,0,0,0,0,2015-06-20,1
+2015,WC-2015,M-2015-39,round of 16,Brazil,Australia,0,1,away team win,0,1,0,0,0,2015-06-21,1
+2015,WC-2015,M-2015-40,round of 16,France,South Korea,3,0,home team win,1,0,0,0,0,2015-06-21,3
+2015,WC-2015,M-2015-41,round of 16,Canada,Switzerland,1,0,home team win,1,0,0,0,0,2015-06-21,1
+2015,WC-2015,M-2015-42,round of 16,Norway,England,1,2,away team win,0,1,0,0,0,2015-06-22,3
+2015,WC-2015,M-2015-43,round of 16,United States,Colombia,2,0,home team win,1,0,0,0,0,2015-06-22,2
+2015,WC-2015,M-2015-44,round of 16,Japan,Netherlands,2,1,home team win,1,0,0,0,0,2015-06-23,3
+2015,WC-2015,M-2015-45,quarter-final,Germany,France,1,1,home team win,1,0,0,1,1,2015-06-26,2
+2015,WC-2015,M-2015-46,quarter-final,China,United States,0,1,away team win,0,1,0,0,0,2015-06-26,1
+2015,WC-2015,M-2015-47,quarter-final,Australia,Japan,0,1,away team win,0,1,0,0,0,2015-06-27,1
+2015,WC-2015,M-2015-48,quarter-final,England,Canada,2,1,home team win,1,0,0,0,0,2015-06-27,3
+2015,WC-2015,M-2015-49,semi-final,United States,Germany,2,0,home team win,1,0,0,0,0,2015-06-30,2
+2015,WC-2015,M-2015-50,semi-final,Japan,England,2,1,home team win,1,0,0,0,0,2015-07-01,3
+2015,WC-2015,M-2015-51,third-place match,Germany,England,0,1,away team win,0,1,0,1,0,2015-07-04,1
+2015,WC-2015,M-2015-52,final,United States,Japan,5,2,home team win,1,0,0,0,0,2015-07-05,7
+2018,WC-2018,M-2018-01,group stage,Russia,Saudi Arabia,5,0,home team win,1,0,0,0,0,2018-06-14,5
+2018,WC-2018,M-2018-02,group stage,Egypt,Uruguay,0,1,away team win,0,1,0,0,0,2018-06-15,1
+2018,WC-2018,M-2018-03,group stage,Morocco,Iran,0,1,away team win,0,1,0,0,0,2018-06-15,1
+2018,WC-2018,M-2018-04,group stage,Portugal,Spain,3,3,draw,0,0,1,0,0,2018-06-15,6
+2018,WC-2018,M-2018-05,group stage,France,Australia,2,1,home team win,1,0,0,0,0,2018-06-16,3
+2018,WC-2018,M-2018-06,group stage,Argentina,Iceland,1,1,draw,0,0,1,0,0,2018-06-16,2
+2018,WC-2018,M-2018-07,group stage,Peru,Denmark,0,1,away team win,0,1,0,0,0,2018-06-16,1
+2018,WC-2018,M-2018-08,group stage,Croatia,Nigeria,2,0,home team win,1,0,0,0,0,2018-06-16,2
+2018,WC-2018,M-2018-09,group stage,Costa Rica,Serbia,0,1,away team win,0,1,0,0,0,2018-06-17,1
+2018,WC-2018,M-2018-10,group stage,Germany,Mexico,0,1,away team win,0,1,0,0,0,2018-06-17,1
+2018,WC-2018,M-2018-11,group stage,Brazil,Switzerland,1,1,draw,0,0,1,0,0,2018-06-17,2
+2018,WC-2018,M-2018-12,group stage,Sweden,South Korea,1,0,home team win,1,0,0,0,0,2018-06-18,1
+2018,WC-2018,M-2018-13,group stage,Belgium,Panama,3,0,home team win,1,0,0,0,0,2018-06-18,3
+2018,WC-2018,M-2018-14,group stage,Tunisia,England,1,2,away team win,0,1,0,0,0,2018-06-18,3
+2018,WC-2018,M-2018-15,group stage,Colombia,Japan,1,2,away team win,0,1,0,0,0,2018-06-19,3
+2018,WC-2018,M-2018-16,group stage,Poland,Senegal,1,2,away team win,0,1,0,0,0,2018-06-19,3
+2018,WC-2018,M-2018-17,group stage,Russia,Egypt,3,1,home team win,1,0,0,0,0,2018-06-19,4
+2018,WC-2018,M-2018-18,group stage,Portugal,Morocco,1,0,home team win,1,0,0,0,0,2018-06-20,1
+2018,WC-2018,M-2018-19,group stage,Uruguay,Saudi Arabia,1,0,home team win,1,0,0,0,0,2018-06-20,1
+2018,WC-2018,M-2018-20,group stage,Iran,Spain,0,1,away team win,0,1,0,0,0,2018-06-20,1
+2018,WC-2018,M-2018-21,group stage,Denmark,Australia,1,1,draw,0,0,1,0,0,2018-06-21,2
+2018,WC-2018,M-2018-22,group stage,France,Peru,1,0,home team win,1,0,0,0,0,2018-06-21,1
+2018,WC-2018,M-2018-23,group stage,Argentina,Croatia,0,3,away team win,0,1,0,0,0,2018-06-21,3
+2018,WC-2018,M-2018-24,group stage,Brazil,Costa Rica,2,0,home team win,1,0,0,0,0,2018-06-22,2
+2018,WC-2018,M-2018-25,group stage,Nigeria,Iceland,2,0,home team win,1,0,0,0,0,2018-06-22,2
+2018,WC-2018,M-2018-26,group stage,Serbia,Switzerland,1,2,away team win,0,1,0,0,0,2018-06-22,3
+2018,WC-2018,M-2018-27,group stage,Belgium,Tunisia,5,2,home team win,1,0,0,0,0,2018-06-23,7
+2018,WC-2018,M-2018-28,group stage,South Korea,Mexico,1,2,away team win,0,1,0,0,0,2018-06-23,3
+2018,WC-2018,M-2018-29,group stage,Germany,Sweden,2,1,home team win,1,0,0,0,0,2018-06-23,3
+2018,WC-2018,M-2018-30,group stage,England,Panama,6,1,home team win,1,0,0,0,0,2018-06-24,7
+2018,WC-2018,M-2018-31,group stage,Japan,Senegal,2,2,draw,0,0,1,0,0,2018-06-24,4
+2018,WC-2018,M-2018-32,group stage,Poland,Colombia,0,3,away team win,0,1,0,0,0,2018-06-24,3
+2018,WC-2018,M-2018-33,group stage,Saudi Arabia,Egypt,2,1,home team win,1,0,0,0,0,2018-06-25,3
+2018,WC-2018,M-2018-34,group stage,Uruguay,Russia,3,0,home team win,1,0,0,0,0,2018-06-25,3
+2018,WC-2018,M-2018-35,group stage,Spain,Morocco,2,2,draw,0,0,1,0,0,2018-06-25,4
+2018,WC-2018,M-2018-36,group stage,Iran,Portugal,1,1,draw,0,0,1,0,0,2018-06-25,2
+2018,WC-2018,M-2018-37,group stage,Australia,Peru,0,2,away team win,0,1,0,0,0,2018-06-26,2
+2018,WC-2018,M-2018-38,group stage,Denmark,France,0,0,draw,0,0,1,0,0,2018-06-26,0
+2018,WC-2018,M-2018-39,group stage,Iceland,Croatia,1,2,away team win,0,1,0,0,0,2018-06-26,3
+2018,WC-2018,M-2018-40,group stage,Nigeria,Argentina,1,2,away team win,0,1,0,0,0,2018-06-26,3
+2018,WC-2018,M-2018-41,group stage,South Korea,Germany,2,0,home team win,1,0,0,0,0,2018-06-27,2
+2018,WC-2018,M-2018-42,group stage,Mexico,Sweden,0,3,away team win,0,1,0,0,0,2018-06-27,3
+2018,WC-2018,M-2018-43,group stage,Serbia,Brazil,0,2,away team win,0,1,0,0,0,2018-06-27,2
+2018,WC-2018,M-2018-44,group stage,Switzerland,Costa Rica,2,2,draw,0,0,1,0,0,2018-06-27,4
+2018,WC-2018,M-2018-45,group stage,Japan,Poland,0,1,away team win,0,1,0,0,0,2018-06-28,1
+2018,WC-2018,M-2018-46,group stage,Senegal,Colombia,0,1,away team win,0,1,0,0,0,2018-06-28,1
+2018,WC-2018,M-2018-47,group stage,England,Belgium,0,1,away team win,0,1,0,0,0,2018-06-28,1
+2018,WC-2018,M-2018-48,group stage,Panama,Tunisia,1,2,away team win,0,1,0,0,0,2018-06-28,3
+2018,WC-2018,M-2018-49,round of 16,France,Argentina,4,3,home team win,1,0,0,0,0,2018-06-30,7
+2018,WC-2018,M-2018-50,round of 16,Uruguay,Portugal,2,1,home team win,1,0,0,0,0,2018-06-30,3
+2018,WC-2018,M-2018-51,round of 16,Spain,Russia,1,1,away team win,0,1,0,1,1,2018-07-01,2
+2018,WC-2018,M-2018-52,round of 16,Croatia,Denmark,1,1,home team win,1,0,0,1,1,2018-07-01,2
+2018,WC-2018,M-2018-53,round of 16,Brazil,Mexico,2,0,home team win,1,0,0,0,0,2018-07-02,2
+2018,WC-2018,M-2018-54,round of 16,Belgium,Japan,3,2,home team win,1,0,0,0,0,2018-07-02,5
+2018,WC-2018,M-2018-55,round of 16,Sweden,Switzerland,1,0,home team win,1,0,0,0,0,2018-07-03,1
+2018,WC-2018,M-2018-56,round of 16,Colombia,England,1,1,away team win,0,1,0,1,1,2018-07-03,2
+2018,WC-2018,M-2018-57,quarter-finals,Uruguay,France,0,2,away team win,0,1,0,0,0,2018-07-06,2
+2018,WC-2018,M-2018-58,quarter-finals,Brazil,Belgium,1,2,away team win,0,1,0,0,0,2018-07-06,3
+2018,WC-2018,M-2018-59,quarter-finals,Sweden,England,0,2,away team win,0,1,0,0,0,2018-07-07,2
+2018,WC-2018,M-2018-60,quarter-finals,Russia,Croatia,2,2,away team win,0,1,0,1,1,2018-07-07,4
+2018,WC-2018,M-2018-61,semi-finals,France,Belgium,1,0,home team win,1,0,0,0,0,2018-07-10,1
+2018,WC-2018,M-2018-62,semi-finals,Croatia,England,2,1,home team win,1,0,0,1,0,2018-07-11,3
+2018,WC-2018,M-2018-63,third-place match,Belgium,England,2,0,home team win,1,0,0,0,0,2018-07-14,2
+2018,WC-2018,M-2018-64,final,France,Croatia,4,2,home team win,1,0,0,0,0,2018-07-15,6
+2019,WC-2019,M-2019-01,group stage,France,South Korea,4,0,home team win,1,0,0,0,0,2019-06-07,4
+2019,WC-2019,M-2019-02,group stage,Germany,China,1,0,home team win,1,0,0,0,0,2019-06-08,1
+2019,WC-2019,M-2019-03,group stage,Spain,South Africa,3,1,home team win,1,0,0,0,0,2019-06-08,4
+2019,WC-2019,M-2019-04,group stage,Norway,Nigeria,3,0,home team win,1,0,0,0,0,2019-06-08,3
+2019,WC-2019,M-2019-05,group stage,Australia,Italy,1,2,away team win,0,1,0,0,0,2019-06-09,3
+2019,WC-2019,M-2019-06,group stage,Brazil,Jamaica,3,0,home team win,1,0,0,0,0,2019-06-09,3
+2019,WC-2019,M-2019-07,group stage,England,Scotland,2,1,home team win,1,0,0,0,0,2019-06-09,3
+2019,WC-2019,M-2019-08,group stage,Argentina,Japan,0,0,draw,0,0,1,0,0,2019-06-10,0
+2019,WC-2019,M-2019-09,group stage,Canada,Cameroon,1,0,home team win,1,0,0,0,0,2019-06-10,1
+2019,WC-2019,M-2019-10,group stage,New Zealand,Netherlands,0,1,away team win,0,1,0,0,0,2019-06-11,1
+2019,WC-2019,M-2019-11,group stage,Chile,Sweden,0,2,away team win,0,1,0,0,0,2019-06-11,2
+2019,WC-2019,M-2019-12,group stage,United States,Thailand,13,0,home team win,1,0,0,0,0,2019-06-11,13
+2019,WC-2019,M-2019-13,group stage,Nigeria,South Korea,2,0,home team win,1,0,0,0,0,2019-06-12,2
+2019,WC-2019,M-2019-14,group stage,Germany,Spain,1,0,home team win,1,0,0,0,0,2019-06-12,1
+2019,WC-2019,M-2019-15,group stage,France,Norway,2,1,home team win,1,0,0,0,0,2019-06-12,3
+2019,WC-2019,M-2019-16,group stage,Australia,Brazil,3,2,home team win,1,0,0,0,0,2019-06-13,5
+2019,WC-2019,M-2019-17,group stage,South Africa,China,0,1,away team win,0,1,0,0,0,2019-06-13,1
+2019,WC-2019,M-2019-18,group stage,Japan,Scotland,2,1,home team win,1,0,0,0,0,2019-06-14,3
+2019,WC-2019,M-2019-19,group stage,Jamaica,Italy,0,5,away team win,0,1,0,0,0,2019-06-14,5
+2019,WC-2019,M-2019-20,group stage,England,Argentina,1,0,home team win,1,0,0,0,0,2019-06-14,1
+2019,WC-2019,M-2019-21,group stage,Netherlands,Cameroon,3,1,home team win,1,0,0,0,0,2019-06-15,4
+2019,WC-2019,M-2019-22,group stage,Canada,New Zealand,2,0,home team win,1,0,0,0,0,2019-06-15,2
+2019,WC-2019,M-2019-23,group stage,Sweden,Thailand,5,1,home team win,1,0,0,0,0,2019-06-16,6
+2019,WC-2019,M-2019-24,group stage,United States,Chile,3,0,home team win,1,0,0,0,0,2019-06-16,3
+2019,WC-2019,M-2019-25,group stage,China,Spain,0,0,draw,0,0,1,0,0,2019-06-17,0
+2019,WC-2019,M-2019-26,group stage,South Africa,Germany,0,4,away team win,0,1,0,0,0,2019-06-17,4
+2019,WC-2019,M-2019-27,group stage,Nigeria,France,0,1,away team win,0,1,0,0,0,2019-06-17,1
+2019,WC-2019,M-2019-28,group stage,South Korea,Norway,1,2,away team win,0,1,0,0,0,2019-06-17,3
+2019,WC-2019,M-2019-29,group stage,Italy,Brazil,0,1,away team win,0,1,0,0,0,2019-06-18,1
+2019,WC-2019,M-2019-30,group stage,Jamaica,Australia,1,4,away team win,0,1,0,0,0,2019-06-18,5
+2019,WC-2019,M-2019-31,group stage,Japan,England,0,2,away team win,0,1,0,0,0,2019-06-19,2
+2019,WC-2019,M-2019-32,group stage,Scotland,Argentina,3,3,draw,0,0,1,0,0,2019-06-19,6
+2019,WC-2019,M-2019-33,group stage,Cameroon,New Zealand,2,1,home team win,1,0,0,0,0,2019-06-20,3
+2019,WC-2019,M-2019-34,group stage,Netherlands,Canada,2,1,home team win,1,0,0,0,0,2019-06-20,3
+2019,WC-2019,M-2019-35,group stage,Sweden,United States,0,2,away team win,0,1,0,0,0,2019-06-20,2
+2019,WC-2019,M-2019-36,group stage,Thailand,Chile,0,2,away team win,0,1,0,0,0,2019-06-20,2
+2019,WC-2019,M-2019-37,round of 16,Germany,Nigeria,3,0,home team win,1,0,0,0,0,2019-06-22,3
+2019,WC-2019,M-2019-38,round of 16,Norway,Australia,1,1,home team win,1,0,0,1,1,2019-06-22,2
+2019,WC-2019,M-2019-39,round of 16,England,Cameroon,3,0,home team win,1,0,0,0,0,2019-06-23,3
+2019,WC-2019,M-2019-40,round of 16,France,Brazil,2,1,home team win,1,0,0,1,0,2019-06-23,3
+2019,WC-2019,M-2019-41,round of 16,Spain,United States,1,2,away team win,0,1,0,0,0,2019-06-24,3
+2019,WC-2019,M-2019-42,round of 16,Sweden,Canada,1,0,home team win,1,0,0,0,0,2019-06-24,1
+2019,WC-2019,M-2019-43,round of 16,Italy,China,2,0,home team win,1,0,0,0,0,2019-06-25,2
+2019,WC-2019,M-2019-44,round of 16,Netherlands,Japan,2,1,home team win,1,0,0,0,0,2019-06-25,3
+2019,WC-2019,M-2019-45,quarter-final,Norway,England,0,3,away team win,0,1,0,0,0,2019-06-27,3
+2019,WC-2019,M-2019-46,quarter-final,France,United States,1,2,away team win,0,1,0,0,0,2019-06-28,3
+2019,WC-2019,M-2019-47,quarter-final,Italy,Netherlands,0,2,away team win,0,1,0,0,0,2019-06-29,2
+2019,WC-2019,M-2019-48,quarter-final,Germany,Sweden,1,2,away team win,0,1,0,0,0,2019-06-29,3
+2019,WC-2019,M-2019-49,semi-final,England,United States,1,2,away team win,0,1,0,0,0,2019-07-02,3
+2019,WC-2019,M-2019-50,semi-final,Netherlands,Sweden,1,0,home team win,1,0,0,1,0,2019-07-03,1
+2019,WC-2019,M-2019-51,third-place match,England,Sweden,1,2,away team win,0,1,0,0,0,2019-07-06,3
+2019,WC-2019,M-2019-52,final,United States,Netherlands,2,0,home team win,1,0,0,0,0,2019-07-07,2
+2022,WC-2022,M-2022-01,group stage,Qatar,Ecuador,0,2,away team win,0,1,0,0,0,2022-11-20,2
+2022,WC-2022,M-2022-02,group stage,England,Iran,6,2,home team win,1,0,0,0,0,2022-11-21,8
+2022,WC-2022,M-2022-03,group stage,Senegal,Netherlands,0,2,away team win,0,1,0,0,0,2022-11-21,2
+2022,WC-2022,M-2022-04,group stage,United States,Wales,1,1,draw,0,0,1,0,0,2022-11-21,2
+2022,WC-2022,M-2022-05,group stage,Argentina,Saudi Arabia,1,2,away team win,0,1,0,0,0,2022-11-22,3
+2022,WC-2022,M-2022-06,group stage,Denmark,Tunisia,0,0,draw,0,0,1,0,0,2022-11-22,0
+2022,WC-2022,M-2022-07,group stage,Mexico,Poland,0,0,draw,0,0,1,0,0,2022-11-22,0
+2022,WC-2022,M-2022-08,group stage,France,Australia,4,1,home team win,1,0,0,0,0,2022-11-22,5
+2022,WC-2022,M-2022-09,group stage,Morocco,Croatia,0,0,draw,0,0,1,0,0,2022-11-23,0
+2022,WC-2022,M-2022-10,group stage,Germany,Japan,1,2,away team win,0,1,0,0,0,2022-11-23,3
+2022,WC-2022,M-2022-11,group stage,Spain,Costa Rica,7,0,home team win,1,0,0,0,0,2022-11-23,7
+2022,WC-2022,M-2022-12,group stage,Belgium,Canada,1,0,home team win,1,0,0,0,0,2022-11-23,1
+2022,WC-2022,M-2022-13,group stage,Switzerland,Cameroon,1,0,home team win,1,0,0,0,0,2022-11-24,1
+2022,WC-2022,M-2022-14,group stage,Uruguay,South Korea,0,0,draw,0,0,1,0,0,2022-11-24,0
+2022,WC-2022,M-2022-15,group stage,Portugal,Ghana,3,2,home team win,1,0,0,0,0,2022-11-24,5
+2022,WC-2022,M-2022-16,group stage,Brazil,Serbia,2,0,home team win,1,0,0,0,0,2022-11-24,2
+2022,WC-2022,M-2022-17,group stage,Wales,Iran,0,2,away team win,0,1,0,0,0,2022-11-25,2
+2022,WC-2022,M-2022-18,group stage,Qatar,Senegal,1,3,away team win,0,1,0,0,0,2022-11-25,4
+2022,WC-2022,M-2022-19,group stage,Netherlands,Ecuador,1,1,draw,0,0,1,0,0,2022-11-25,2
+2022,WC-2022,M-2022-20,group stage,England,United States,0,0,draw,0,0,1,0,0,2022-11-25,0
+2022,WC-2022,M-2022-21,group stage,Tunisia,Australia,0,1,away team win,0,1,0,0,0,2022-11-26,1
+2022,WC-2022,M-2022-22,group stage,Poland,Saudi Arabia,2,0,home team win,1,0,0,0,0,2022-11-26,2
+2022,WC-2022,M-2022-23,group stage,France,Denmark,2,1,home team win,1,0,0,0,0,2022-11-26,3
+2022,WC-2022,M-2022-24,group stage,Argentina,Mexico,2,0,home team win,1,0,0,0,0,2022-11-26,2
+2022,WC-2022,M-2022-25,group stage,Japan,Costa Rica,0,1,away team win,0,1,0,0,0,2022-11-27,1
+2022,WC-2022,M-2022-26,group stage,Belgium,Morocco,0,2,away team win,0,1,0,0,0,2022-11-27,2
+2022,WC-2022,M-2022-27,group stage,Croatia,Canada,4,1,home team win,1,0,0,0,0,2022-11-27,5
+2022,WC-2022,M-2022-28,group stage,Spain,Germany,1,1,draw,0,0,1,0,0,2022-11-27,2
+2022,WC-2022,M-2022-29,group stage,Cameroon,Serbia,3,3,draw,0,0,1,0,0,2022-11-28,6
+2022,WC-2022,M-2022-30,group stage,South Korea,Ghana,2,3,away team win,0,1,0,0,0,2022-11-28,5
+2022,WC-2022,M-2022-31,group stage,Brazil,Switzerland,1,0,home team win,1,0,0,0,0,2022-11-28,1
+2022,WC-2022,M-2022-32,group stage,Portugal,Uruguay,2,0,home team win,1,0,0,0,0,2022-11-28,2
+2022,WC-2022,M-2022-33,group stage,Ecuador,Senegal,1,2,away team win,0,1,0,0,0,2022-11-29,3
+2022,WC-2022,M-2022-34,group stage,Netherlands,Qatar,2,0,home team win,1,0,0,0,0,2022-11-29,2
+2022,WC-2022,M-2022-35,group stage,Iran,United States,0,1,away team win,0,1,0,0,0,2022-11-29,1
+2022,WC-2022,M-2022-36,group stage,Wales,England,0,3,away team win,0,1,0,0,0,2022-11-29,3
+2022,WC-2022,M-2022-37,group stage,Australia,Denmark,1,0,home team win,1,0,0,0,0,2022-11-30,1
+2022,WC-2022,M-2022-38,group stage,Tunisia,France,1,0,home team win,1,0,0,0,0,2022-11-30,1
+2022,WC-2022,M-2022-39,group stage,Poland,Argentina,0,2,away team win,0,1,0,0,0,2022-11-30,2
+2022,WC-2022,M-2022-40,group stage,Saudi Arabia,Mexico,1,2,away team win,0,1,0,0,0,2022-11-30,3
+2022,WC-2022,M-2022-41,group stage,Canada,Morocco,1,2,away team win,0,1,0,0,0,2022-12-01,3
+2022,WC-2022,M-2022-42,group stage,Croatia,Belgium,0,0,draw,0,0,1,0,0,2022-12-01,0
+2022,WC-2022,M-2022-43,group stage,Costa Rica,Germany,2,4,away team win,0,1,0,0,0,2022-12-01,6
+2022,WC-2022,M-2022-44,group stage,Japan,Spain,2,1,home team win,1,0,0,0,0,2022-12-01,3
+2022,WC-2022,M-2022-45,group stage,Ghana,Uruguay,0,2,away team win,0,1,0,0,0,2022-12-02,2
+2022,WC-2022,M-2022-46,group stage,South Korea,Portugal,2,1,home team win,1,0,0,0,0,2022-12-02,3
+2022,WC-2022,M-2022-47,group stage,Cameroon,Brazil,1,0,home team win,1,0,0,0,0,2022-12-02,1
+2022,WC-2022,M-2022-48,group stage,Serbia,Switzerland,2,3,away team win,0,1,0,0,0,2022-12-02,5
+2022,WC-2022,M-2022-49,round of 16,Netherlands,United States,3,1,home team win,1,0,0,0,0,2022-12-03,4
+2022,WC-2022,M-2022-50,round of 16,Argentina,Australia,2,1,home team win,1,0,0,0,0,2022-12-03,3
+2022,WC-2022,M-2022-51,round of 16,France,Poland,3,1,home team win,1,0,0,0,0,2022-12-04,4
+2022,WC-2022,M-2022-52,round of 16,England,Senegal,3,0,home team win,1,0,0,0,0,2022-12-04,3
+2022,WC-2022,M-2022-53,round of 16,Japan,Croatia,1,1,away team win,0,1,0,1,1,2022-12-05,2
+2022,WC-2022,M-2022-54,round of 16,Brazil,South Korea,4,1,home team win,1,0,0,0,0,2022-12-05,5
+2022,WC-2022,M-2022-55,round of 16,Morocco,Spain,0,0,home team win,1,0,0,1,1,2022-12-06,0
+2022,WC-2022,M-2022-56,round of 16,Portugal,Switzerland,6,1,home team win,1,0,0,0,0,2022-12-06,7
+2022,WC-2022,M-2022-57,quarter-finals,Croatia,Brazil,1,1,home team win,1,0,0,1,1,2022-12-09,2
+2022,WC-2022,M-2022-58,quarter-finals,Netherlands,Argentina,2,2,away team win,0,1,0,1,1,2022-12-09,4
+2022,WC-2022,M-2022-59,quarter-finals,Morocco,Portugal,1,0,home team win,1,0,0,0,0,2022-12-10,1
+2022,WC-2022,M-2022-60,quarter-finals,England,France,1,2,away team win,0,1,0,0,0,2022-12-10,3
+2022,WC-2022,M-2022-61,semi-finals,Argentina,Croatia,3,0,home team win,1,0,0,0,0,2022-12-13,3
+2022,WC-2022,M-2022-62,semi-finals,France,Morocco,2,0,home team win,1,0,0,0,0,2022-12-14,2
+2022,WC-2022,M-2022-63,third-place match,Croatia,Morocco,2,1,home team win,1,0,0,0,0,2022-12-17,3
+2022,WC-2022,M-2022-64,final,Argentina,France,3,3,home team win,1,0,0,1,1,2022-12-18,6
