@@ -1,0 +1,3 @@
+year,model_pick,model_team,actual_winner,actual_rank,correct
+2018,Kylian Mbappé,France,Kylian Mbappé,1,True
+2022,Bukayo Saka,England,Enzo Fernández,50,False
